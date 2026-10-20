@@ -15,8 +15,6 @@ import json
 import os
 import sys
 
-from serpapi import GoogleSearch  # provided by the `google-search-results` package
-
 SERPAPI_KEY = os.environ.get("SERPAPI_KEY")
 TOP_N = 5
 
@@ -33,6 +31,8 @@ def serpapi_search(params):
             return None, f"MOCK=1 but {os.path.relpath(path)} does not exist yet"
         with open(path, encoding="utf-8") as f:
             return json.load(f), None
+    from serpapi import GoogleSearch  # provided by the `google-search-results` package
+
     try:
         results = GoogleSearch({**params, "api_key": SERPAPI_KEY}).get_dict()
     except Exception as e:  # network / connection problems
