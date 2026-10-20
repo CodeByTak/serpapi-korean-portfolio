@@ -1,7 +1,7 @@
 <!-- DRAFT -->
 # Naver vs Google 검색 결과 비교기
 
-Unofficial project made for my SerpApi application.
+Project made for my SerpApi application.
 
 ## 무엇을 하는 앱인가요?
 
@@ -30,16 +30,10 @@ npm ci
 npm run dev
 ```
 
-터미널에 출력된 주소를 엽니다. 기본 포트는 보통 `5173`입니다. 이 명령은 Vite 프런트엔드만 실행합니다. `/api/search` 함수는 실행하지 않으므로 직접 입력한 새 검색어까지 테스트하려면 다음 절차를 사용하세요.
+터미널에 출력된 주소를 엽니다. 기본 포트는 보통 `5173`입니다. `vite.config.js`의 개발 전용 플러그인이 `/api/search`도 기존 서버 핸들러로 연결합니다. 프리셋에는 키가 필요 없지만 직접 입력한 새 검색어에는 다음 설정이 필요합니다.
 
 ### 3. 본인의 SERPAPI_KEY로 실제 검색하기
 
-Vercel CLI의 `vercel dev`는 로컬에서 Vercel Functions를 실행할 수 있습니다.[2] CLI가 없다면 본인이 설치한 뒤 로그인합니다. 아래 설치 명령은 선택 사항이며 프로젝트 의존성에는 추가하지 않습니다.
-
-```sh
-npm install --global vercel
-vercel login
-```
 
 `app/.env.local`을 편집기로 만들고 본인의 키를 넣습니다. 실제 키는 문서, 소스 코드, 커밋, 채팅에 붙여 넣지 마세요. 아래 값은 형식 설명용입니다.
 
@@ -47,17 +41,17 @@ vercel login
 SERPAPI_KEY=YOUR_OWN_SERPAPI_KEY
 ```
 
-`.env.local`은 기존 `.gitignore`의 `.env.*` 규칙으로 제외됩니다. Vercel은 프로젝트의 `.env.local` 파일로 로컬 환경 변수를 설정할 수 있습니다.[3] `MOCK`는 설정하지 않거나 `0`으로 두세요. `VITE_SERPAPI_KEY`는 만들지 마세요. 키는 `api/search.js`의 서버 환경 변수로만 읽습니다.
+`.env.local`은 기존 `.gitignore`의 `.env.*` 규칙으로 제외됩니다. 개발 설정은 저장소 루트와 `app/`의 환경 파일에서 `SERPAPI_KEY`만 서버의 `process.env`로 읽습니다. `app/` 설정이 루트보다 우선하며 기존 프로세스 환경 변수는 덮어쓰지 않습니다. 키를 바꾸면 개발 서버를 재시작하세요. `MOCK`는 프로세스 환경에서 설정하지 않거나 `0`으로 두세요. `VITE_SERPAPI_KEY`는 만들지 마세요. 브라우저에 키를 전달하는 `define` 설정은 사용하지 않습니다.
 
-`app/`에서 실행합니다.[2]
+`app/`에서 실행합니다. 별도 CLI나 패키지는 필요하지 않습니다.
 
 ```sh
-vercel dev --listen 3000
+npm run dev
 ```
 
-최초 실행 시 로그인한 계정/팀을 선택하고 현재 폴더 `./`를 프로젝트로 설정합니다. 로컬용 새 프로젝트를 만들거나, 해당 폴더 구조에 맞는 기존 프로젝트에 연결합니다. GitHub 저장소 루트에서 연결하는 프로젝트는 아래 배포 절차의 Root Directory `app` 설정을 적용해야 합니다. `.vercel/` 연결 정보는 커밋하지 않습니다.
+`http://localhost:5173` 또는 터미널에 출력된 주소를 열고 예시 목록에 없는 검색어를 입력하면 실제 검색을 테스트할 수 있습니다. 이때 새 검색어 한 번은 Google과 Naver 각각 한 번, 최대 두 번의 SerpApi 검색 요청을 만듭니다. 예시 클릭만으로는 실제 검색 연결 여부를 확인할 수 없습니다.
 
-`http://localhost:3000`을 열고 예시 목록에 없는 검색어를 입력하면 실제 검색을 테스트할 수 있습니다. 이때 새 검색어 한 번은 Google과 Naver 각각 한 번, 최대 두 번의 SerpApi 검색 요청을 만듭니다. 예시 클릭만으로는 실제 검색 연결 여부를 확인할 수 없습니다.
+개발 전용 연결은 프로덕션 빌드에 포함되지 않습니다. Vercel 배포에서는 `api/search.js`가 함수로 실행됩니다. Vercel 환경을 별도로 재현하려면 Vercel CLI의 `vercel dev`를 사용할 수도 있습니다.[2]
 
 ## 캐시와 프리셋으로 검색 요청 줄이기
 
@@ -122,7 +116,7 @@ Vercel은 Vite 프로젝트를 지원하며, 저장소의 Root Directory와 빌�
 ## English summary
 
 Compare the top five Naver and Google Korea results for the same Korean query, with shared-domain highlights.
-Run Vite for saved presets, or use Vercel Dev with your own server-only SERPAPI_KEY for live searches.
+Run npm run dev with your own server-only SERPAPI_KEY for live searches; saved presets require no key.
 Deploy with app as the Vercel Root Directory; presets and per-instance caches reduce requests but do not guarantee global deduplication.
 
 ## Sources

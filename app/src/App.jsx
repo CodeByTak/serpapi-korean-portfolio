@@ -98,7 +98,7 @@ export default function App() {
           <div className="results-grid">{['naver', 'google'].map((engine) => <ResultColumn key={engine} engine={engine} items={data?.[engine] || []} error={failed || data?.errors?.[engine]} loading={loading} shared={shared} onRetry={() => runSearch(query)} />)}</div>
         </section>
       </main>
-      <footer><p lang="en">Unofficial project made for my SerpApi application.</p><a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span><span className="sr-only"> (새 탭)</span></a></footer>
+      <footer><p lang="en">Project made for my SerpApi application.</p><a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span><span className="sr-only"> (새 탭)</span></a></footer>
     </div>
   );
 }

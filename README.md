@@ -1,3 +1,3 @@
 # SerpApi Korean Portfolio
 
-Unofficial project made for my SerpApi application.
+Project made for my SerpApi application.
