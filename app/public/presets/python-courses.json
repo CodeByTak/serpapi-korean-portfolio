@@ -1,0 +1,61 @@
+{
+  "query": "파이썬 강의",
+  "google": [
+    {
+      "title": "무료 | 파이썬 입문",
+      "link": "https://school.programmers.co.kr/learn/courses/2",
+      "snippet": "파이썬 입문 강의는, · ‍ ‍ 초보자도 쉽게 시작할 수 있어요. · ⏰ 하루 15분만 활용하세요. · 필수 기본 문법을 실습과 함께 · 수강 후기 · 질문 & 답변 ..."
+    },
+    {
+      "title": "[무료강의] 파이썬 강의",
+      "link": "https://www.youtube.com/playlist?list=PLPxNVm9Igfy8MLfMOjMJxejCnJGsNpB_9",
+      "snippet": "[무료강의] 파이썬 강의 · [Python Coding Basics] Chapter 1: Preparing for Python · [Python Coding Basics] Chapter 2: Data Types and Type Conversion."
+    },
+    {
+      "title": "파이썬프로그래밍 - 연세대학교 | KOCW 공개 강의",
+      "link": "http://www.kocw.net/home/cview.do?mty=p&kemId=1397576&ar=relateCourse",
+      "snippet": "파이썬프로그램 언어의 소개와 활용도를 설명하고, 프로그래밍을 위한 소프트웨어와 환경 설치에 대하여 설명한다. URL. 2. 비디오, 파이썬프로그래밍 기초 ..."
+    },
+    {
+      "title": "01. 파이썬 시작하기 - 왕초보를 위한 Python",
+      "link": "https://wikidocs.net/43",
+      "snippet": "이 강좌는 프로그래밍을 처음 하는 분들을 위해서 파이썬을 통해 프로그래밍의 기초를 차근차근 익힐 수 있도록 진행하려고 합니다. 우리 함께 파이썬 탐험을 떠나 ..."
+    },
+    {
+      "title": "파이썬 독학을 위한 python 기초 강좌 100개 정리",
+      "link": "https://blog.naver.com/nkj2001/222772183777",
+      "snippet": "파이썬 강좌 -1강#프로그래밍 / 코딩이란? 2. 파이썬 강좌 - 2강#왜 파이썬인가? 3. 파이썬 강의 - 3강#파이썬 설치하기. 4. 파이썬 강의 - 4강#개발환경."
+    }
+  ],
+  "naver": [
+    {
+      "title": "파이썬 (Python) 으로 배우는 프로그래밍 기초 (CS101)",
+      "link": "https://www.starmooc.kr/courses/66d907b71a81df436408e96d",
+      "snippet": ""
+    },
+    {
+      "title": "온라인학습 | 안녕, 파이썬! 생성형AI로 데이터 분석해줘!",
+      "link": "https://www.gseek.kr/course/online/digital/it-technology/python-generative-ai-analysis",
+      "snippet": "Python과 AI 기술을 활용한 데이터 기반 업무 혁신으로 업무 프로세스 최적화, 핵심 업무에 역량과 전략적 사고에 집중할 수 있습니다. AI 기술을 활용한 데이터 중심의 의사결정으로 Smart WORK를 시작하세요! 다양한 데이터셋으로 데이터 분석 및 시각화를 함께 실습합니다. 회계 처리 자동화, 매출 트렌드 분석 및 예측 모델링, 머신런 기반 개인화 추천 알고리즘 구현, 실시간 모니......"
+    },
+    {
+      "title": "[온라인강의로 상시 수업 진행] HTML CSS C언어 파이썬을 빠르게 공부하자 자유이용권 할인 이벤트 ....",
+      "link": "https://onoffmix.com/event/233812",
+      "snippet": "[별도 프로그램설치 필요 없음] html css c언어 파이썬을 실무위주로 공부하자 초보자도 가능, 자유이용권 할인이벤트 진행 중!!"
+    },
+    {
+      "title": "파이썬 무료 강의 (기본편) - 6시간 뒤면 나도 개발자",
+      "link": "https://www.inflearn.com/course/%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EB%B3%B8?cid=324835",
+      "snippet": "6시간. 여러분이 파이썬 개발자가 되는데 필요한 시간입니다. 핵심 내용만 선정 / 챕터마다 퀴즈 & 해설 / 실생활 기반 예제로 아주 쉽게 설명합니다. 그리고 완전 무료입니다."
+    },
+    {
+      "title": "무료 | 파이썬 입문",
+      "link": "https://school.programmers.co.kr/learn/courses/2",
+      "snippet": "🧑🏻💻👩🏻💻 초보자도 쉽게 시작할 수 있어요. 파이썬이 무엇인지 하나도 몰라도 괜찮아요. 초보자의 눈높이에 맞춰 파이썬 설치부터 함께 하며 누구나 알아들을 수 있게 쉬운 용어로 설명했습니다."
+    }
+  ],
+  "errors": {
+    "google": null,
+    "naver": null
+  }
+}

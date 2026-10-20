@@ -1,0 +1,532 @@
+{
+  "search_metadata": {
+    "id": "6ad71261fc9248ca2b66291b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CIjfUba6oJ6Hq9hfW1XecgBzSTqWaioLaE1ICyjsq6U/6ad71261fc9248ca2b66291b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CIjfUba6oJ6Hq9hfW1XecgBzSTqWaioLaE1ICyjsq6U/6ad71261fc9248ca2b66291b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/CIjfUba6oJ6Hq9hfW1XecgBzSTqWaioLaE1ICyjsq6U/6ad71261fc9248ca2b66291b.json_with_pixel_position",
+    "created_at": "2026-10-20 07:04:01 UTC",
+    "processed_at": "2026-10-20 07:04:01 UTC",
+    "google_url": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&oq=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&uule=w+CAIQICIRU2VvdWwsU291dGggS29yZWE&hl=ko&gl=kr&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/CIjfUba6oJ6Hq9hfW1XecgBzSTqWaioLaE1ICyjsq6U/6ad71261fc9248ca2b66291b.html",
+    "total_time_taken": 14.33
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "카페 추천 강남",
+    "location_requested": "Seoul, South Korea",
+    "location_used": "Seoul,South Korea",
+    "google_domain": "google.com",
+    "hl": "ko",
+    "gl": "kr",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "카페 추천 강남",
+    "total_results": 130,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling",
+    "results_for": "강남구"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&udm=local&lsack=bBLXaq24Ko3hp84PqL_wqAY&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQtgN6BAgjEAM",
+    "image": "https://serpapi.com/searches/6ad71261fc9248ca2b66291b/images/5vvHRWQo81OTbmiZhJqAGQ.png",
+    "gps_coordinates": {
+      "latitude": 37.501010429493284,
+      "longitude": 127.02924728393556
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "title": "셀렉티드닉스 (Selected Nick's) 강남역점 [セレクティドニックス]｜韓国カフェ | 江南駅カフェ",
+        "type": "카페",
+        "rating": 4.9,
+        "reviews": 1700,
+        "price": "₩10,000~20,000",
+        "description": "\"강남역에서 5분거리도 안되게 가깝고 큰 대형카페에요!!!\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfuBlnEoAERWy3WThdKDzgBotJMMUooLbdbtPRz8L33Be32POkXPk70WMPVn-Hp_ESv2-97dswoxpi0rjKFHbyYUxURZcdojJ49EMF93i9TVrXzU_KBESzPus3hcAChsU5K6V5fH7iCVQf2=w92-h92-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/AABkmLfuBlnEoAERWy3WThdKDzgBotJMMUooLbdbtPRz8L33Be32POkXPk70WMPVn-Hp_ESv2-97dswoxpi0rjKFHbyYUxURZcdojJ49EMF93i9TVrXzU_KBESzPus3hcAChsU5K6V5fH7iCVQf2=w1000-h1000-c-n",
+        "links": {
+          "phone": "tel:010-2636-5905",
+          "website": "https://www.instagram.com/sltdnicks/"
+        },
+        "place_id": "16951720030814984608",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&ludocid=16951720030814984608&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8",
+        "provider_id": "/g/11vzs25q7v",
+        "gps_coordinates": {
+          "latitude": 37.496193,
+          "longitude": 127.03087
+        },
+        "address": "서울특별시 강남구 테헤란로4길 37",
+        "hours": "영업 중 · 오전 12:00에 영업 종료",
+        "phone": "010-2636-5905"
+      },
+      {
+        "position": 2,
+        "title": "썸띵어바웃커피",
+        "type": "카페",
+        "rating": 4.8,
+        "reviews": 1137,
+        "price": "₩10,000~20,000",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLJdyJFDHLVXljG-dIa3YXG5dSJcuSm6I69pUxnJW6bUFELLnvsWdwVkXBvawZGr2jrX8ShBST5x47veUE3dpPqpMfs3K0H_Ohqqqt1-GsiLNpfPLHPVZlVoxU3hnxDRzgbkE=w92-h92-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLJdyJFDHLVXljG-dIa3YXG5dSJcuSm6I69pUxnJW6bUFELLnvsWdwVkXBvawZGr2jrX8ShBST5x47veUE3dpPqpMfs3K0H_Ohqqqt1-GsiLNpfPLHPVZlVoxU3hnxDRzgbkE=w1000-h1000-c-n",
+        "service_options": {
+          "매장_내_식사": true,
+          "테이크아웃": true,
+          "배달이_안_됨": true
+        },
+        "links": {
+          "phone": "tel:02-538-6991",
+          "website": "https://instagram.com/something_about_coffee_"
+        },
+        "place_id": "6356681721665570265",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&ludocid=6356681721665570265&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8",
+        "provider_id": "/g/11hfw25vq2",
+        "gps_coordinates": {
+          "latitude": 37.50283,
+          "longitude": 127.027834
+        },
+        "address": "서울특별시 강남구 강남대로102길 30",
+        "hours": "영업 중 · 오후 10:30에 영업 종료",
+        "phone": "02-538-6991"
+      },
+      {
+        "position": 3,
+        "title": "어퍼앤언더",
+        "type": "커피숍/커피 전문점",
+        "rating": 4.9,
+        "reviews": 1067,
+        "price": "₩10,000~20,000",
+        "description": "\"예쁜나무가있는 강남카페 인데 3층까지있고 자리도많아서 강남갈때 가끔들리는곳!\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkWj42uYJDdUbmStqRgX9o-4B-oaVSNutEQ-fK8xwjkXuLxTIciyXZlLUMPNV5DEz_9ydID34pLuyB-GFEz4tUsuDhPQoMt1Xz0rvuvq8YUFTG_j8N91pmw-IPI-4uu3XDHIE=w92-h92-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkWj42uYJDdUbmStqRgX9o-4B-oaVSNutEQ-fK8xwjkXuLxTIciyXZlLUMPNV5DEz_9ydID34pLuyB-GFEz4tUsuDhPQoMt1Xz0rvuvq8YUFTG_j8N91pmw-IPI-4uu3XDHIE=w1000-h1000-c-n",
+        "links": {
+          "phone": "tel:02-557-6991",
+          "website": "https://instagram.com/upperand_under"
+        },
+        "place_id": "16749393480022067022",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&ludocid=16749393480022067022&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8",
+        "provider_id": "/g/11pts5s9td",
+        "gps_coordinates": {
+          "latitude": 37.502699,
+          "longitude": 127.027708
+        },
+        "address": "서울특별시 강남구 강남대로102길 28",
+        "hours": "영업 중 · 오후 10:00에 영업 종료",
+        "phone": "02-557-6991"
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&udm=local&lsack=bBLXaq24Ko3hp84PqL_wqAY&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQjGp6BAgiEAE"
+  },
+  "related_questions": [
+    {
+      "question": "강남에서 좋은 카페는 어디인가요?",
+      "type": "featured_snippet",
+      "next_page_token": "REDACTED",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=REDACTED"
+    },
+    {
+      "question": "강남에서 공부하기 좋은 카페는 어디인가요?",
+      "type": "featured_snippet",
+      "next_page_token": "REDACTED",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=REDACTED"
+    },
+    {
+      "question": "강남에서 2026년에 추천하는 맛집은 어디인가요?",
+      "type": "featured_snippet",
+      "next_page_token": "REDACTED",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=REDACTED"
+    },
+    {
+      "question": "강남역 근처에 꼭 가봐야 할 스페셜티 카페는 어디인가요?",
+      "type": "featured_snippet",
+      "next_page_token": "REDACTED",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=REDACTED"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "[강남역 카페 추천] 강남 주민이 아껴놓고 몰래 다닌 조용한 ...",
+      "link": "https://blog.naver.com/wtd4765/224043637748?viewType=pc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAV8QMdY-AvU7JBNBdAMH-cVc-TFrXfzRsuVKG4wWZFgzfUeKPXv5ZIvk9VdSj9ZyufC5q7D8WkfzitveeqPacL9lFP3detaZ551MpSPjG2lH9YBVmWSoFouw2p7ylT612knk3uwh0B4IVnJkN8hA&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://blog.naver.com › wtd4765",
+      "thumbnail": "https://serpapi.com/searches/6ad71261fc9248ca2b66291b/images/Zx2QIQlu_MjzuQBEz3KtWU0d9Caxr8jsGWG8ze4jK7Q.jpeg",
+      "date": "2025. 10. 16.",
+      "snippet": "귀찮을 때 가면 매우 합리적인 선택! ​. 까치화방 강남역점. 4층까지 있지만 조용해서 소개팅하러 많이 오는 플라워카페. 주소: 서울 강남구 봉은사 ...",
+      "snippet_highlighted_words": [
+        "까치화방 강남역점"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "귀찮을 때 가면 매우 합리적인 선택! ​. 까치화방 강남역점. 4층까지 있지만 조용해서 소개팅하러 많이 오는 플라워카페. 주소: 서울 강남구 봉은사 ...",
+          "source_info_link": "https://blog.naver.com/wtd4765/224043637748?viewType=pc"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVkUyS21ObkJLb3BXT1pYUzR4RzctWEVpUmNTamRaNDByQTVNRG1NSUQ1My1RUS1sRnpFMWNBOHdLMklwYW9iRHBLU2tVMVU1NlN0MXNVWTNUYXJqX3ZEVUVsRnF4dEJKRE1TcU1DazJjdVRjTFBvQkdldFVmWVIwZG1Sa09LZFZTRlNQZU1FU0hUeTdxMXNSTGFnEgQaAggAGtwEEgAaAggBIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAtgQICRAAGAAgACoTCgbsubTtjpgVF9K7QBoEY2FmZSoNCgbstpTsspwVrH6LQCojCgbqsJXrgqgVcuF9QBoJ6rCV64Ko6rWsGgnqsJXrgqjsl60yqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWRTJLbU5uQktvcFdPWlhTNHhHNy1YRWlSY1NqZFo0MHJBNU1EbU1JRDUzLVFRLWxGekUxY0E4d0sySXBhb2JEcEtTa1UxVTU2U3Qxc1VZM1RhcmpfdkRVRWxGcXh0QkpETVNxTUNrMmN1VGNMUG9CR2V0VWZZUjBkbVJrT0tkVlNGU1BlTUVTSFR5N3Exc1JMYWc6YVs8Yj7qsJXrgqjsl60g7Lm07Y6YIOy2lOyynDwvYj5dIDxiPuqwleuCqDwvYj4g7KO866-87J20IOyVhOq7tOuGk-qzoCDrqrDrnpgg64uk64uMIOyhsOyaqe2VnCAuLi5C1AHqt4DssK7snYQg65WMIOqwgOuptCDrp6TsmrAg7ZWp66as7KCB7J24IOyEoO2DnSEg4oCLLiA8Yj7quYzsuZjtmZTrsKkg6rCV64Ko7Jet7KCQPC9iPi4gNOy4teq5jOyngCDsnojsp4Drp4wg7KGw7Jqp7ZW07IScIOyGjOqwnO2Mhe2VmOufrCDrp47snbQg7Jik64qUIO2UjOudvOybjOy5tO2OmC4g7KO87IaMOiDshJzsmrgg6rCV64Ko6rWsIOu0ieydgOyCrCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVkUyS21ObkJLb3BXT1pYUzR4RzctWEVpUmNTamRaNDByQTVNRG1NSUQ1My1RUS1sRnpFMWNBOHdLMklwYW9iRHBLU2tVMVU1NlN0MXNVWTNUYXJqX3ZEVUVsRnF4dEJKRE1TcU1DazJjdVRjTFBvQkdldFVmWVIwZG1Sa09LZFZTRlNQZU1FU0hUeTdxMXNSTGFnEgQaAggAGtwEEgAaAggBIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAtgQICRAAGAAgACoTCgbsubTtjpgVF9K7QBoEY2FmZSoNCgbstpTsspwVrH6LQCojCgbqsJXrgqgVcuF9QBoJ6rCV64Ko6rWsGgnqsJXrgqjsl60yqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWRTJLbU5uQktvcFdPWlhTNHhHNy1YRWlSY1NqZFo0MHJBNU1EbU1JRDUzLVFRLWxGekUxY0E4d0sySXBhb2JEcEtTa1UxVTU2U3Qxc1VZM1RhcmpfdkRVRWxGcXh0QkpETVNxTUNrMmN1VGNMUG9CR2V0VWZZUjBkbVJrT0tkVlNGU1BlTUVTSFR5N3Exc1JMYWc6YVs8Yj7qsJXrgqjsl60g7Lm07Y6YIOy2lOyynDwvYj5dIDxiPuqwleuCqDwvYj4g7KO866-87J20IOyVhOq7tOuGk-qzoCDrqrDrnpgg64uk64uMIOyhsOyaqe2VnCAuLi5C1AHqt4DssK7snYQg65WMIOqwgOuptCDrp6TsmrAg7ZWp66as7KCB7J24IOyEoO2DnSEg4oCLLiA8Yj7quYzsuZjtmZTrsKkg6rCV64Ko7Jet7KCQPC9iPi4gNOy4teq5jOyngCDsnojsp4Drp4wg7KGw7Jqp7ZW07IScIOyGjOqwnO2Mhe2VmOufrCDrp47snbQg7Jik64qUIO2UjOudvOybjOy5tO2OmC4g7KO87IaMOiDshJzsmrgg6rCV64Ko6rWsIOu0ieydgOyCrCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Naver Blog"
+    },
+    {
+      "position": 2,
+      "title": "[분위기부터 좋은 강남역 예쁜카페 10곳 총정리!❤️] 신논현 ...",
+      "link": "https://www.instagram.com/p/CrN0b-PBfat/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVmYAuqvbEx0VaKlq33nY1HO9aNxJG52EwcW0doya6yf3LOMeHOX05hpoSDglf53W_BSrMOtICDzsbKF8KUz-7aoqj491lCMU47crBSAHykn2ANbuRy5Os6heMvS7WRw&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQFnoECEIQAQ&uoh=1",
+      "displayed_link": "좋아요 300개 이상 · 3년 전",
+      "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+      "snippet": "강남역에서 넓고 분위기 좋은 수제 디저트 카페 찾으신다면 무조건 추천합니다! ❤️ 썸띵어바웃커피 * 위치: 서울 강남구 (강남역·신논현역 ...",
+      "snippet_highlighted_words": [
+        "썸띵어바웃커피"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "강남역에서 넓고 분위기 좋은 수제 디저트 카페 찾으신다면 무조건 추천합니다! ❤️ 썸띵어바웃커피 * 위치: 서울 강남구 (강남역·신논현역 ...",
+          "source_info_link": "https://www.instagram.com/p/CrN0b-PBfat/",
+          "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmktRjROZ2pHcmhYUThsdk5pMF9mYS1COXY0NWZQNWt4UmMtYUdTX2FscVVfdjVRYVo0NWtzWmJ0NHd4QjVsRnFmYmFydlI0dEh2NWhzNjVjdGJ6Y3ZHcVRHYlJpeWk5UXJSN0lfdUtlemRtQUx6VjJ0ei1kUmxOdHdUQUh3QRIEGgIIABq-BBIAGgAiACoAMgYIARICa3I6AEIECAEQCUoAWgByAHoAgkCaBAgJEAAYACAAKhMKBuy5tO2OmBVc8KpAGgRjYWZlKg0KBuy2lOyynBWOrqw-KiMKBuqwleuCqBWRGHlAGgnqsJXrgqjqtawaCeqwleuCqOyXrTKUAS9nb3RvP3VybD1DQUVTWXdIck96QVZpLUY0TmdqR3JoWFE4bHZOaTBfZmEtQjl2NDVmUDVreFJjLWFHU19hbHFVX3Y1UWFaNDVrc1pidDR3eEI1bEZxZmJhcnZSNHRIdjVoczY1Y3RiemN2R3FUR2JSaXlpOVFyUjdJX3VLZXpkbUFMelYydHotZFJsTnR3VEFId0E6YlvrtoTsnITquLDrtoDthLAg7KKL7J2AIDxiPuqwleuCqOyXrTwvYj4g7JiI7IGcPGI-7Lm07Y6YPC9iPiAxMOqzsyDstJ3soJXrpqwh4p2k77iPXSDsi6DrhbztmIQgLi4uQssB6rCV64Ko7Jet7JeQ7IScIOuEk-qzoCDrtoTsnITquLAg7KKL7J2AIOyImOygnCDrlJTsoIDtirgg7Lm07Y6YIOywvuycvOyLoOuLpOuptCDrrLTsobDqsbQg7LaU7LKc7ZWp64uI64ukISDinaTvuI8gPGI-7I2465217Ja067CU7JuD7Luk7ZS8PC9iPiAqIOychOy5mDog7ISc7Jq4IOqwleuCqOq1rCAo6rCV64Ko7Jetwrfsi6DrhbztmITsl60mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmktRjROZ2pHcmhYUThsdk5pMF9mYS1COXY0NWZQNWt4UmMtYUdTX2FscVVfdjVRYVo0NWtzWmJ0NHd4QjVsRnFmYmFydlI0dEh2NWhzNjVjdGJ6Y3ZHcVRHYlJpeWk5UXJSN0lfdUtlemRtQUx6VjJ0ei1kUmxOdHdUQUh3QRIEGgIIABq-BBIAGgAiACoAMgYIARICa3I6AEIECAEQCUoAWgByAHoAgkCaBAgJEAAYACAAKhMKBuy5tO2OmBVc8KpAGgRjYWZlKg0KBuy2lOyynBWOrqw-KiMKBuqwleuCqBWRGHlAGgnqsJXrgqjqtawaCeqwleuCqOyXrTKUAS9nb3RvP3VybD1DQUVTWXdIck96QVZpLUY0TmdqR3JoWFE4bHZOaTBfZmEtQjl2NDVmUDVreFJjLWFHU19hbHFVX3Y1UWFaNDVrc1pidDR3eEI1bEZxZmJhcnZSNHRIdjVoczY1Y3RiemN2R3FUR2JSaXlpOVFyUjdJX3VLZXpkbUFMelYydHotZFJsTnR3VEFId0E6YlvrtoTsnITquLDrtoDthLAg7KKL7J2AIDxiPuqwleuCqOyXrTwvYj4g7JiI7IGcPGI-7Lm07Y6YPC9iPiAxMOqzsyDstJ3soJXrpqwh4p2k77iPXSDsi6DrhbztmIQgLi4uQssB6rCV64Ko7Jet7JeQ7IScIOuEk-qzoCDrtoTsnITquLAg7KKL7J2AIOyImOygnCDrlJTsoIDtirgg7Lm07Y6YIOywvuycvOyLoOuLpOuptCDrrLTsobDqsbQg7LaU7LKc7ZWp64uI64ukISDinaTvuI8gPGI-7I2465217Ja067CU7JuD7Luk7ZS8PC9iPiAqIOychOy5mDog7ISc7Jq4IOqwleuCqOq1rCAo6rCV64Ko7Jetwrfsi6DrhbztmITsl60mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Instagram · gangnamhotple"
+    },
+    {
+      "position": 3,
+      "title": "나만 알고싶은 강남 카페 추천 BEST 5 후기 - 여행가는 고영희",
+      "link": "https://traveling-cat.tistory.com/entry/%EB%82%98%EB%A7%8C-%EC%95%8C%EA%B3%A0%EC%8B%B6%EC%9D%80-%EA%B0%95%EB%82%A8-%EC%B9%B4%ED%8E%98-%EC%B6%94%EC%B2%9C-BEST-5-%ED%9B%84%EA%B8%B0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES7gEB6zswFVPMxnYFD1adMgVzXNaWXrA4bQDYTOYQXlcRry2alFLdBkaqhjHuJnPWDg9RDOJj4dr5QgcLxuSuUR90bd8DDdTJR3Z8GMLZG009YXoheEPvvmekHdRacedG1OBpx_AcPijdxuS9iuParBujC4CmvcvLpiW6aC2Vif79so5g-CR6_2Tg39YFWcG1C73OZNwxagWFTmvfF93ZPd_FgkFdfdpUbIpQFbYG5hVIGP8PF8o4InSI5VnBGJkGzv2lqvJwnxIMlsmqlN2oZBiDdK17ZcrwXY-MzejZuBqAXk8mnSk_jZVEI-gh6UJo&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQFnoECEMQAQ&uoh=1",
+      "displayed_link": "https://traveling-cat.tistory.com › entry › 나만-알고싶...",
+      "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnnKeSd5Trrn7gggNYaY7tUjHTdy8pN4e9sULR2CYK0UfwAP72D6k7QeL_rnGlfapVh7sVwKtmhUXGKqg_2ialX_Usc1xnewo43QcJj5Gs-r4AUjTfDyfKShD2x7s9t2bnU5xS3WWU3wWPtqbhiHCUQ-Wf_vskQhgY7J3DZOJTTs2E77D57B1lbJCwuWRYxcMur8cRetfKoAfMDfa-xu6di_gi6AsW1e1QUpX1eEVgHamPiFsUEhKwshwI_9pH4Ip4nWKIP-MlPZ8F7wmvjtc_Ei78c2bDaej1LHE4mzJbSmekHLUrtul7AAPycCUC1cn8a5ClpW_blhYwdyHuDK9rr3hsfAsI2Y_eG-Pl1SWSv_ySAAA.webp",
+      "date": "2026. 7. 12.",
+      "snippet": "나만 알고싶은 강남 카페 추천 BEST 5 후기 · 1. 에이비카페 · 2. 퍼스트커피랩 강남점 · 3. 테라로사 포스코센터점 · 4. 스탠다드브레드 도산 · 5. 공원 ...",
+      "snippet_highlighted_words": [
+        "1. 에이비카페"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "나만 알고싶은 강남 카페 추천 BEST 5 후기 · 1. 에이비카페 · 2. 퍼스트커피랩 강남점 · 3. 테라로사 포스코센터점 · 4. 스탠다드브레드 도산 · 5. 공원 ...",
+          "source_info_link": "https://traveling-cat.tistory.com/entry/%EB%82%98%EB%A7%8C-%EC%95%8C%EA%B3%A0%EC%8B%B6%EC%9D%80-%EA%B0%95%EB%82%A8-%EC%B9%B4%ED%8E%98-%EC%B6%94%EC%B2%9C-BEST-5-%ED%9B%84%EA%B8%B0",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnnKeSd5Trrn7gggNYaY7tUjHTdy8pN4e9sULR2CYK0UfwAP72D6k7QeL_rnGlfapVh7sVwKtmhUXGKqg_2ialX_Usc1xnewo43QcJj5Gs-r4AUjTfDyfKShD2x7s9t2bnU5xS3WWU3wWPtqbhiHCUQ-Wf_vskQhgY7J3DZOJTTs2E77D57B1lbJCwuWRYxcMur8cRetfKoAfMDfa-xu6di_gi6AsW1e1QUpX1eEVgHamPiFsUEhKwshwI_9pH4Ip4nWKIP-MlPZ8F7wmvjtc_Ei78c2bDaej1LHE4mzJbSmekHLUrtul7AAPycCUC1cn8a5ClpW_blhYwdyHuDK9rr3hsfAsI2Y_eG-Pl1SWSv_ySAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4CL2dvdG8_dXJsPUNBRVM3Z0VCNnpzd0ZVcjdENVVrN3B6cEdyX3B2WWt4dXZOQjhPWjhiODNrM1U2bnpuckZZcHJteDd3a1ZjZGswSHI4cGFUMXFSdTZJc3dUcm9YYU1DZ1ljV0VIRDk2V2hwTHE4TFd0MVVQZW1WZzFvRnpmZkhSNjhjT3lCdHRNSVRjbm0zcGloSXctN2daa1dFcFNtdGJSLWJzc2xiVWV6OVRqVEVYS0RjVXF4NVJrTDRaMGNtdUNPMnFrX0dScDJJYWFGY0hPZ3JoN0tuR1MwUDZfdkpXZXVrcXFELWVaZWE3bXdveUxJMENWZG5RcFVtZHAyUjAzZHlOSENSdHJVd194aHhCYS1hcGVmVXlNc1hFWmdxQUMzU2FPdWl0UkpuTVVTaFYweXdETUpNNDZGc25BTEkwUUJZZlJmeW5IOTdZZBIEGgIIABqUBhIAGgAiACoAMgYIARICa3I6AEIECAEQCUoAWgByAHoAgkDwBQgJEAAYACAAKhMKBuy5tO2OmBXUuLhAGgRjYWZlKg0KBuy2lOyynBWgVpdAKiMKBuqwleuCqBV0AZdAGgnqsJXrgqjqtawaCeqwleuCqOyXrTLOAi9nb3RvP3VybD1DQUVTN2dFQjZ6c3dGVXI3RDVVazdwenBHcl9wdllreHV2TkI4T1o4YjgzazNVNm56bnJGWXBybXg3d2tWY2RrMEhyOHBhVDFxUnU2SXN3VHJvWGFNQ2dZY1dFSEQ5NldocExxOExXdDFVUGVtVmcxb0Z6ZmZIUjY4Y095QnR0TUlUY25tM3BpaEl3LTdnWmtXRXBTbXRiUi1ic3NsYlVlejlUalRFWEtEY1VxeDVSa0w0WjBjbXVDTzJxa19HUnAySWFhRmNIT2dyaDdLbkdTMFA2X3ZKV2V1a3FxRC1lWmVhN213b3lMSTBDVmRuUXBVbWRwMlIwM2R5TkhDUnRyVXdfeGh4QmEtYXBlZlV5TXNYRVpncUFDM1NhT3VpdFJKbk1VU2hWMHl3RE1KTTQ2RnNuQUxJMFFCWWZSZnluSDk3WWQ6VuuCmOunjCDslYzqs6Dsi7bsnYAgPGI-6rCV64KoIOy5tO2OmCDstpTsspw8L2I-IEJFU1QgNSDtm4TquLAgLSDsl6ztlonqsIDripQg6rOg7JiB7Z2sQvMB64KY66eMIOyVjOqzoOyLtuydgCDqsJXrgqgg7Lm07Y6YIOy2lOyynCBCRVNUIDUg7ZuE6riwICZtaWRkb3Q7IDxiPjEuIOyXkOydtOu5hOy5tO2OmDwvYj4gJm1pZGRvdDsgMi4g7Y287Iqk7Yq47Luk7ZS8656pIOqwleuCqOygkCAmbWlkZG90OyAzLiDthYzrnbzroZzsgqwg7Y-s7Iqk7L2U7IS87YSw7KCQICZtaWRkb3Q7IDQuIOyKpO2DoOuLpOuTnOu4jOugiOuTnCDrj4TsgrAgJm1pZGRvdDsgNS4g6rO17JuQJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4CL2dvdG8_dXJsPUNBRVM3Z0VCNnpzd0ZVcjdENVVrN3B6cEdyX3B2WWt4dXZOQjhPWjhiODNrM1U2bnpuckZZcHJteDd3a1ZjZGswSHI4cGFUMXFSdTZJc3dUcm9YYU1DZ1ljV0VIRDk2V2hwTHE4TFd0MVVQZW1WZzFvRnpmZkhSNjhjT3lCdHRNSVRjbm0zcGloSXctN2daa1dFcFNtdGJSLWJzc2xiVWV6OVRqVEVYS0RjVXF4NVJrTDRaMGNtdUNPMnFrX0dScDJJYWFGY0hPZ3JoN0tuR1MwUDZfdkpXZXVrcXFELWVaZWE3bXdveUxJMENWZG5RcFVtZHAyUjAzZHlOSENSdHJVd194aHhCYS1hcGVmVXlNc1hFWmdxQUMzU2FPdWl0UkpuTVVTaFYweXdETUpNNDZGc25BTEkwUUJZZlJmeW5IOTdZZBIEGgIIABqUBhIAGgAiACoAMgYIARICa3I6AEIECAEQCUoAWgByAHoAgkDwBQgJEAAYACAAKhMKBuy5tO2OmBXUuLhAGgRjYWZlKg0KBuy2lOyynBWgVpdAKiMKBuqwleuCqBV0AZdAGgnqsJXrgqjqtawaCeqwleuCqOyXrTLOAi9nb3RvP3VybD1DQUVTN2dFQjZ6c3dGVXI3RDVVazdwenBHcl9wdllreHV2TkI4T1o4YjgzazNVNm56bnJGWXBybXg3d2tWY2RrMEhyOHBhVDFxUnU2SXN3VHJvWGFNQ2dZY1dFSEQ5NldocExxOExXdDFVUGVtVmcxb0Z6ZmZIUjY4Y095QnR0TUlUY25tM3BpaEl3LTdnWmtXRXBTbXRiUi1ic3NsYlVlejlUalRFWEtEY1VxeDVSa0w0WjBjbXVDTzJxa19HUnAySWFhRmNIT2dyaDdLbkdTMFA2X3ZKV2V1a3FxRC1lWmVhN213b3lMSTBDVmRuUXBVbWRwMlIwM2R5TkhDUnRyVXdfeGh4QmEtYXBlZlV5TXNYRVpncUFDM1NhT3VpdFJKbk1VU2hWMHl3RE1KTTQ2RnNuQUxJMFFCWWZSZnluSDk3WWQ6VuuCmOunjCDslYzqs6Dsi7bsnYAgPGI-6rCV64KoIOy5tO2OmCDstpTsspw8L2I-IEJFU1QgNSDtm4TquLAgLSDsl6ztlonqsIDripQg6rOg7JiB7Z2sQvMB64KY66eMIOyVjOqzoOyLtuydgCDqsJXrgqgg7Lm07Y6YIOy2lOyynCBCRVNUIDUg7ZuE6riwICZtaWRkb3Q7IDxiPjEuIOyXkOydtOu5hOy5tO2OmDwvYj4gJm1pZGRvdDsgMi4g7Y287Iqk7Yq47Luk7ZS8656pIOqwleuCqOygkCAmbWlkZG90OyAzLiDthYzrnbzroZzsgqwg7Y-s7Iqk7L2U7IS87YSw7KCQICZtaWRkb3Q7IDQuIOyKpO2DoOuLpOuTnOu4jOugiOuTnCDrj4TsgrAgJm1pZGRvdDsgNS4g6rO17JuQJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "티스토리"
+    },
+    {
+      "position": 4,
+      "title": "감성 충만, 강남의 옥상 카페들 | 강남구청 > 뉴스룸 > 웹진",
+      "link": "https://www.gangnam.go.kr/gangnamlife/view.html?code=2_5&bdm_bbs_key=731",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFeBDG7w7PKyRjDUAVDLwhge1_vcC9ibAOuQ4oPbOv600AlIS0DiuOkXDvHRWJOfC9hMp6Gu7TPOAfxOy96Gxgk4lLafLryjT3Ul1ZK62m5p5R6jfFVtXtyqkjrnJ7zuDaR8zPIAMvP57l3PrQSXU-HSkNCvCQoQaZe06meU3zQ&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQFnoECEEQAQ&uoh=1",
+      "displayed_link": "https://www.gangnam.go.kr › gangnamlife › view",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEwWQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8Sc_JxAAAADXRSTlMAx8uLaKCUDQTnSSUt07lwSAAAALBJREFUKJFtkukWRREIhSOz4_1f95LhJu1flk-7QQCvqsOARQEQsU3lKFHy7SjTTbCmy4Z-bFzkbOfZSogMGgmHFTjfFfIDKTLRizfS7TKdYltXB0XLueI-rSBcgWq1a0JWg_4UowwhMdNTg7368Dc0x2b8UdPgNAXU4Ld6lH0PuNegKpAPVcLD7pQEcxhfSC-ClnP38kSypYEiIVs3gPxHPslVjZvis8Xk3LffVQX8AFt6FaF0cjk2AAAAAElFTkSuQmCC.png",
+      "snippet": "디자이너스 호텔 13층에 자리한 다이닝 라운지 '메리가든'은 아는 이만 즐겨 찾는 아지트 같은 곳이다. 강남이 한눈에 내려다보이는 이곳에서는 굳이 야경을 고집하지 ...",
+      "snippet_highlighted_words": [
+        "강남"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "디자이너스 호텔 13층에 자리한 다이닝 라운지 '메리가든'은 아는 이만 즐겨 찾는 아지트 같은 곳이다. 강남이 한눈에 내려다보이는 이곳에서는 굳이 야경을 고집하지 ...",
+          "source_info_link": "https://www.gangnam.go.kr/gangnamlife/view.html?code=2_5&bdm_bbs_key=731",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEwWQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8WQY8Sc_JxAAAADXRSTlMAx8uLaKCUDQTnSSUt07lwSAAAALBJREFUKJFtkukWRREIhSOz4_1f95LhJu1flk-7QQCvqsOARQEQsU3lKFHy7SjTTbCmy4Z-bFzkbOfZSogMGgmHFTjfFfIDKTLRizfS7TKdYltXB0XLueI-rSBcgWq1a0JWg_4UowwhMdNTg7368Dc0x2b8UdPgNAXU4Ld6lH0PuNegKpAPVcLD7pQEcxhfSC-ClnP38kSypYEiIVs3gPxHPslVjZvis8Xk3LffVQX8AFt6FaF0cjk2AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZTV2hiNVpuaWt6NWVhTFZzQzE4MWNjWkRQRlJ4OFB6YVYtWmsyR1hwX3NrUXlXSEVoSXRVU3k4V0laTFp2ZWZVOGZlaHp5YW9BUnhQVXppNXlGQloySU9rcldRUGt1TVkzbDd6cWtvd3prN1ZiRlgzRXZKT3F6UFpTdFhhZVVDLW5hS3hzWHJ4Q0xLUzNjM2haaWZibkxQVjlXNnJycXc4NXQyYlJfaEZBEgQaAggAGpkFEgAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQPUECAkQABgAIAAqEwoG7Lm07Y6YFUxMJ0AaBGNhZmUqDQoG7LaU7LKcFRVZlD0qIwoG6rCV64KoFSAyfUAaCeqwleuCqOq1rBoJ6rCV64Ko7JetMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZTV2hiNVpuaWt6NWVhTFZzQzE4MWNjWkRQRlJ4OFB6YVYtWmsyR1hwX3NrUXlXSEVoSXRVU3k4V0laTFp2ZWZVOGZlaHp5YW9BUnhQVXppNXlGQloySU9rcldRUGt1TVkzbDd6cWtvd3prN1ZiRlgzRXZKT3F6UFpTdFhhZVVDLW5hS3hzWHJ4Q0xLUzNjM2haaWZibkxQVjlXNnJycXc4NXQyYlJfaEZBOmjqsJDshLEg7Lap66eMLCA8Yj7qsJXrgqg8L2I-7J2YIOyYpeyDgSA8Yj7subTtjpg8L2I-65OkIHwgPGI-6rCV64KoPC9iPuq1rOyyrSAmZ3Q7IOuJtOyKpOujuCAmZ3Q7IOybueynhEL0AeuUlOyekOydtOuEiOyKpCDtmLjthZQgMTPsuLXsl5Ag7J6Q66as7ZWcIOuLpOydtOuLnSDrnbzsmrTsp4AgJiMzOTvrqZTrpqzqsIDrk6AmIzM5O-ydgCDslYTripQg7J2066eMIOymkOqyqCDssL7ripQg7JWE7KeA7Yq4IOqwmeydgCDqs7PsnbTri6QuIDxiPuqwleuCqDwvYj7snbQg7ZWc64iI7JeQIOuCtOugpOuLpOuztOydtOuKlCDsnbTqs7Psl5DshJzripQg6rWz7J20IOyVvOqyveydhCDqs6Dsp5HtlZjsp4AmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZTV2hiNVpuaWt6NWVhTFZzQzE4MWNjWkRQRlJ4OFB6YVYtWmsyR1hwX3NrUXlXSEVoSXRVU3k4V0laTFp2ZWZVOGZlaHp5YW9BUnhQVXppNXlGQloySU9rcldRUGt1TVkzbDd6cWtvd3prN1ZiRlgzRXZKT3F6UFpTdFhhZVVDLW5hS3hzWHJ4Q0xLUzNjM2haaWZibkxQVjlXNnJycXc4NXQyYlJfaEZBEgQaAggAGpkFEgAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQPUECAkQABgAIAAqEwoG7Lm07Y6YFUxMJ0AaBGNhZmUqDQoG7LaU7LKcFRVZlD0qIwoG6rCV64KoFSAyfUAaCeqwleuCqOq1rBoJ6rCV64Ko7JetMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZTV2hiNVpuaWt6NWVhTFZzQzE4MWNjWkRQRlJ4OFB6YVYtWmsyR1hwX3NrUXlXSEVoSXRVU3k4V0laTFp2ZWZVOGZlaHp5YW9BUnhQVXppNXlGQloySU9rcldRUGt1TVkzbDd6cWtvd3prN1ZiRlgzRXZKT3F6UFpTdFhhZVVDLW5hS3hzWHJ4Q0xLUzNjM2haaWZibkxQVjlXNnJycXc4NXQyYlJfaEZBOmjqsJDshLEg7Lap66eMLCA8Yj7qsJXrgqg8L2I-7J2YIOyYpeyDgSA8Yj7subTtjpg8L2I-65OkIHwgPGI-6rCV64KoPC9iPuq1rOyyrSAmZ3Q7IOuJtOyKpOujuCAmZ3Q7IOybueynhEL0AeuUlOyekOydtOuEiOyKpCDtmLjthZQgMTPsuLXsl5Ag7J6Q66as7ZWcIOuLpOydtOuLnSDrnbzsmrTsp4AgJiMzOTvrqZTrpqzqsIDrk6AmIzM5O-ydgCDslYTripQg7J2066eMIOymkOqyqCDssL7ripQg7JWE7KeA7Yq4IOqwmeydgCDqs7PsnbTri6QuIDxiPuqwleuCqDwvYj7snbQg7ZWc64iI7JeQIOuCtOugpOuLpOuztOydtOuKlCDsnbTqs7Psl5DshJzripQg6rWz7J20IOyVvOqyveydhCDqs6Dsp5HtlZjsp4AmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "강남구청"
+    },
+    {
+      "position": 5,
+      "title": "[강남직장인이 직접알려주는] 강남역 가볼만한곳 - 카페 TOP5",
+      "link": "https://m.blog.naver.com/cmw_17/223454137601",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVqpBqnVbm0pBhDt72P5ww_nKJoiQewPMNkfeHePvaqAbUWziW_WVq8PllI-M64HdcYEE3BgCm4kZEKIQ9ve426FyE9pdob3KE4XEZIyCc57W3Qavy8csOmpG0PBOW91xZ6Qg&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQFnoECEQQAQ&uoh=1",
+      "displayed_link": "https://m.blog.naver.com › cmw_17",
+      "favicon": "https://serpapi.com/images/i/UklGRsgAAABXRUJQVlA4ILwAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglsAMTmIAHKNQcAAy_LVKMYYtN3TlKw3GFgAP73c1qdSSPrk0xYHDc2oaaJIK2wzy88q_Y8BZ4rqkNbedbF7svL-_PG17P84G_s35T_vgCyU4jMERMTOUh3RfAm629R9YLNPcqg37xskzY6lnjVSPQwL39kD_YRTO4EAVJWtF0ZIzRlrPFcW8aYzWAg4mU1YNSXwJNXA2vILCPV9vTzbCG7BAAAAA.webp",
+      "date": "2024. 5. 21.",
+      "snippet": "첫번째로 이탈리안 커피를 그대로 보여주는 타짜도르 카페를 추천합니다. ​. 이탈리아 3대커피 산에우스타키오, 타짜도르, 안티코카페그레코에서 1 ...",
+      "snippet_highlighted_words": [
+        "타"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "첫번째로 이탈리안 커피를 그대로 보여주는 타짜도르 카페를 추천합니다. ​. 이탈리아 3대커피 산에우스타키오, 타짜도르, 안티코카페그레코에서 1 ...",
+          "source_info_link": "https://m.blog.naver.com/cmw_17/223454137601",
+          "icon": "https://serpapi.com/images/i/UklGRsgAAABXRUJQVlA4ILwAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglsAMTmIAHKNQcAAy_LVKMYYtN3TlKw3GFgAP73c1qdSSPrk0xYHDc2oaaJIK2wzy88q_Y8BZ4rqkNbedbF7svL-_PG17P84G_s35T_vgCyU4jMERMTOUh3RfAm629R9YLNPcqg37xskzY6lnjVSPQwL39kD_YRTO4EAVJWtF0ZIzRlrPFcW8aYzWAg4mU1YNSXwJNXA2vILCPV9vTzbCG7BAAAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjhvTTRSdWNzOTRjYzBtQ0tFSXZadWV1RDdSekhpQ0duaVNNdm5YOTYxTW1Scmw5LXNZV0QxUE02MU1JR3YwU2ZQekpiTTB0NG40ckhkUnRsb3RQLUxqbGFoelhHUjFVM2RYdlpuWnI2SFJmMVVyMkRTTEo0c0VEQkVIUmxpVG9VeXB3EgQaAggAGs8EEgAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQKsECAkQABgAIAAqEwoG7Lm07Y6YFUy6pEAaBGNhZmUqDQoG7LaU7LKcFd5mwT8qIwoG6rCV64KoFWCBTkAaCeqwleuCqOq1rBoJ6rCV64Ko7JetMpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjhvTTRSdWNzOTRjYzBtQ0tFSXZadWV1RDdSekhpQ0duaVNNdm5YOTYxTW1Scmw5LXNZV0QxUE02MU1JR3YwU2ZQekpiTTB0NG40ckhkUnRsb3RQLUxqbGFoelhHUjFVM2RYdlpuWnI2SFJmMVVyMkRTTEo0c0VEQkVIUmxpVG9VeXB3OmRbPGI-6rCV64KoPC9iPuyngeyepeyduOydtCDsp4HsoJHslYzroKTso7zripRdIDxiPuqwleuCqOyXrTwvYj4g6rCA67O866eM7ZWc6rOzIC0gPGI-7Lm07Y6YPC9iPiBUT1A1QtUB7LKr67KI7Ke466GcIOydtO2DiOumrOyViCDsu6TtlLzrpbwg6re464yA66GcIOuztOyXrOyjvOuKlCA8Yj7tg4A8L2I-7Kec64-E66W0IOy5tO2OmOulvCDstpTsspztlanri4jri6QuIOKAiy4g7J207YOI66as7JWEIDPrjIDsu6TtlLwg7IKw7JeQ7Jqw7Iqk7YOA7YKk7JikLCDtg4Dsp5zrj4TrpbQsIOyViO2LsOy9lOy5tO2OmOq3uOugiOy9lOyXkOyEnCAxJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjhvTTRSdWNzOTRjYzBtQ0tFSXZadWV1RDdSekhpQ0duaVNNdm5YOTYxTW1Scmw5LXNZV0QxUE02MU1JR3YwU2ZQekpiTTB0NG40ckhkUnRsb3RQLUxqbGFoelhHUjFVM2RYdlpuWnI2SFJmMVVyMkRTTEo0c0VEQkVIUmxpVG9VeXB3EgQaAggAGs8EEgAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQKsECAkQABgAIAAqEwoG7Lm07Y6YFUy6pEAaBGNhZmUqDQoG7LaU7LKcFd5mwT8qIwoG6rCV64KoFWCBTkAaCeqwleuCqOq1rBoJ6rCV64Ko7JetMpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjhvTTRSdWNzOTRjYzBtQ0tFSXZadWV1RDdSekhpQ0duaVNNdm5YOTYxTW1Scmw5LXNZV0QxUE02MU1JR3YwU2ZQekpiTTB0NG40ckhkUnRsb3RQLUxqbGFoelhHUjFVM2RYdlpuWnI2SFJmMVVyMkRTTEo0c0VEQkVIUmxpVG9VeXB3OmRbPGI-6rCV64KoPC9iPuyngeyepeyduOydtCDsp4HsoJHslYzroKTso7zripRdIDxiPuqwleuCqOyXrTwvYj4g6rCA67O866eM7ZWc6rOzIC0gPGI-7Lm07Y6YPC9iPiBUT1A1QtUB7LKr67KI7Ke466GcIOydtO2DiOumrOyViCDsu6TtlLzrpbwg6re464yA66GcIOuztOyXrOyjvOuKlCA8Yj7tg4A8L2I-7Kec64-E66W0IOy5tO2OmOulvCDstpTsspztlanri4jri6QuIOKAiy4g7J207YOI66as7JWEIDPrjIDsu6TtlLwg7IKw7JeQ7Jqw7Iqk7YOA7YKk7JikLCDtg4Dsp5zrj4TrpbQsIOyViO2LsOy9lOy5tO2OmOq3uOugiOy9lOyXkOyEnCAxJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "블로그"
+    },
+    {
+      "position": 6,
+      "title": "일하기 좋은 강남역 카페 5 : 노마드워커의 소식 게시판",
+      "link": "https://nomadrang.com/board/?bmode=view&idx=16406059",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVrTRtavszpbHUnZwvf_J2LnNSuNAh4wtE9UuumPPwp0lFT2CFY7Gxqu0mqn2KxvqeyMVCkorjf1ep4144aeHDFcfUcPwxNoZYjCaie5i9q_t839ubpmu6wPcDEn5wbKPGc-vPybwJGxgkcA&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQFnoECD4QAQ&uoh=1",
+      "displayed_link": "https://nomadrang.com › board",
+      "favicon": "https://serpapi.com/images/i/UklGRrwBAABXRUJQVlA4ILABAAAQCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3s3CEu9wK9tXuFPOZ6gDeSvJgMAEzVuzUT_yZg71cP1wieeextgXcJn72v2uQkMtTsAAA_v0v_KuaGRP38Fc9KQpIeruVkc0s4uy3Xn50lT8vzT8PzK4rXb4-562DL4-lccll7Pqhhf1DF5n5NwK22bep9jtfnCA9t3dVnVxnbc-H759T1d43933_HHRPN-pdE5N0sunuLLrNE2W9Bm1IzT259SL0VsWyiuNbovqQlV41ngz93cpzQjRwVGfzMwoVNMWhSrvfotdIpdl5rO8Q_po3-eszPU-3YzzUQv-tys_mqVfaf_fger9Wbr-KbMMMMkZTQtnrNwaKFwP9DR2ws4i6WJuNEGC1Hd7GcgOe8ZuuM8zvIbbUkX63YR6hyf-JpgQjrmQ1PXJmXMRvz3x-LdQE7Hn5DEtPC6CgS3brqSaWm0DM3PeT74OzaHrn9JZ2xatn_lg9MPZ0YPgeLZdoBZK7P-2Dkf2h3CwVXGljAOv1LNX1-zOTMewzn9nqXbgL8_OVZl1UU7YWKu0cMV8gAAA.webp",
+      "date": "2023. 9. 20.",
+      "snippet": "[노마딩 가이드]일하기 좋은 강남역 카페 5 · 1. 박스프레소 · 2. Fyi · 3. 에이비카페 At Bali · 4. 인포메이션 카페 · 5. 알베르.",
+      "snippet_highlighted_words": [
+        "1. 박스프레소"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "[노마딩 가이드]일하기 좋은 강남역 카페 5 · 1. 박스프레소 · 2. Fyi · 3. 에이비카페 At Bali · 4. 인포메이션 카페 · 5. 알베르.",
+          "source_info_link": "https://nomadrang.com/board/?bmode=view&idx=16406059",
+          "icon": "https://serpapi.com/images/i/UklGRrwBAABXRUJQVlA4ILABAAAQCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3s3CEu9wK9tXuFPOZ6gDeSvJgMAEzVuzUT_yZg71cP1wieeextgXcJn72v2uQkMtTsAAA_v0v_KuaGRP38Fc9KQpIeruVkc0s4uy3Xn50lT8vzT8PzK4rXb4-562DL4-lccll7Pqhhf1DF5n5NwK22bep9jtfnCA9t3dVnVxnbc-H759T1d43933_HHRPN-pdE5N0sunuLLrNE2W9Bm1IzT259SL0VsWyiuNbovqQlV41ngz93cpzQjRwVGfzMwoVNMWhSrvfotdIpdl5rO8Q_po3-eszPU-3YzzUQv-tys_mqVfaf_fger9Wbr-KbMMMMkZTQtnrNwaKFwP9DR2ws4i6WJuNEGC1Hd7GcgOe8ZuuM8zvIbbUkX63YR6hyf-JpgQjrmQ1PXJmXMRvz3x-LdQE7Hn5DEtPC6CgS3brqSaWm0DM3PeT74OzaHrn9JZ2xatn_lg9MPZ0YPgeLZdoBZK7P-2Dkf2h3CwVXGljAOv1LNX1-zOTMewzn9nqXbgL8_OVZl1UU7YWKu0cMV8gAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVlpoODdWVDdMTjctQkRvN01ZV20tN3FhcWNKVzJudTZxZjV5TnFZNzVvRHhaWnluWHVhM0QyTTI4NDdwRDU4YjhPMFJHcDJNQ0ZCOFFxVGxpaTQwVTIya0p5WHd0TWZ5YlZESnZWcVlFQjdoTzIwOUlyWE1zUnhxdXQzLTVsUXJSbTBhVWczaWpSVUZubFESBBoCCAAaugQSABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAlgQICRAAGAAgACoTCgbsubTtjpgVCLWPQBoEY2FmZSoNCgbstpTsspwVvDXNPiojCgbqsJXrgqgVzuz2PRoJ6rCV64Ko6rWsGgnqsJXrgqjsl60ypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWWmg4N1ZUN0xONy1CRG83TVlXbS03cWFxY0pXMm51NnFmNXlOcVk3NW9EeFpaeW5YdWEzRDJNMjg0N3BENThiOE8wUkdwMk1DRkI4UXFUbGlpNDBVMjJrSnlYd3RNZnliVkRKdlZxWUVCN2hPMjA5SXJYTXNSeHF1dDMtNWxRclJtMGFVZzNpalJVRm5sUTpQ7J287ZWY6riwIOyii-ydgCA8Yj7qsJXrgqjsl60g7Lm07Y6YPC9iPiA1IDog64W466eI65Oc7JuM7Luk7J2YIOyGjOyLnSDqsozsi5ztjJBCyQFb64W466eI65SpIOqwgOydtOuTnF3snbztlZjquLAg7KKL7J2AIOqwleuCqOyXrSDsubTtjpggNSAmbWlkZG90OyA8Yj4xLiDrsJXsiqTtlITroIjshow8L2I-ICZtaWRkb3Q7IDIuIEZ5aSAmbWlkZG90OyAzLiDsl5DsnbTruYTsubTtjpggQXQgQmFsaSAmbWlkZG90OyA0LiDsnbjtj6zrqZTsnbTshZgg7Lm07Y6YICZtaWRkb3Q7IDUuIOyVjOuyoOultC4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVlpoODdWVDdMTjctQkRvN01ZV20tN3FhcWNKVzJudTZxZjV5TnFZNzVvRHhaWnluWHVhM0QyTTI4NDdwRDU4YjhPMFJHcDJNQ0ZCOFFxVGxpaTQwVTIya0p5WHd0TWZ5YlZESnZWcVlFQjdoTzIwOUlyWE1zUnhxdXQzLTVsUXJSbTBhVWczaWpSVUZubFESBBoCCAAaugQSABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAlgQICRAAGAAgACoTCgbsubTtjpgVCLWPQBoEY2FmZSoNCgbstpTsspwVvDXNPiojCgbqsJXrgqgVzuz2PRoJ6rCV64Ko6rWsGgnqsJXrgqjsl60ypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWWmg4N1ZUN0xONy1CRG83TVlXbS03cWFxY0pXMm51NnFmNXlOcVk3NW9EeFpaeW5YdWEzRDJNMjg0N3BENThiOE8wUkdwMk1DRkI4UXFUbGlpNDBVMjJrSnlYd3RNZnliVkRKdlZxWUVCN2hPMjA5SXJYTXNSeHF1dDMtNWxRclJtMGFVZzNpalJVRm5sUTpQ7J287ZWY6riwIOyii-ydgCA8Yj7qsJXrgqjsl60g7Lm07Y6YPC9iPiA1IDog64W466eI65Oc7JuM7Luk7J2YIOyGjOyLnSDqsozsi5ztjJBCyQFb64W466eI65SpIOqwgOydtOuTnF3snbztlZjquLAg7KKL7J2AIOqwleuCqOyXrSDsubTtjpggNSAmbWlkZG90OyA8Yj4xLiDrsJXsiqTtlITroIjshow8L2I-ICZtaWRkb3Q7IDIuIEZ5aSAmbWlkZG90OyAzLiDsl5DsnbTruYTsubTtjpggQXQgQmFsaSAmbWlkZG90OyA0LiDsnbjtj6zrqZTsnbTshZgg7Lm07Y6YICZtaWRkb3Q7IDUuIOyVjOuyoOultC4iAhABSABYAGgA",
+      "source": "노마드랑"
+    },
+    {
+      "position": 7,
+      "title": "서울 커피 가이드: 강남 카페 편",
+      "link": "https://the-edit.co.kr/73444",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAVlL0yFLQSFFkU64B4sE_ARpgDhrVDuaSN3xiNu4V2FHRJ9pE0wapaeHUEEqa00T9d-PveCi2AomI6t5PjFOqH2tqR8im-88Ljq6WldcwxkySM8A&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQFnoECD8QAQ&uoh=1",
+      "displayed_link": "https://the-edit.co.kr › EAT",
+      "favicon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAAAQCQCdASocABwAPtE-tFooIigoFAEAGglpABOY-TyN4TS_QdOMGLQZz_mT2BP1B9Jn1V_pn7Kv7ABxf20zzg7tFA5-aOZy2j-b2IdVkakg7AAA_vYSXseL_43N7vcE7Y6RBD4i068NFAh5XX9CSLBfED0vrx4BOU6gQQnSesY5nRkg7fyx_AJY3tiOHbApAxX_chb6jbutn1NHujs1e0vap3Lx7rZCapMnfdXVCxjBJupdc1Mpv86AYHSbpP3lKh1iimGAN1_NHrv_4Xh-upewT3XNW8SWDoQQQV2f8irvwIslf39dtfjfdU69Xep1dONMa7xPY858JiM7KPpYNgfbnNsiP6gw8eMQSi1DRjqt5XPVde8vh-j8nKC5j_eaLKuXz2ps-IXDx8q3GtfGB_bHS-JpmAk4vq2zHaLfhPIZEpyFsWcBtQ8J06SXox9jpQ1lNFvN0qo3v3w2PFx-f7230o1cIOxY0bcStR9XF5AAAA.webp",
+      "date": "2025. 1. 21.",
+      "snippet": "[1] 어딕티브 · 영업 시간: 12:00 – 21:00(월 휴무, 일요일은 17:00까지) · 주소: 서울시 서초구 주흥15길 5 102호 · 추천 메뉴: 브루잉커피, 카페라떼 ...",
+      "snippet_highlighted_words": [
+        "어딕티브"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "[1] 어딕티브 · 영업 시간: 12:00 – 21:00(월 휴무, 일요일은 17:00까지) · 주소: 서울시 서초구 주흥15길 5 102호 · 추천 메뉴: 브루잉커피, 카페라떼 ...",
+          "source_info_link": "https://the-edit.co.kr/73444",
+          "icon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAAAQCQCdASocABwAPtE-tFooIigoFAEAGglpABOY-TyN4TS_QdOMGLQZz_mT2BP1B9Jn1V_pn7Kv7ABxf20zzg7tFA5-aOZy2j-b2IdVkakg7AAA_vYSXseL_43N7vcE7Y6RBD4i068NFAh5XX9CSLBfED0vrx4BOU6gQQnSesY5nRkg7fyx_AJY3tiOHbApAxX_chb6jbutn1NHujs1e0vap3Lx7rZCapMnfdXVCxjBJupdc1Mpv86AYHSbpP3lKh1iimGAN1_NHrv_4Xh-upewT3XNW8SWDoQQQV2f8irvwIslf39dtfjfdU69Xep1dONMa7xPY858JiM7KPpYNgfbnNsiP6gw8eMQSi1DRjqt5XPVde8vh-j8nKC5j_eaLKuXz2ps-IXDx8q3GtfGB_bHS-JpmAk4vq2zHaLfhPIZEpyFsWcBtQ8J06SXox9jpQ1lNFvN0qo3v3w2PFx-f7230o1cIOxY0bcStR9XF5AAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoQBL2dvdG8_dXJsPUNBRVNWd0hyT3pBVkdMVkd6QWhfWG5JVEVpajV5cUxCNDEzUlhVYWQ1emtZY1J4Y1MwM2VDUVE0S0Y5VDBtWGxQYWhpTFJyX3lVM1JWaERPUWVZTmRzSW1jT2FENU0yajBoQmZRbWJtbXZKOG4yeVJ2clZVckhKRDhBEgQaAggAGqEEEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJA-wMICRAAGAAgACoTCgbsubTtjpgVxiREQBoEY2FmZSoNCgbstpTsspwVf4CVPyojCgbqsJXrgqgVnNI7QBoJ6rCV64Ko6rWsGgnqsJXrgqjsl60yhAEvZ290bz91cmw9Q0FFU1Z3SHJPekFWR0xWR3pBaF9YbklURWlqNXlxTEI0MTNSWFVhZDV6a1ljUnhjUzAzZUNRUTRLRjlUMG1YbFBhaGlMUnJfeVUzUlZoRE9RZVlOZHNJbWNPYUQ1TTJqMGhCZlFtYm1tdko4bjJ5UnZyVlVySEpEOEE6QOyEnOyauCDsu6TtlLwg6rCA7J2065OcOiA8Yj7qsJXrgqgg7Lm07Y6YPC9iPiDtjrggLSDrlJTsl5DrlJTtirhC3gFbMV0gPGI-7Ja065SV7Yuw67iMPC9iPiAmbWlkZG90OyDsmIHsl4Ug7Iuc6rCEOiAxMjowMCDigJMgMjE6MDAo7JuUIO2ctOustCwg7J287JqU7J287J2AIDE3OjAw6rmM7KeAKSAmbWlkZG90OyDso7zshow6IOyEnOyauOyLnCDshJzstIjqtawg7KO87Z2lMTXquLggNSAxMDLtmLggJm1pZGRvdDsg7LaU7LKcIOuplOuJtDog67iM66Oo7J6J7Luk7ZS8LCDsubTtjpjrnbzrlrwmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQBL2dvdG8_dXJsPUNBRVNWd0hyT3pBVkdMVkd6QWhfWG5JVEVpajV5cUxCNDEzUlhVYWQ1emtZY1J4Y1MwM2VDUVE0S0Y5VDBtWGxQYWhpTFJyX3lVM1JWaERPUWVZTmRzSW1jT2FENU0yajBoQmZRbWJtbXZKOG4yeVJ2clZVckhKRDhBEgQaAggAGqEEEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJA-wMICRAAGAAgACoTCgbsubTtjpgVxiREQBoEY2FmZSoNCgbstpTsspwVf4CVPyojCgbqsJXrgqgVnNI7QBoJ6rCV64Ko6rWsGgnqsJXrgqjsl60yhAEvZ290bz91cmw9Q0FFU1Z3SHJPekFWR0xWR3pBaF9YbklURWlqNXlxTEI0MTNSWFVhZDV6a1ljUnhjUzAzZUNRUTRLRjlUMG1YbFBhaGlMUnJfeVUzUlZoRE9RZVlOZHNJbWNPYUQ1TTJqMGhCZlFtYm1tdko4bjJ5UnZyVlVySEpEOEE6QOyEnOyauCDsu6TtlLwg6rCA7J2065OcOiA8Yj7qsJXrgqgg7Lm07Y6YPC9iPiDtjrggLSDrlJTsl5DrlJTtirhC3gFbMV0gPGI-7Ja065SV7Yuw67iMPC9iPiAmbWlkZG90OyDsmIHsl4Ug7Iuc6rCEOiAxMjowMCDigJMgMjE6MDAo7JuUIO2ctOustCwg7J287JqU7J287J2AIDE3OjAw6rmM7KeAKSAmbWlkZG90OyDso7zshow6IOyEnOyauOyLnCDshJzstIjqtawg7KO87Z2lMTXquLggNSAxMDLtmLggJm1pZGRvdDsg7LaU7LKcIOuplOuJtDog67iM66Oo7J6J7Luk7ZS8LCDsubTtjpjrnbzrlrwmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "디에디트"
+    },
+    {
+      "position": 8,
+      "title": "강남 디저트 카페 BEST 5곳! 웨이팅 각오하고 가야",
+      "link": "https://brunch.co.kr/@happyer16/4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVYsRfProj47zruBMD5htG2NcgeBAB9_vWYovNNb3KAS6wuKk2nc5fcHZKPz_e8-if_JMwnYcrU10HeeciSbYkPd6HpKSa3Swo1DWuLPZ5BbmwW7GqWhUn&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://brunch.co.kr › ...",
+      "favicon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAAAQBQCdASocABwAPtEytFooIigoGAEAGglnAAQ-7xBfKu6gK3a6LTIBxOwrzcKny3gAAP77ZVYO4haz7MpxYgh_HsfgDk7U6nUPYH1__q0mjp9QjTDAOnL1nH4iM740WBen9WGvrE2cooOVLJ_b3ls13tXA_syChX3n7zlbVCG9CX4799OaIuv5_-4AAAAA.webp",
+      "date": "2025. 7. 25.",
+      "snippet": "1. 썸띵어바웃커피 - 디저트 천국이 따로 없어요 · 2. 소나(SONA) - 예술작품 같은 디저트 · 3. 베이커스트 브라운 - 소금빵 맛집 · 4. 쿠라우니 - 영국식 ...",
+      "snippet_highlighted_words": [
+        "1. 썸띵어바웃커피"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. 썸띵어바웃커피 - 디저트 천국이 따로 없어요 · 2. 소나(SONA) - 예술작품 같은 디저트 · 3. 베이커스트 브라운 - 소금빵 맛집 · 4. 쿠라우니 - 영국식 ...",
+          "source_info_link": "https://brunch.co.kr/@happyer16/4",
+          "icon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAAAQBQCdASocABwAPtEytFooIigoGAEAGglnAAQ-7xBfKu6gK3a6LTIBxOwrzcKny3gAAP77ZVYO4haz7MpxYgh_HsfgDk7U6nUPYH1__q0mjp9QjTDAOnL1nH4iM740WBen9WGvrE2cooOVLJ_b3ls13tXA_syChX3n7zlbVCG9CX4799OaIuv5_-4AAAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlYtYlBaMGVHTVl3SEVZcVhVTjF4cF9pYTVweldxaldnV296ckJyc1UwcHV0c3IwWGZGVlhUTTNWQjBrdnRkU2duTDlWMUpwZWtBWkMxUEM0N3Z4eFJ4U2NrNi1BejN5NkwxN3pnNHJmbW95ZnVSNng3MktoEgQaAggAGscEEgAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQKMECAkQABgAIAAqEwoG7Lm07Y6YFeDxhUAaBGNhZmUqDQoG7LaU7LKcFXBUyT8qIwoG6rCV64KoFbPaYUAaCeqwleuCqOq1rBoJ6rCV64Ko7JetMooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlYtYlBaMGVHTVl3SEVZcVhVTjF4cF9pYTVweldxaldnV296ckJyc1UwcHV0c3IwWGZGVlhUTTNWQjBrdnRkU2duTDlWMUpwZWtBWkMxUEM0N3Z4eFJ4U2NrNi1BejN5NkwxN3pnNHJmbW95ZnVSNng3MktoOlo8Yj7qsJXrgqg8L2I-IOuUlOyggO2KuCA8Yj7subTtjpg8L2I-IEJFU1QgNeqzsyEg7Juo7J207YyFIOqwgeyYpO2VmOqzoCDqsIDslbwgLSDruIzrn7DsuZhC5gE8Yj4xLiDsjbjrnbXslrTrsJTsm4Psu6TtlLw8L2I-IC0g65SU7KCA7Yq4IOyynOq1reydtCDrlLDroZwg7JeG7Ja07JqUICZtaWRkb3Q7IDIuIOyGjOuCmChTT05BKSAtIOyYiOyIoOyeke2SiCDqsJnsnYAg65SU7KCA7Yq4ICZtaWRkb3Q7IDMuIOuyoOydtOy7pOyKpO2KuCDruIzrnbzsmrQgLSDshozquIjrubUg66eb7KeRICZtaWRkb3Q7IDQuIOy_oOudvOyasOuLiCAtIOyYgeq1reyLnSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlYtYlBaMGVHTVl3SEVZcVhVTjF4cF9pYTVweldxaldnV296ckJyc1UwcHV0c3IwWGZGVlhUTTNWQjBrdnRkU2duTDlWMUpwZWtBWkMxUEM0N3Z4eFJ4U2NrNi1BejN5NkwxN3pnNHJmbW95ZnVSNng3MktoEgQaAggAGscEEgAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQKMECAkQABgAIAAqEwoG7Lm07Y6YFeDxhUAaBGNhZmUqDQoG7LaU7LKcFXBUyT8qIwoG6rCV64KoFbPaYUAaCeqwleuCqOq1rBoJ6rCV64Ko7JetMooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlYtYlBaMGVHTVl3SEVZcVhVTjF4cF9pYTVweldxaldnV296ckJyc1UwcHV0c3IwWGZGVlhUTTNWQjBrdnRkU2duTDlWMUpwZWtBWkMxUEM0N3Z4eFJ4U2NrNi1BejN5NkwxN3pnNHJmbW95ZnVSNng3MktoOlo8Yj7qsJXrgqg8L2I-IOuUlOyggO2KuCA8Yj7subTtjpg8L2I-IEJFU1QgNeqzsyEg7Juo7J207YyFIOqwgeyYpO2VmOqzoCDqsIDslbwgLSDruIzrn7DsuZhC5gE8Yj4xLiDsjbjrnbXslrTrsJTsm4Psu6TtlLw8L2I-IC0g65SU7KCA7Yq4IOyynOq1reydtCDrlLDroZwg7JeG7Ja07JqUICZtaWRkb3Q7IDIuIOyGjOuCmChTT05BKSAtIOyYiOyIoOyeke2SiCDqsJnsnYAg65SU7KCA7Yq4ICZtaWRkb3Q7IDMuIOuyoOydtOy7pOyKpO2KuCDruIzrnbzsmrQgLSDshozquIjrubUg66eb7KeRICZtaWRkb3Q7IDQuIOy_oOudvOyasOuLiCAtIOyYgeq1reyLnSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "브런치"
+    },
+    {
+      "position": 9,
+      "title": "강남역근처 카페, 맛집, 데이트하기 좋은 곳 추천",
+      "link": "https://blog.naver.com/ooooofus/223324320253?viewType=pc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVrZxQNH9EKQhoQQnizmq9kjmG0s9iFgZ_lA2BdRfH1ROVsP7bHq1UqP8xhWId2ivDLf5MA5BwoXb21qseaPyo8PsjikWssY4mPB_vKCBHthRaXa5BGwe9tSoy6IXnMCAXovu3B79s8cg7MXwV4U0&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://blog.naver.com › ooooofus",
+      "date": "2024. 1. 16.",
+      "snippet": "멘노아지는 강남역과 역삼역의 중간에 위치해 있어요. 2개의 지점이 있는데 저는 강남점으로 방문했어요. 여기는 우연히 찾다가 발견한 곳인데 메뉴 사진 ...",
+      "snippet_highlighted_words": [
+        "멘노아지는 강남역과 역삼역의 중간에 위치해 있어요"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "멘노아지는 강남역과 역삼역의 중간에 위치해 있어요. 2개의 지점이 있는데 저는 강남점으로 방문했어요. 여기는 우연히 찾다가 발견한 곳인데 메뉴 사진 ...",
+          "source_info_link": "https://blog.naver.com/ooooofus/223324320253?viewType=pc"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVk5INnZxRDI1dGtYOS1NQVd4dG1saXJRZDBlSl9ZcFQyb0phYnpwSXpkWlhSOUtTOF9PMHVDYnoxZlhXN0otODduMkwzbVptblZNMnYxTkhEZXFSNmtCdHRLbW9PZU9na19tRTFFX2g4VjNVWUxXanZpbE1GNUtYeEtQS1doaThpU2JqbFk0Q1E2RTZCYW5kRnpycxIEGgIIABruBBIAGgAiACoAMgYIARICa3I6AEIECAEQCUoAWgByAHoAgkDKBAgJEAAYACAAKhMKBuy5tO2OmBVjAYtAGgRjYWZlKg0KBuy2lOyynBWh6ppAKiMKBuqwleuCqBU12tE_GgnqsJXrgqjqtawaCeqwleuCqOyXrTKpAS9nb3RvP3VybD1DQUVTY3dIck96QVZOSDZ2cUQyNXRrWDktTUFXeHRtbGlyUWQwZUpfWXBUMm9KYWJ6cEl6ZFpYUjlLUzhfTzB1Q2J6MWZYVzdKLTg3bjJMM21abW5WTTJ2MU5IRGVxUjZrQnR0S21vT2VPZ2tfbUUxRV9oOFYzVVlMV2p2aWxNRjVLWHhLUEtXaGk4aVNiamxZNENRNkU2QmFuZEZ6cnM6bDxiPuqwleuCqOyXrTwvYj7qt7zsspggPGI-7Lm07Y6YPC9iPiwg66eb7KeRLCDrjbDsnbTtirjtlZjquLAg7KKL7J2AIOqzsyA8Yj7stpTsspw8L2I-IDog64Sk7J2067KEIOu4lOuhnOq3uELcATxiPuupmOuFuOyVhOyngOuKlCDqsJXrgqjsl63qs7wg7Jet7IK87Jet7J2YIOykkeqwhOyXkCDsnITsuZjtlbQg7J6I7Ja07JqUPC9iPi4gMuqwnOydmCDsp4DsoJDsnbQg7J6I64qU642wIOyggOuKlCDqsJXrgqjsoJDsnLzroZwg67Cp66y47ZaI7Ja07JqULiDsl6zquLDripQg7Jqw7Jew7Z6IIOywvuuLpOqwgCDrsJzqsqztlZwg6rOz7J24642wIOuplOuJtCDsgqzsp4QmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVk5INnZxRDI1dGtYOS1NQVd4dG1saXJRZDBlSl9ZcFQyb0phYnpwSXpkWlhSOUtTOF9PMHVDYnoxZlhXN0otODduMkwzbVptblZNMnYxTkhEZXFSNmtCdHRLbW9PZU9na19tRTFFX2g4VjNVWUxXanZpbE1GNUtYeEtQS1doaThpU2JqbFk0Q1E2RTZCYW5kRnpycxIEGgIIABruBBIAGgAiACoAMgYIARICa3I6AEIECAEQCUoAWgByAHoAgkDKBAgJEAAYACAAKhMKBuy5tO2OmBVjAYtAGgRjYWZlKg0KBuy2lOyynBWh6ppAKiMKBuqwleuCqBU12tE_GgnqsJXrgqjqtawaCeqwleuCqOyXrTKpAS9nb3RvP3VybD1DQUVTY3dIck96QVZOSDZ2cUQyNXRrWDktTUFXeHRtbGlyUWQwZUpfWXBUMm9KYWJ6cEl6ZFpYUjlLUzhfTzB1Q2J6MWZYVzdKLTg3bjJMM21abW5WTTJ2MU5IRGVxUjZrQnR0S21vT2VPZ2tfbUUxRV9oOFYzVVlMV2p2aWxNRjVLWHhLUEtXaGk4aVNiamxZNENRNkU2QmFuZEZ6cnM6bDxiPuqwleuCqOyXrTwvYj7qt7zsspggPGI-7Lm07Y6YPC9iPiwg66eb7KeRLCDrjbDsnbTtirjtlZjquLAg7KKL7J2AIOqzsyA8Yj7stpTsspw8L2I-IDog64Sk7J2067KEIOu4lOuhnOq3uELcATxiPuupmOuFuOyVhOyngOuKlCDqsJXrgqjsl63qs7wg7Jet7IK87Jet7J2YIOykkeqwhOyXkCDsnITsuZjtlbQg7J6I7Ja07JqUPC9iPi4gMuqwnOydmCDsp4DsoJDsnbQg7J6I64qU642wIOyggOuKlCDqsJXrgqjsoJDsnLzroZwg67Cp66y47ZaI7Ja07JqULiDsl6zquLDripQg7Jqw7Jew7Z6IIOywvuuLpOqwgCDrsJzqsqztlZwg6rOz7J24642wIOuplOuJtCDsgqzsp4QmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Naver Blog"
+    },
+    {
+      "position": 10,
+      "title": "강남 신논현 나만 알고 싶은 카페 맛집 모음!",
+      "link": "https://www.youtube.com/watch?v=IVJE9cfYcog&xstg=CAMSBhUDzO3xHw%3D%3D",
+      "displayed_link": "조회수 3.4천회 이상 · 1년 전",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI3w_Y3qyojeq8gsXe9vjZXPS3ECD9ebxNGWl0RVZb5wEupINEk6hn8Q&s",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "구테로이테, 한과와락, 정월, 힉스커피, 에이비 등 강남 신논현의 개성 넘치는 카페 5곳을 소개합니다.",
+      "duration": "14:26",
+      "about_this_result": {
+        "source": {
+          "description": "구테로이테, 한과와락, 정월, 힉스커피, 에이비 등 강남 신논현의 개성 넘치는 카페 5곳을 소개합니다.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnVFRHhjU0RFbHlTbFpsUWpYRGNMQWcxbkl0dEtVVGNTbUVJTTVnbUVPZllTR2FzM0RaZ0taeTZmUWxfN2tGWDdZOTJMaEpnLS1mb1ItUy1fdmlHNUk3NXU5c2dGQVFpMDJ6N2Rkekg1YVhwT2psWWRwTnZvZG5ITV9aZUxwUHNTSFESIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnVFRHhjU0RFbHlTbFpsUWpYRGNMQWcxbkl0dEtVVGNTbUVJTTVnbUVPZllTR2FzM0RaZ0taeTZmUWxfN2tGWDdZOTJMaEpnLS1mb1ItUy1fdmlHNUk3NXU5c2dGQVFpMDJ6N2Rkekg1YVhwT2psWWRwTnZvZG5ITV9aZUxwUHNTSFESIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRCnd6L5u_JEC19zbOtBnopVlTGZp362ypL0Q",
+      "source": "YouTube · 브릭또 BRICKTTO"
+    }
+  ],
+  "filters": [
+    {
+      "name": "지금 영업 중",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r5Aqoc2BwYioxQXXjc4yGrk1OVPbzZ9XCkYEHIOeJvOacDu2c4UAe1maDyBNbjMy5eVyIZ6MhnsusfP-blQnMad-w1y5gFAhW-3B61ML2uevbo2DrzloERHL8OHM6qBiXmNIwdXmgzZNM1ZXtgXkb6NY_hQ5fUOM-kCk3zEfOBpmbUrlC2FcY13TjH1LLcn8RAneOrg",
+        "q": "카페 추천 강남 지금 영업 중"
+      },
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8+%EC%A7%80%EA%B8%88+%EC%98%81%EC%97%85+%EC%A4%91&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r5Aqoc2BwYioxQXXjc4yGrk1OVPbzZ9XCkYEHIOeJvOacDu2c4UAe1maDyBNbjMy5eVyIZ6MhnsusfP-blQnMad-w1y5gFAhW-3B61ML2uevbo2DrzloERHL8OHM6qBiXmNIwdXmgzZNM1ZXtgXkb6NY_hQ5fUOM-kCk3zEfOBpmbUrlC2FcY13TjH1LLcn8RAneOrg&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQxKsJKAB6BAgbEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8+%EC%A7%80%EA%B8%88+%EC%98%81%EC%97%85+%EC%A4%91&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r5Aqoc2BwYioxQXXjc4yGrk1OVPbzZ9XCkYEHIOeJvOacDu2c4UAe1maDyBNbjMy5eVyIZ6MhnsusfP-blQnMad-w1y5gFAhW-3B61ML2uevbo2DrzloERHL8OHM6qBiXmNIwdXmgzZNM1ZXtgXkb6NY_hQ5fUOM-kCk3zEfOBpmbUrlC2FcY13TjH1LLcn8RAneOrg"
+    },
+    {
+      "name": "최고 평점",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZcRmNRsmD3AQt8nqY335QfLmM71HH-NI8eHuFkfLolIgkiXsgiBOMARrhKTzkvffuIEm2E6bwStmZQuWzcGU7Gm0p3D8cwZIB-KwElP1gsyUFuTPuJB4Idod-8GO5S67RVCI6wH50RUAVNEREiIXZxiyUmYqubmfZOcrSm3aN-svTxfMqW2umjLmVDWrAfGnSY1Suw",
+        "q": "카페 추천 강남 최고 평점"
+      },
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8+%EC%B5%9C%EA%B3%A0+%ED%8F%89%EC%A0%90&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZcRmNRsmD3AQt8nqY335QfLmM71HH-NI8eHuFkfLolIgkiXsgiBOMARrhKTzkvffuIEm2E6bwStmZQuWzcGU7Gm0p3D8cwZIB-KwElP1gsyUFuTPuJB4Idod-8GO5S67RVCI6wH50RUAVNEREiIXZxiyUmYqubmfZOcrSm3aN-svTxfMqW2umjLmVDWrAfGnSY1Suw&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQxKsJKAF6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8+%EC%B5%9C%EA%B3%A0+%ED%8F%89%EC%A0%90&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZcRmNRsmD3AQt8nqY335QfLmM71HH-NI8eHuFkfLolIgkiXsgiBOMARrhKTzkvffuIEm2E6bwStmZQuWzcGU7Gm0p3D8cwZIB-KwElP1gsyUFuTPuJB4Idod-8GO5S67RVCI6wH50RUAVNEREiIXZxiyUmYqubmfZOcrSm3aN-svTxfMqW2umjLmVDWrAfGnSY1Suw"
+    },
+    {
+      "name": "가격",
+      "options": []
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "강남역 분위기 좋은 카페",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EB%B6%84%EC%9C%84%EA%B8%B0+%EC%A2%8B%EC%9D%80+%EC%B9%B4%ED%8E%98&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EB%B6%84%EC%9C%84%EA%B8%B0+%EC%A2%8B%EC%9D%80+%EC%B9%B4%ED%8E%98"
+    },
+    {
+      "block_position": 1,
+      "query": "강남역 조용한 카페 추천",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EC%A1%B0%EC%9A%A9%ED%95%9C+%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EC%A1%B0%EC%9A%A9%ED%95%9C+%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C"
+    },
+    {
+      "block_position": 1,
+      "query": "강남역 카페",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EC%B9%B4%ED%8E%98&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EC%B9%B4%ED%8E%98"
+    },
+    {
+      "block_position": 1,
+      "query": "강남역 공부하기 좋은 카페",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0+%EC%A2%8B%EC%9D%80+%EC%B9%B4%ED%8E%98&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0+%EC%A2%8B%EC%9D%80+%EC%B9%B4%ED%8E%98"
+    },
+    {
+      "block_position": 1,
+      "query": "강남역 디저트 카페",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EB%94%94%EC%A0%80%ED%8A%B8+%EC%B9%B4%ED%8E%98&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EB%94%94%EC%A0%80%ED%8A%B8+%EC%B9%B4%ED%8E%98"
+    },
+    {
+      "block_position": 1,
+      "query": "강남역 카페 소개팅",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EC%B9%B4%ED%8E%98+%EC%86%8C%EA%B0%9C%ED%8C%85&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EC%B9%B4%ED%8E%98+%EC%86%8C%EA%B0%9C%ED%8C%85"
+    },
+    {
+      "block_position": 1,
+      "query": "강남역 예쁜 카페",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EC%98%88%EC%81%9C+%EC%B9%B4%ED%8E%98&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B0%95%EB%82%A8%EC%97%AD+%EC%98%88%EC%81%9C+%EC%B9%B4%ED%8E%98"
+    },
+    {
+      "block_position": 1,
+      "query": "강남 조용한 카페",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&q=%EA%B0%95%EB%82%A8+%EC%A1%B0%EC%9A%A9%ED%95%9C+%EC%B9%B4%ED%8E%98&sa=X&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B0%95%EB%82%A8+%EC%A1%B0%EC%9A%A9%ED%95%9C+%EC%B9%B4%ED%8E%98"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&ei=bBLXaq24Ko3hp84PqL_wqAY&start=10&sa=N&sstk=AS6-VmJhcGN9tSxxgqkADsEnPV1NZJ8o3tVHzjXBZv2Hc19umHUdnGK55s3mCpS70-ltpj1HLAYE_H8JNPibp60SFrJ5H7m84O4-Ug&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ8NMDegQIXBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&ei=bBLXaq24Ko3hp84PqL_wqAY&start=10&sa=N&sstk=AS6-VmJhcGN9tSxxgqkADsEnPV1NZJ8o3tVHzjXBZv2Hc19umHUdnGK55s3mCpS70-ltpj1HLAYE_H8JNPibp60SFrJ5H7m84O4-Ug&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ8tMDegQIXBAE",
+      "3": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&ei=bBLXaq24Ko3hp84PqL_wqAY&start=20&sa=N&sstk=AS6-VmJhcGN9tSxxgqkADsEnPV1NZJ8o3tVHzjXBZv2Hc19umHUdnGK55s3mCpS70-ltpj1HLAYE_H8JNPibp60SFrJ5H7m84O4-Ug&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ8tMDegQIXBAG",
+      "4": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&ei=bBLXaq24Ko3hp84PqL_wqAY&start=30&sa=N&sstk=AS6-VmJhcGN9tSxxgqkADsEnPV1NZJ8o3tVHzjXBZv2Hc19umHUdnGK55s3mCpS70-ltpj1HLAYE_H8JNPibp60SFrJ5H7m84O4-Ug&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ8tMDegQIXBAI",
+      "5": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&ei=bBLXaq24Ko3hp84PqL_wqAY&start=40&sa=N&sstk=AS6-VmJhcGN9tSxxgqkADsEnPV1NZJ8o3tVHzjXBZv2Hc19umHUdnGK55s3mCpS70-ltpj1HLAYE_H8JNPibp60SFrJ5H7m84O4-Ug&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ8tMDegQIXBAK",
+      "6": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&ei=bBLXaq24Ko3hp84PqL_wqAY&start=50&sa=N&sstk=AS6-VmJhcGN9tSxxgqkADsEnPV1NZJ8o3tVHzjXBZv2Hc19umHUdnGK55s3mCpS70-ltpj1HLAYE_H8JNPibp60SFrJ5H7m84O4-Ug&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ8tMDegQIXBAM",
+      "7": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&ei=bBLXaq24Ko3hp84PqL_wqAY&start=60&sa=N&sstk=AS6-VmJhcGN9tSxxgqkADsEnPV1NZJ8o3tVHzjXBZv2Hc19umHUdnGK55s3mCpS70-ltpj1HLAYE_H8JNPibp60SFrJ5H7m84O4-Ug&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ8tMDegQIXBAO",
+      "8": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&ei=bBLXaq24Ko3hp84PqL_wqAY&start=70&sa=N&sstk=AS6-VmJhcGN9tSxxgqkADsEnPV1NZJ8o3tVHzjXBZv2Hc19umHUdnGK55s3mCpS70-ltpj1HLAYE_H8JNPibp60SFrJ5H7m84O4-Ug&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ8tMDegQIXBAQ",
+      "9": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&ei=bBLXaq24Ko3hp84PqL_wqAY&start=80&sa=N&sstk=AS6-VmJhcGN9tSxxgqkADsEnPV1NZJ8o3tVHzjXBZv2Hc19umHUdnGK55s3mCpS70-ltpj1HLAYE_H8JNPibp60SFrJ5H7m84O4-Ug&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ8tMDegQIXBAS",
+      "10": "https://www.google.com/search?q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sca_esv=412bc0c6936e442c&hl=ko&gl=kr&sxsrf=APpeQntBtjCA_NDkYaSFbqlnbq_NmNzrlQ:1792479852701&ei=bBLXaq24Ko3hp84PqL_wqAY&start=90&sa=N&sstk=AS6-VmJhcGN9tSxxgqkADsEnPV1NZJ8o3tVHzjXBZv2Hc19umHUdnGK55s3mCpS70-ltpj1HLAYE_H8JNPibp60SFrJ5H7m84O4-Ug&ved=2ahUKEwitnozng8iXAxWN8MkDHagfHGUQ8tMDegQIXBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=90"
+    }
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "search_metadata": {
+    "id": "6ad712723eba3dd549649586",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Oiu1yFT9xthArPguQSFgEzHZso160Ywth5CTZYpMI5Y/6ad712723eba3dd549649586.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Oiu1yFT9xthArPguQSFgEzHZso160Ywth5CTZYpMI5Y/6ad712723eba3dd549649586.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Oiu1yFT9xthArPguQSFgEzHZso160Ywth5CTZYpMI5Y/6ad712723eba3dd549649586.json_with_pixel_position",
+    "created_at": "2026-10-20 07:04:18 UTC",
+    "processed_at": "2026-10-20 07:04:18 UTC",
+    "google_url": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&oq=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&uule=w+CAIQICIRU2VvdWwsU291dGggS29yZWE&hl=ko&gl=kr&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Oiu1yFT9xthArPguQSFgEzHZso160Ywth5CTZYpMI5Y/6ad712723eba3dd549649586.html",
+    "total_time_taken": 11.43
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "AI 스타트업",
+    "location_requested": "Seoul, South Korea",
+    "location_used": "Seoul,South Korea",
+    "google_domain": "google.com",
+    "hl": "ko",
+    "gl": "kr",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "AI 스타트업",
+    "total_results": 121,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Google Cloud AI 스타트업 프로그램 등 주요 지원 사업과 국내외 최신 동향을 포함한 AI 스타트업 정보입니다.",
+        "snippet_highlighted_words": [
+          "Google Cloud AI 스타트업"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "구체적으로 알고 싶은 특정 분야(예: 생성형 AI, 온디바이스 AI, 리걸테크 등)나 투자·지원 사업 정보가 있다면 알려주세요."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "AI 스타트업 프로그램 | Google Cloud",
+        "link": "https://cloud.google.com/startup/ai?hl=ko",
+        "snippet": "- 프로그램: Google Cloud AI 스타트업 프로그램 (확대 단계 등급) - 지원: 최대 $350k(AI 스타트업) / $200k 클라우드 크레딧 (2년; 1년 차 최대 $250k/100% 보전, 2년 차 추가 $100k/20% 보전) - 자격: VC/SAFE 자금 지원, 5년 이내 ...",
+        "source": "Google Cloud",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cloud.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQw_7QOaLhUlaMHRCha254asZSLfVNQWwVYF_HsjtlYw7xtkd8zLiFkl7y8gCfjq7deQIOXDXGI6CWzfi_iZOtde4cRHyFliNp0t-28hpfyXB9eaQReGaQG4vJxnty-AE2-1x3kSvF4cNbmBo7P8NqG_p8"
+      },
+      {
+        "index": 1,
+        "title": "국내 AI 스타트업 순위 TOP 10 (2026년) - AI가 궁금할 땐, 캐럿 블로그",
+        "link": "https://carat.im/blog/korea-ai-startup-ranking-top-10",
+        "snippet": "* User metrics: Liner 11M users (95% global, #2 global web traffic); Wrtn 6M MAU; Carat 2.6M users. * Investment: Upstage 100B KRW Series B (Apr 2025); Twelve Labs...",
+        "source": "캐럿 AI",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://carat.im&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1wGgy64jGxy55ZIwI6xdl3j2ti353fBuVodKZJiqvKPxOzFAFKNDrs442RSQk8gN5EecO_3Ibx1Q3x6CTaFDyDFEnCcOyNKea-DlDAs_e3PBDJz7Pd992EzN35V0-5IFV0FcDFB5KUNggNKZPeLlZdJM"
+      },
+      {
+        "index": 2,
+        "title": "엔비디아가 유일하게 투자한 한국 AI 스타트업 | 초기 딥테크 기업에게 ...",
+        "link": "https://www.youtube.com/watch?v=mi0ZHvkWt7o",
+        "snippet": "엔비디아가 유일하게 투자한 한국 AI 스타트업 | 초기 딥테크 기업에게 던지는 메시지 세계 최고의 시총을 자랑하는 엔비디아 그들이 직접 투자한 AI 스타트업이 현재까지 30개가 넘습니다 그런데이 중에 한국 기업 하나도 포함되 있다라는 사실 알고 계신가요. 엔비디아가",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRld5ClXpGNptXQV3qXrvAhYaHwG_PHn8g4wqUnY-N5aWajea0Z7e02bJjF35EjjC_p_EIaHAeVklppxir6rghsjp1orOPM01weaLNdGGRdKKAdPLAj-uPMT8_qH4Qmoo9ZWQsim4_u7PPYuL-7A0Y98g"
+      },
+      {
+        "index": 3,
+        "title": "AI스타트업이 실제 받은 지원들 #shorts",
+        "link": "https://www.youtube.com/shorts/e5NMQAruxLc",
+        "snippet": "AI스타트업이 실제 받은 지원들 #shorts 공간 지원에서부터 적재 족소의 자금의 마중물 그리고 R&D의 마중물이 되면서 저희가 급속도로 성장할 수 있는. 배경이 어 되었다라고 설명을 드리고 싶고요 저희가 지금 현재 협력하고 있는 여러 대기업 그리고 중경 기업. 중에서는",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3u-_sMh5gI7SqYSCZNqttcoZwLPJSs-FIJbSggMvWFVuuujBu8LO1M6l9Ap-Sv3FJaIbWB-bEwhEZ7MbBHoz-eNpw75cWXC-wDnVRgP2JFWKGPXgRVjaea5JAx1QGnZlLSnoAUwWadYiP92c9SCddBlU"
+      },
+      {
+        "index": 4,
+        "title": "'ai 스타트업' 관련 📢 채용공고 | 총 1,271건의 검색결과",
+        "link": "https://www.jobkorea.co.kr/Search/?stext=ai%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85",
+        "snippet": "총 1,271건의 'ai 스타트업' 채용공고 중 주요 기업 및 공고: • 브랜드업 코리아: AI 스타트업 프레젠터 & 피칭 (시급 11k원~, 경력 1년↑) • 아로아랩스: AI 국제 물류 AI/ML 연구원(부산, 경력 3년↑), GR·정책사업 담당(경력 8년↑), PM·ITOps • 에봄에...",
+        "source": "잡코리아",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jobkorea.co.kr&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "'ai 스타트업' 관련 📢 채용공고 | 총 1154건의 검색결과",
+      "link": "https://www.jobkorea.co.kr/Search/?stext=ai%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFUW9eEYhwRC2LG7t3Pfr7lKv_mGx5kdZvOfstZ7Gwg69VSjfto_8X4_wXZLiXo7MJzS2fFVQjRBBypIWrjgAMCJ5-6-wv_40no9dcBazXEnUEpkOcWT9u4VF03SRtRgh-x6iG46kZWyXPstQ4aiFqRrJDCc5nxKo8bA8gdPNmbsLEluYMQp5_ls&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQFnoECCwQAQ&uoh=1",
+      "displayed_link": "https://www.jobkorea.co.kr › 채용 검색 › ai 스타트업",
+      "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABQBgCdASogACAAPrUurVanIacnG_DgFolsALsZprbATTNgABfcUegs3VTqzc01Zu8PNDhcXn92Dfy7wAD-G37T99nhtvExxyJhHP_5Oi9MWUMU7m9GnXTnys9-usXu3WKreI5E_xktgr5YRS5e5TAy3HrahQUHS9DVX_mnaSyAimDD0Ad5nH7WiB-y_f00sc1p7sN1x3WErjxhMfz6fdW4tLlMt16T3rihVlz_nK9A1AGfHePV78Soi0H8hF2Y-fp3S80KonZdmOT316Eh-vGHZBreQ4CH8wNpS66YO1pOUpjOsEEOZambVaWNpjxgrlY0gNWFuDTSv_DLtPERiP_aTgAAAA.webp",
+      "snippet": "'ai 스타트업' 검색결과 총 1154건- 2026 ai 스타트업 채용정보가 더 알고 싶다면? 기업정보, 취업정보를 No.1 커리어 플랫폼 잡코리아에서 확인해보세요.",
+      "snippet_highlighted_words": [
+        "ai 스타트업",
+        "ai 스타트업"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "'ai 스타트업' 검색결과 총 1154건- 2026 ai 스타트업 채용정보가 더 알고 싶다면? 기업정보, 취업정보를 No.1 커리어 플랫폼 잡코리아에서 확인해보세요.",
+          "source_info_link": "https://www.jobkorea.co.kr/Search/?stext=ai%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85",
+          "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABQBgCdASogACAAPrUurVanIacnG_DgFolsALsZprbATTNgABfcUegs3VTqzc01Zu8PNDhcXn92Dfy7wAD-G37T99nhtvExxyJhHP_5Oi9MWUMU7m9GnXTnys9-usXu3WKreI5E_xktgr5YRS5e5TAy3HrahQUHS9DVX_mnaSyAimDD0Ad5nH7WiB-y_f00sc1p7sN1x3WErjxhMfz6fdW4tLlMt16T3rihVlz_nK9A1AGfHePV78Soi0H8hF2Y-fp3S80KonZdmOT316Eh-vGHZBreQ4CH8wNpS66YO1pOUpjOsEEOZambVaWNpjxgrlY0gNWFuDTSv_DLtPERiP_aTgAAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZTRjVPS0ZsTDBjWXExdGpQYkVZcEZKYTZ6RUh3N25MTGFod1RvVzY3ZHhBY0dzRGNVWDdyXy1RX1Q3OGJwVkw2a0NWOHFaWGhjaXMyR0RhdTRWSUY5aVpSdHc3dTM4V1hYdm5KbDBNUHY0Vnhwei1UUmpicFpmcy1Iak02RDZRM2pzcHE2TFRnSG5UQ0RDYnBUMThsdVZjbHI4bXE0bGdQTFZ6VldzWnlRYmcxWDRVM0xteVduWRIEGgIIABqLBRIAGgAiACoAMgYIARICa3I6AEIECAEQCUoAWgByAHoAgkDnBAgJEAAYACAAKgkKAmFpFfymnUAqIQoJ7Iqk7YOA7Yq4FQCNkUAaB3N0YXJ0dXAaBuywveyXhSofCgPsl4UVAI2RQBoHc3RhcnR1cBoCdXAaBuywveyXhTLNAS9nb3RvP3VybD1DQUVTalFFQjZ6c3dGU0Y1T0tGbEwwY1lxMXRqUGJFWXBGSmE2ekVIdzduTExhaHdUb1c2N2R4QWNHc0RjVVg3cl8tUV9UNzhicFZMNmtDVjhxWlhoY2lzMkdEYXU0VklGOWlaUnR3N3UzOFdYWHZuSmwwTVB2NFZ4cHotVFJqYnBaZnMtSGpNNkQ2UTNqc3BxNkxUZ0huVENEQ2JwVDE4bHVWY2xyOG1xNGxnUExWelZXc1p5UWJnMVg0VTNMbXlXblk6YSYjMzk7PGI-YWkg7Iqk7YOA7Yq47JeFPC9iPiYjMzk7IOq0gOugqCDssYTsmqnqs7Xqs6AgfCDstJ0gMTE1NOqxtOydmCDqsoDsg4nqsrDqs7wgLSDsnqHsvZTrpqzslYRC2gEmIzM5OzxiPmFpIOyKpO2DgO2KuOyXhTwvYj4mIzM5OyDqsoDsg4nqsrDqs7wg7LSdIDExNTTqsbQtIDIwMjYgPGI-YWkg7Iqk7YOA7Yq47JeFPC9iPiDssYTsmqnsoJXrs7TqsIAg642UIOyVjOqzoCDsi7bri6TrqbQ_IOq4sOyXheygleuztCwg7Leo7JeF7KCV67O066W8IE5vLjEg7Luk66as7Ja0IO2UjOueq-2PvCDsnqHsvZTrpqzslYTsl5DshJwg7ZmV7J247ZW067O07IS47JqULiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZTRjVPS0ZsTDBjWXExdGpQYkVZcEZKYTZ6RUh3N25MTGFod1RvVzY3ZHhBY0dzRGNVWDdyXy1RX1Q3OGJwVkw2a0NWOHFaWGhjaXMyR0RhdTRWSUY5aVpSdHc3dTM4V1hYdm5KbDBNUHY0Vnhwei1UUmpicFpmcy1Iak02RDZRM2pzcHE2TFRnSG5UQ0RDYnBUMThsdVZjbHI4bXE0bGdQTFZ6VldzWnlRYmcxWDRVM0xteVduWRIEGgIIABqLBRIAGgAiACoAMgYIARICa3I6AEIECAEQCUoAWgByAHoAgkDnBAgJEAAYACAAKgkKAmFpFfymnUAqIQoJ7Iqk7YOA7Yq4FQCNkUAaB3N0YXJ0dXAaBuywveyXhSofCgPsl4UVAI2RQBoHc3RhcnR1cBoCdXAaBuywveyXhTLNAS9nb3RvP3VybD1DQUVTalFFQjZ6c3dGU0Y1T0tGbEwwY1lxMXRqUGJFWXBGSmE2ekVIdzduTExhaHdUb1c2N2R4QWNHc0RjVVg3cl8tUV9UNzhicFZMNmtDVjhxWlhoY2lzMkdEYXU0VklGOWlaUnR3N3UzOFdYWHZuSmwwTVB2NFZ4cHotVFJqYnBaZnMtSGpNNkQ2UTNqc3BxNkxUZ0huVENEQ2JwVDE4bHVWY2xyOG1xNGxnUExWelZXc1p5UWJnMVg0VTNMbXlXblk6YSYjMzk7PGI-YWkg7Iqk7YOA7Yq47JeFPC9iPiYjMzk7IOq0gOugqCDssYTsmqnqs7Xqs6AgfCDstJ0gMTE1NOqxtOydmCDqsoDsg4nqsrDqs7wgLSDsnqHsvZTrpqzslYRC2gEmIzM5OzxiPmFpIOyKpO2DgO2KuOyXhTwvYj4mIzM5OyDqsoDsg4nqsrDqs7wg7LSdIDExNTTqsbQtIDIwMjYgPGI-YWkg7Iqk7YOA7Yq47JeFPC9iPiDssYTsmqnsoJXrs7TqsIAg642UIOyVjOqzoCDsi7bri6TrqbQ_IOq4sOyXheygleuztCwg7Leo7JeF7KCV67O066W8IE5vLjEg7Luk66as7Ja0IO2UjOueq-2PvCDsnqHsvZTrpqzslYTsl5DshJwg7ZmV7J247ZW067O07IS47JqULiICEAFIAFgAaAA",
+      "source": "잡코리아"
+    },
+    {
+      "position": 2,
+      "title": "주요사업 - Korea AI Startups",
+      "link": "https://koraia.org/default/mp3/sub1.php?sub=01",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVV9ZGDAgSy2erGk8rmIp4O9FzkwG39uU6DAhL_NaWxsrlmNFMCbkWSeKQy-i4iGnqpb3-xF1liRVEe_Ux-Hroek7MlsBo8gAu8NWO5ZUeVwtaMedK2JAtopbtNE6fFH_POw2Dzw&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://koraia.org › default › sub1",
+      "favicon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAACQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y43tBCC7ci6AlaPcSmV_rMOKu0o9jlAmFplkS86o-UTIUqrYIJupYEQAA_vYT4EY51-1usTIlS8yYbWOPjTTs2dd8S7UyUjud7lyiOrS20hZbY3ID4LrMVjj1t6XH6K0jlA5jBFteYkJk1BzuHVjUuT0PD6HP5kEIQ5lywm5wvIGpc9skQxY3gVL4En2T7FbYPrxn_-4F6M9EhbJs3vWjxVKGfxT_oA76hHgyflS5diWFqjQK5AaMASHm78QrRvEHp_C-dzLX4e7zhf8eCpv2PXTljh_urlqBoVL9uB1s-9CZGrFGTu5yyO7r2RnkDpekCMoYRvaGwVxR6_eYqu_5Af4jRk0KjXvFs5K8ArNoOh6LXKL_e5VL_1cSfc_w-hf-RgB68rgUv1Oxg6jhwnZEof9r2GfbHeNZrKoXo1AOX3fsbbQ6f1cmLwOiGnS__xBUDC_WYk-oyGkbl3TM7ymcyIAAAAA.webp",
+      "snippet": "한국인공지능협회의 'Korea AI Startups' 발간 사업은 지난 2017년부터 국내 인공지능 강소기업들의 우수성을 국내외로 확산하고 산업적 관심의 제고를 위해 발간해 ...",
+      "snippet_highlighted_words": [
+        "국내 인공지능 강소기업들의 우수성을 국내외로 확산"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "한국인공지능협회의 'Korea AI Startups' 발간 사업은 지난 2017년부터 국내 인공지능 강소기업들의 우수성을 국내외로 확산하고 산업적 관심의 제고를 위해 발간해 ...",
+          "source_info_link": "https://koraia.org/default/mp3/sub1.php?sub=01",
+          "icon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAACQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y43tBCC7ci6AlaPcSmV_rMOKu0o9jlAmFplkS86o-UTIUqrYIJupYEQAA_vYT4EY51-1usTIlS8yYbWOPjTTs2dd8S7UyUjud7lyiOrS20hZbY3ID4LrMVjj1t6XH6K0jlA5jBFteYkJk1BzuHVjUuT0PD6HP5kEIQ5lywm5wvIGpc9skQxY3gVL4En2T7FbYPrxn_-4F6M9EhbJs3vWjxVKGfxT_oA76hHgyflS5diWFqjQK5AaMASHm78QrRvEHp_C-dzLX4e7zhf8eCpv2PXTljh_urlqBoVL9uB1s-9CZGrFGTu5yyO7r2RnkDpekCMoYRvaGwVxR6_eYqu_5Af4jRk0KjXvFs5K8ArNoOh6LXKL_e5VL_1cSfc_w-hf-RgB68rgUv1Oxg6jhwnZEof9r2GfbHeNZrKoXo1AOX3fsbbQ6f1cmLwOiGnS__xBUDC_WYk-oyGkbl3TM7ymcyIAAAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVnMyR3NxbU1MLTZ4bENXdjJ4MEJoZmNQcnoyd1l5eGJ5RzZSMDV0Skw2WG01RElPMTdTaXlwakI2QVJwNEpuY2NRbVp4WGRjYWNBWUg0b0toSzJqRVlkLTFjVzdmUHlWbnVqLXJ2RkowTUFEOENmbDBSVzkyd1JNVnAtN0dNR0E0R1ZQSE5REgQaAggAGs0EEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJApwQICRAAGAAgACoJCgJhaRWtt51AKiEKCeyKpO2DgO2KuBXJouE_GgdzdGFydHVwGgbssL3sl4UqHwoD7JeFFcmi4T8aB3N0YXJ0dXAaAnVwGgbssL3sl4UynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWczJHc3FtTUwtNnhsQ1d2MngwQmhmY1ByejJ3WXl4YnlHNlIwNXRKTDZYbTVESU8xN1NpeXBqQjZBUnA0Sm5jY1FtWnhYZGNhY0FZSDRvS2hLMmpFWWQtMWNXN2ZQeVZudWotcnZGSjBNQUQ4Q2ZsMFJXOTJ3Uk1WcC03R01HQTRHVlBITlE6QuyjvOyalOyCrOyXhSAtIEtvcmVhIDxiPkFJPC9iPiBTdGFydHVwcyAtIO2VnOq1reyduOqzteyngOuKpe2Yke2ajELqAe2VnOq1reyduOqzteyngOuKpe2Yke2ajOydmCAmIzM5O0tvcmVhIEFJIFN0YXJ0dXBzJiMzOTsg67Cc6rCEIOyCrOyXheydgCDsp4DrgpwgMjAxN-uFhOu2gO2EsCA8Yj7qta3rgrQg7J246rO17KeA64qlIOqwleyGjOq4sOyXheuTpOydmCDsmrDsiJjshLHsnYQg6rWt64K07Jm466GcIO2ZleyCsDwvYj7tlZjqs6Ag7IKw7JeF7KCBIOq0gOyLrOydmCDsoJzqs6Drpbwg7JyE7ZW0IOuwnOqwhO2VtCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVnMyR3NxbU1MLTZ4bENXdjJ4MEJoZmNQcnoyd1l5eGJ5RzZSMDV0Skw2WG01RElPMTdTaXlwakI2QVJwNEpuY2NRbVp4WGRjYWNBWUg0b0toSzJqRVlkLTFjVzdmUHlWbnVqLXJ2RkowTUFEOENmbDBSVzkyd1JNVnAtN0dNR0E0R1ZQSE5REgQaAggAGs0EEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJApwQICRAAGAAgACoJCgJhaRWtt51AKiEKCeyKpO2DgO2KuBXJouE_GgdzdGFydHVwGgbssL3sl4UqHwoD7JeFFcmi4T8aB3N0YXJ0dXAaAnVwGgbssL3sl4UynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWczJHc3FtTUwtNnhsQ1d2MngwQmhmY1ByejJ3WXl4YnlHNlIwNXRKTDZYbTVESU8xN1NpeXBqQjZBUnA0Sm5jY1FtWnhYZGNhY0FZSDRvS2hLMmpFWWQtMWNXN2ZQeVZudWotcnZGSjBNQUQ4Q2ZsMFJXOTJ3Uk1WcC03R01HQTRHVlBITlE6QuyjvOyalOyCrOyXhSAtIEtvcmVhIDxiPkFJPC9iPiBTdGFydHVwcyAtIO2VnOq1reyduOqzteyngOuKpe2Yke2ajELqAe2VnOq1reyduOqzteyngOuKpe2Yke2ajOydmCAmIzM5O0tvcmVhIEFJIFN0YXJ0dXBzJiMzOTsg67Cc6rCEIOyCrOyXheydgCDsp4DrgpwgMjAxN-uFhOu2gO2EsCA8Yj7qta3rgrQg7J246rO17KeA64qlIOqwleyGjOq4sOyXheuTpOydmCDsmrDsiJjshLHsnYQg6rWt64K07Jm466GcIO2ZleyCsDwvYj7tlZjqs6Ag7IKw7JeF7KCBIOq0gOyLrOydmCDsoJzqs6Drpbwg7JyE7ZW0IOuwnOqwhO2VtCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "한국인공지능협회"
+    },
+    {
+      "position": 3,
+      "title": "AI 스타트업 프로그램",
+      "link": "https://cloud.google.com/startup/ai?hl=ko",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cloud.google.com/startup/ai%3Fhl%3Dko&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQFnoECC8QAQ",
+      "displayed_link": "https://cloud.google.com › startup › ai",
+      "favicon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAKwvUngHCEuBwANsBdkHoAeV97HpES7tUONvL8T8zyAxQ2t3lQt_7ZjPyj-yxvyhAAD-9glzwT5PjCna-XJg9aU1YWywdqj3RWupDOP2TRcJA4GxnwjWP0-MLJnwp7WW84ypgYKKhYo-f39E-YJqUDkQiTs_tz9bPxPetW6qeerz9aD7lv4_4q_GfdCvm4A_tzu5KV2R75vmqYRckshuTWQMj3XyssVo5MH6ncvKdugGqkOrPq_IOjFOP-VUFVnS5PsMjJgrnKtLSB5aeFibdG7-IHs57HGe0cTCf5-PkdB2XD18zPz92sZcygXppGbGINGtNfP9P-r68asYTybp2icf1_4d5yAvr8-hVItUQhAl4cIROMZKefvRzVjKsNliRPZDSHRiCJ3aqUJ64LKgZIhvies3R-AAAA.webp",
+      "snippet": "AI 스타트업의 성장을 지원하는 Google의 AI 프로그램. 최대 $350,000의 클라우드 크레딧, 스타트업 여정을 가속화하는 리소스, 전담 지원 및 지원, Google의 최고의 ...",
+      "snippet_highlighted_words": [
+        "AI 스타트업의 성장을 지원하는 Google의 AI 프로그램"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "AI 스타트업의 성장을 지원하는 Google의 AI 프로그램. 최대 $350,000의 클라우드 크레딧, 스타트업 여정을 가속화하는 리소스, 전담 지원 및 지원, Google의 최고의 ...",
+          "source_info_link": "https://cloud.google.com/startup/ai?hl=ko",
+          "icon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAKwvUngHCEuBwANsBdkHoAeV97HpES7tUONvL8T8zyAxQ2t3lQt_7ZjPyj-yxvyhAAD-9glzwT5PjCna-XJg9aU1YWywdqj3RWupDOP2TRcJA4GxnwjWP0-MLJnwp7WW84ypgYKKhYo-f39E-YJqUDkQiTs_tz9bPxPetW6qeerz9aD7lv4_4q_GfdCvm4A_tzu5KV2R75vmqYRckshuTWQMj3XyssVo5MH6ncvKdugGqkOrPq_IOjFOP-VUFVnS5PsMjJgrnKtLSB5aeFibdG7-IHs57HGe0cTCf5-PkdB2XD18zPz92sZcygXppGbGINGtNfP9P-r68asYTybp2icf1_4d5yAvr8-hVItUQhAl4cIROMZKefvRzVjKsNliRPZDSHRiCJ3aqUJ64LKgZIhvies3R-AAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CilodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vc3RhcnR1cC9haT9obD1rbxIEGgIIABq-AxICCAAaACIAKgAyBggDEgJrcjoAQgQIARAJSgBaAHIAegCCQJgDCAkQABgAIAAqCQoCYWkVeZqtQCohCgnsiqTtg4DtirgVBA6UQBoHc3RhcnR1cBoG7LC97JeFKh8KA-yXhRVClpNAGgdzdGFydHVwGgJ1cBoG7LC97JeFMilodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vc3RhcnR1cC9haT9obD1rbzoyPGI-QUkg7Iqk7YOA7Yq47JeFPC9iPiDtlITroZzqt7jrnqggLSBHb29nbGUgQ2xvdWRC3wE8Yj5BSSDsiqTtg4Dtirjsl4XsnZgg7ISx7J6l7J2EIOyngOybkO2VmOuKlCBHb29nbGXsnZggQUkg7ZSE66Gc6re4656oPC9iPi4g7LWc64yAICQzNTAsMDAw7J2YIO2BtOudvOyasOuTnCDtgazroIjrlKcsIOyKpO2DgO2KuOyXhSDsl6zsoJXsnYQg6rCA7IaN7ZmU7ZWY64qUIOumrOyGjOyKpCwg7KCE64u0IOyngOybkCDrsI8g7KeA7JuQLCBHb29nbGXsnZgg7LWc6rOg7J2YJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CilodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vc3RhcnR1cC9haT9obD1rbxIEGgIIABq-AxICCAAaACIAKgAyBggDEgJrcjoAQgQIARAJSgBaAHIAegCCQJgDCAkQABgAIAAqCQoCYWkVeZqtQCohCgnsiqTtg4DtirgVBA6UQBoHc3RhcnR1cBoG7LC97JeFKh8KA-yXhRVClpNAGgdzdGFydHVwGgJ1cBoG7LC97JeFMilodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vc3RhcnR1cC9haT9obD1rbzoyPGI-QUkg7Iqk7YOA7Yq47JeFPC9iPiDtlITroZzqt7jrnqggLSBHb29nbGUgQ2xvdWRC3wE8Yj5BSSDsiqTtg4Dtirjsl4XsnZgg7ISx7J6l7J2EIOyngOybkO2VmOuKlCBHb29nbGXsnZggQUkg7ZSE66Gc6re4656oPC9iPi4g7LWc64yAICQzNTAsMDAw7J2YIO2BtOudvOyasOuTnCDtgazroIjrlKcsIOyKpO2DgO2KuOyXhSDsl6zsoJXsnYQg6rCA7IaN7ZmU7ZWY64qUIOumrOyGjOyKpCwg7KCE64u0IOyngOybkCDrsI8g7KeA7JuQLCBHb29nbGXsnZgg7LWc6rOg7J2YJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Google Cloud"
+    },
+    {
+      "position": 4,
+      "title": "생성 AI 스타트업 정보 - 파인더",
+      "link": "https://www.nextunicorn.kr/finder/theme/generative-AI",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVrSpsNQLBe04tcGUJxmHqrfqSZulFwW91yRwkXbzhoGaBKO4xgDqkU3R_4Xk98N2SJ9OSgNF0AjJ7TgG-5gIQ_j1bMl2yvx5VLqlfHU9Qazqko18R6m-8Bf8nfV4fVpNC70wY5zjIi3-DS-U&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.nextunicorn.kr › theme › generative-AI",
+      "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAADQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3oHCDUATR4RFov9ZgE65QwE5HdFRbSzwAAP5tguTFoTcl5n5p8mfMD6b93Z7zB8OVJ7ZG9lmHaJ8UHP_5KdD6Zd5kyrvaiHVDX_foPwKVf_x0rUo90gk_BHRAuAVxXH-VXTLCDOf4svsWNi7dvwuNq3v1_-dZ-w4frNr-n5__EkhycZ7Fr8sR7iBCXXBZX1R0UcxotvDwCAykF6IVVS_39lvamrKLWnBlWEeRDJZof3_z4s208CSxmw38f34AtEYAAA.webp",
+      "snippet": "15종의 인공지능 알고리즘으로 이커머스업무자동화를 제공하는 인공지능 B2B SaaS 스타트업입니다. 조회수 331 · 네오엔터디엑스. 네오엔터 ...",
+      "snippet_highlighted_words": [
+        "스타트업"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "15종의 인공지능 알고리즘으로 이커머스업무자동화를 제공하는 인공지능 B2B SaaS 스타트업입니다. 조회수 331 · 네오엔터디엑스. 네오엔터 ...",
+          "source_info_link": "https://www.nextunicorn.kr/finder/theme/generative-AI",
+          "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAADQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3oHCDUATR4RFov9ZgE65QwE5HdFRbSzwAAP5tguTFoTcl5n5p8mfMD6b93Z7zB8OVJ7ZG9lmHaJ8UHP_5KdD6Zd5kyrvaiHVDX_foPwKVf_x0rUo90gk_BHRAuAVxXH-VXTLCDOf4svsWNi7dvwuNq3v1_-dZ-w4frNr-n5__EkhycZ7Fr8sR7iBCXXBZX1R0UcxotvDwCAykF6IVVS_39lvamrKLWnBlWEeRDJZof3_z4s208CSxmw38f34AtEYAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVjVEMFdhcFBZa0RlY1N2T0pVRU5XVTNVSDYtTE5wZE1LR3hwZUV4NXBZcUo3bmdZRC1pMnVXa0pudXI2TDlfYm8zYzZRWVRyOVo2WmpBZldMVkVKVUJwMUNuUHNZSGVGai1hbW5nd2o2ZGQ1Sjc2N3FTOGo5N3VYTHJ0R3BuRTJLaUF0ZUdadWhxTHMtSy1nEgQaAggAGrsEEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAlQQICRAAGAAgACoJCgJhaRWc2LtAKiEKCeyKpO2DgO2KuBXM74pAGgdzdGFydHVwGgbssL3sl4UqHwoD7JeFFaK6jkAaB3N0YXJ0dXAaAnVwGgbssL3sl4UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWNUQwV2FwUFlrRGVjU3ZPSlVFTldVM1VINi1MTnBkTUtHeHBlRXg1cFlxSjduZ1lELWkydVdrSm51cjZMOV9ibzNjNlFZVHI5WjZaakFmV0xWRUpVQnAxQ25Qc1lIZUZqLWFtbmd3ajZkZDVKNzY3cVM4ajk3dVhMcnRHcG5FMktpQXRlR1p1aHFMcy1LLWc6ReyDneyEsSA8Yj5BSSDsiqTtg4Dtirjsl4U8L2I-IOygleuztCAtIO2MjOyduOuNlCAtIOuEpeyKpO2KuOycoOuLiOy9mELMATE17KKF7J2YIOyduOqzteyngOuKpSDslYzqs6DrpqzsppjsnLzroZwg7J207Luk66i47Iqk7JeF66y07J6Q64-Z7ZmU66W8IOygnOqzte2VmOuKlCDsnbjqs7Xsp4DriqUgQjJCIFNhYVMgPGI-7Iqk7YOA7Yq47JeFPC9iPuyeheuLiOuLpC4g7KGw7ZqM7IiYIDMzMSAmbWlkZG90OyDrhKTsmKTsl5TthLDrlJTsl5HsiqQuIOuEpOyYpOyXlO2EsCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVjVEMFdhcFBZa0RlY1N2T0pVRU5XVTNVSDYtTE5wZE1LR3hwZUV4NXBZcUo3bmdZRC1pMnVXa0pudXI2TDlfYm8zYzZRWVRyOVo2WmpBZldMVkVKVUJwMUNuUHNZSGVGai1hbW5nd2o2ZGQ1Sjc2N3FTOGo5N3VYTHJ0R3BuRTJLaUF0ZUdadWhxTHMtSy1nEgQaAggAGrsEEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAlQQICRAAGAAgACoJCgJhaRWc2LtAKiEKCeyKpO2DgO2KuBXM74pAGgdzdGFydHVwGgbssL3sl4UqHwoD7JeFFaK6jkAaB3N0YXJ0dXAaAnVwGgbssL3sl4UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWNUQwV2FwUFlrRGVjU3ZPSlVFTldVM1VINi1MTnBkTUtHeHBlRXg1cFlxSjduZ1lELWkydVdrSm51cjZMOV9ibzNjNlFZVHI5WjZaakFmV0xWRUpVQnAxQ25Qc1lIZUZqLWFtbmd3ajZkZDVKNzY3cVM4ajk3dVhMcnRHcG5FMktpQXRlR1p1aHFMcy1LLWc6ReyDneyEsSA8Yj5BSSDsiqTtg4Dtirjsl4U8L2I-IOygleuztCAtIO2MjOyduOuNlCAtIOuEpeyKpO2KuOycoOuLiOy9mELMATE17KKF7J2YIOyduOqzteyngOuKpSDslYzqs6DrpqzsppjsnLzroZwg7J207Luk66i47Iqk7JeF66y07J6Q64-Z7ZmU66W8IOygnOqzte2VmOuKlCDsnbjqs7Xsp4DriqUgQjJCIFNhYVMgPGI-7Iqk7YOA7Yq47JeFPC9iPuyeheuLiOuLpC4g7KGw7ZqM7IiYIDMzMSAmbWlkZG90OyDrhKTsmKTsl5TthLDrlJTsl5HsiqQuIOuEpOyYpOyXlO2EsCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "넥스트유니콘"
+    },
+    {
+      "position": 5,
+      "title": "AI 기반 스타트업 아이디어 생성기",
+      "link": "https://stratup.ai/ko",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAV4OiN3QDhnaDavM4L9AP16QCxwjUHRSWNT0_Dwkss5Kms7Olco-hpLP2XNXQq02rHga7ffzmq7Z0rap3TTBOiOYklKj8tmbmgmQS2&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://stratup.ai › ...",
+      "favicon": "https://serpapi.com/images/i/UklGRngBAABXRUJQVlA4IGwBAACQCACdASocABwAPtEutFooIagoGAEAGglpAAzqzaOp6v-q9Fv5N80fzz7An8l_nv-t6Wb2Fv1GHZsaZtkDieOeh08BPBw3e7ERr3TUAAD-9gdrJIeb1WCy35hbdrFu9qgx49zTdrkXTIXZPh33v0Mo950isd1z5dXtJinzIx1MAH7rwbaz4UeiQKAGHYURukYLHzqbxbb2nVbhXzA05G2Wqz5XPhH3jzS94edhSDsQDROw3_PGOM_v1smAC6UF5orr0f9uTFcznxo5dYHjNf8qnph1C1RH8m3bupCp7LQmfXu7Cfcd39bdl5J-GSJTtdJC-fvf2-PT7CrwjdlbQndJFmc8g9tjyfGEX0MuFGo7nDivqz-j8w_lDf8UCY__1BXP7n81k4suaBig_W9cUtvfJcZYTui-Xm0__3zqXS_N6_pAY8epDapo_VGE75zhOIYpYd5JuPfT-ESp5QWekaqvAysfDnTQmg1lgAAA.webp",
+      "snippet": "독특하고 혁신적인 스타트업 및 비즈니스 아이디어를 몇 초 만에 생성하는 데 도움이 되는 새로운 AI 기반 도구인 Stratup.ai를 소개합니다.",
+      "snippet_highlighted_words": [
+        "ai"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "독특하고 혁신적인 스타트업 및 비즈니스 아이디어를 몇 초 만에 생성하는 데 도움이 되는 새로운 AI 기반 도구인 Stratup.ai를 소개합니다.",
+          "source_info_link": "https://stratup.ai/ko",
+          "icon": "https://serpapi.com/images/i/UklGRngBAABXRUJQVlA4IGwBAACQCACdASocABwAPtEutFooIagoGAEAGglpAAzqzaOp6v-q9Fv5N80fzz7An8l_nv-t6Wb2Fv1GHZsaZtkDieOeh08BPBw3e7ERr3TUAAD-9gdrJIeb1WCy35hbdrFu9qgx49zTdrkXTIXZPh33v0Mo950isd1z5dXtJinzIx1MAH7rwbaz4UeiQKAGHYURukYLHzqbxbb2nVbhXzA05G2Wqz5XPhH3jzS94edhSDsQDROw3_PGOM_v1smAC6UF5orr0f9uTFcznxo5dYHjNf8qnph1C1RH8m3bupCp7LQmfXu7Cfcd39bdl5J-GSJTtdJC-fvf2-PT7CrwjdlbQndJFmc8g9tjyfGEX0MuFGo7nDivqz-j8w_lDf8UCY__1BXP7n81k4suaBig_W9cUtvfJcZYTui-Xm0__3zqXS_N6_pAY8epDapo_VGE75zhOIYpYd5JuPfT-ESp5QWekaqvAysfDnTQmg1lgAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWbGcwRTJ4aURpUTRVX2lMYzRJMzdvWVZhRE1CN25JV3JjQTNua2dSdW1oeXQtX1VnMXZwYklRbmJmbkN4U2lWUWRUVXFmSUM1dWRqeHlmNnNhU0IwRXFaTS1vdkt3eVNYVUVWZxIEGgIIABqCBBICCAAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQNwDCAkQABgAIAAqCQoCYWkVbgG-QCohCgnsiqTtg4DtirgV2OKbQBoHc3RhcnR1cBoG7LC97JeFKh8KA-yXhRUOIptAGgdzdGFydHVwGgJ1cBoG7LC97JeFMnovZ290bz91cmw9Q0FFU1VBSHJPekFWbGcwRTJ4aURpUTRVX2lMYzRJMzdvWVZhRE1CN25JV3JjQTNua2dSdW1oeXQtX1VnMXZwYklRbmJmbkN4U2lWUWRUVXFmSUM1dWRqeHlmNnNhU0IwRXFaTS1vdkt3eVNYVUVWZzpIPGI-QUk8L2I-IOq4sOuwmCA8Yj7siqTtg4Dtirjsl4U8L2I-IOyVhOydtOuUlOyWtCDsg53shLHquLAgLSBTdHJhdHVwLmFpQrwB64-F7Yq57ZWY6rOgIO2YgeyLoOyggeyduCDsiqTtg4Dtirjsl4Ug67CPIOu5hOymiOuLiOyKpCDslYTsnbTrlJTslrTrpbwg66qHIOy0iCDrp4zsl5Ag7IOd7ISx7ZWY64qUIOuNsCDrj4Tsm4DsnbQg65CY64qUIOyDiOuhnOyatCBBSSDquLDrsJgg64-E6rWs7J24IFN0cmF0dXAuPGI-YWk8L2I-66W8IOyGjOqwnO2VqeuLiOuLpC4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWbGcwRTJ4aURpUTRVX2lMYzRJMzdvWVZhRE1CN25JV3JjQTNua2dSdW1oeXQtX1VnMXZwYklRbmJmbkN4U2lWUWRUVXFmSUM1dWRqeHlmNnNhU0IwRXFaTS1vdkt3eVNYVUVWZxIEGgIIABqCBBICCAAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQNwDCAkQABgAIAAqCQoCYWkVbgG-QCohCgnsiqTtg4DtirgV2OKbQBoHc3RhcnR1cBoG7LC97JeFKh8KA-yXhRUOIptAGgdzdGFydHVwGgJ1cBoG7LC97JeFMnovZ290bz91cmw9Q0FFU1VBSHJPekFWbGcwRTJ4aURpUTRVX2lMYzRJMzdvWVZhRE1CN25JV3JjQTNua2dSdW1oeXQtX1VnMXZwYklRbmJmbkN4U2lWUWRUVXFmSUM1dWRqeHlmNnNhU0IwRXFaTS1vdkt3eVNYVUVWZzpIPGI-QUk8L2I-IOq4sOuwmCA8Yj7siqTtg4Dtirjsl4U8L2I-IOyVhOydtOuUlOyWtCDsg53shLHquLAgLSBTdHJhdHVwLmFpQrwB64-F7Yq57ZWY6rOgIO2YgeyLoOyggeyduCDsiqTtg4Dtirjsl4Ug67CPIOu5hOymiOuLiOyKpCDslYTsnbTrlJTslrTrpbwg66qHIOy0iCDrp4zsl5Ag7IOd7ISx7ZWY64qUIOuNsCDrj4Tsm4DsnbQg65CY64qUIOyDiOuhnOyatCBBSSDquLDrsJgg64-E6rWs7J24IFN0cmF0dXAuPGI-YWk8L2I-66W8IOyGjOqwnO2VqeuLiOuLpC4iAhABSABYAGgA",
+      "source": "Stratup.ai"
+    },
+    {
+      "position": 6,
+      "title": "국내 생성형 AI 스타트업 - 기업 리스트 43개",
+      "link": "https://thevc.kr/collections/66fd3b70f7d20ac5d369aaff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVlXBqxA-tYDrx-CdetRmJWAZHVFfromhXtO8NL8y8I9oRwE2s-bCebbMq_6Q_PuhnIKvXqZd_qtAlMGkoX6a9tNYplB1SzV4hi2II0bk_PAWfGDjiZ0ELVmZVgeofyujmd9MSXNsTaWODu48&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQFnoECC4QAQ&uoh=1",
+      "displayed_link": "https://thevc.kr › collections",
+      "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGgllALTpixjJlNo6gwZvwpyAiqfUvFtfsQlyAAD-TtkmFhKvU75Tx3Ak-46WqUZ30VLuQuk_mj-BkQHgekeq4ZqiwcfRKYxpYNmupv_eS_c05_7LPnKX3BmU_iDoOhOyLvfT-sEcHwjfa98vas1FAv6Axvpvq6PsSyAYftpG3Ux5pe5V1yhQcprZHMstbETpXp78ILQzLQFD1Ou2qg4oLEwnh1xPS4r1ze_89tzKfoA-E6Ajn9ZvdPZ7bI3eUm8z-iPmFPkFudG4AAAA.webp",
+      "snippet": "옵티마이저에이아이, 리얼드로우, 라이언로켓 포함 43개의 기업 리스트.",
+      "about_this_result": {
+        "source": {
+          "description": "옵티마이저에이아이, 리얼드로우, 라이언로켓 포함 43개의 기업 리스트.",
+          "source_info_link": "https://thevc.kr/collections/66fd3b70f7d20ac5d369aaff",
+          "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGgllALTpixjJlNo6gwZvwpyAiqfUvFtfsQlyAAD-TtkmFhKvU75Tx3Ak-46WqUZ30VLuQuk_mj-BkQHgekeq4ZqiwcfRKYxpYNmupv_eS_c05_7LPnKX3BmU_iDoOhOyLvfT-sEcHwjfa98vas1FAv6Axvpvq6PsSyAYftpG3Ux5pe5V1yhQcprZHMstbETpXp78ILQzLQFD1Ou2qg4oLEwnh1xPS4r1ze_89tzKfoA-E6Ajn9ZvdPZ7bI3eUm8z-iPmFPkFudG4AAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVk1Yd0RJUFZiVkROdDZrTEZ4YUJ2WHVUeTRoWFQ2ZXRGYW9OczBNUVJaYWpiT3ZzTzV3Qk1tdXc5dDAxeDk0TU5uM0JnMWRTXzBSYkxTTTdscHZQTHNwQkZYVVV5VEgxak1yWmVDZGdFc2VuRHlSUGY0eTdyM0xwdHVJR1RuV0xWdTBVVkNPUzM5YkhESWdFEgQaAggAGs8DEgAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQKsDCAkQABgAIAAqCQoCYWkV7RmLQCohCgnsiqTtg4DtirgVXc-CQBoHc3RhcnR1cBoG7LC97JeFKh8KA-yXhRVdz4JAGgdzdGFydHVwGgJ1cBoG7LC97JeFMqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVk1Yd0RJUFZiVkROdDZrTEZ4YUJ2WHVUeTRoWFQ2ZXRGYW9OczBNUVJaYWpiT3ZzTzV3Qk1tdXc5dDAxeDk0TU5uM0JnMWRTXzBSYkxTTTdscHZQTHNwQkZYVVV5VEgxak1yWmVDZGdFc2VuRHlSUGY0eTdyM0xwdHVJR1RuV0xWdTBVVkNPUzM5YkhESWdFOknqta3rgrQg7IOd7ISx7ZiVIDxiPkFJIOyKpO2DgO2KuOyXhTwvYj4gLSDquLDsl4Ug66as7Iqk7Yq4IDQz6rCcIC0gVEhFIFZDQl_smLXti7Drp4jsnbTsoIDsl5DsnbTslYTsnbQsIOumrOyWvOuTnOuhnOyasCwg65287J207Ja466Gc7LyTIO2PrO2VqCA0M-qwnOydmCDquLDsl4Ug66as7Iqk7Yq4LiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVk1Yd0RJUFZiVkROdDZrTEZ4YUJ2WHVUeTRoWFQ2ZXRGYW9OczBNUVJaYWpiT3ZzTzV3Qk1tdXc5dDAxeDk0TU5uM0JnMWRTXzBSYkxTTTdscHZQTHNwQkZYVVV5VEgxak1yWmVDZGdFc2VuRHlSUGY0eTdyM0xwdHVJR1RuV0xWdTBVVkNPUzM5YkhESWdFEgQaAggAGs8DEgAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQKsDCAkQABgAIAAqCQoCYWkV7RmLQCohCgnsiqTtg4DtirgVXc-CQBoHc3RhcnR1cBoG7LC97JeFKh8KA-yXhRVdz4JAGgdzdGFydHVwGgJ1cBoG7LC97JeFMqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVk1Yd0RJUFZiVkROdDZrTEZ4YUJ2WHVUeTRoWFQ2ZXRGYW9OczBNUVJaYWpiT3ZzTzV3Qk1tdXc5dDAxeDk0TU5uM0JnMWRTXzBSYkxTTTdscHZQTHNwQkZYVVV5VEgxak1yWmVDZGdFc2VuRHlSUGY0eTdyM0xwdHVJR1RuV0xWdTBVVkNPUzM5YkhESWdFOknqta3rgrQg7IOd7ISx7ZiVIDxiPkFJIOyKpO2DgO2KuOyXhTwvYj4gLSDquLDsl4Ug66as7Iqk7Yq4IDQz6rCcIC0gVEhFIFZDQl_smLXti7Drp4jsnbTsoIDsl5DsnbTslYTsnbQsIOumrOyWvOuTnOuhnOyasCwg65287J207Ja466Gc7LyTIO2PrO2VqCA0M-qwnOydmCDquLDsl4Ug66as7Iqk7Yq4LiICEAFIAFgAaAA",
+      "source": "더브이씨 (THE VC)"
+    },
+    {
+      "position": 7,
+      "title": "국내 AI 스타트업 순위 TOP 10 (2026년)",
+      "link": "https://carat.im/blog/korea-ai-startup-ranking-top-10",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAV-_EnScFwnJ68GJh_YIZZNNpdpJ0C8YYJpEwIAMidLd-7eyLz4xrEstDKVmrUad0B_asmG6SS1eXy77GnJ42ug7SwvHYOPzjCBkoTqBmQN5348nVz6inW7MtT5JNInYMqwRN1CAQNM6kvj28&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQFnoECDMQAQ&uoh=1",
+      "displayed_link": "https://carat.im › blog › korea-ai-startup-ranking-top-10",
+      "favicon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAACwCACdASogACAAPtEutFooIagoGAEAGglsAJ05QVS-Af2b8VfwAvQqQGhAdSbvJ_7MloCZk2wBYszIEk-ynlXXNJnTJqWTeSdnTfr1KEAA_vhG6oZ8bjxM8RnXg0fvVoz2lncRiEElDe_XDVvdU-YeO4DNorGr9h1FBDPbjLmwGmnYK7FIH_05YVFz_tCN94EqJx8Cw3_NTynzc_Fo9GJjpwMtgsGM4UJ5BXkBvJyx7ikHU43_CB10EM-Uc_uF1hLuXmvBNrDF4W7eiAFiG4bF5WII1_eNHmml8i9aHTtaQIUZ-j4qwUdmk9zFts-O3Gwn9SyuxiHp3lBnS48m_n-LoGXF10as7jLvPKvEFoOA4cXNPFExyl-L_4chLlD48NdGcnh6Vyt3enLVqJM-AAAA.webp",
+      "date": "2025. 6. 27.",
+      "snippet": "글로벌 기술력 인정 기업 · 1. 트웰브랩스 (Twelve Labs): · 2. 업스테이지 (Upstage): · 3. 노타 (Nota): · 4. 디노티시아 (Dnoticia): ...",
+      "snippet_highlighted_words": [
+        "업"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "높은 사용자 수 확보 기업",
+            "link": "https://carat.im/blog/korea-ai-startup-ranking-top-10#%EB%86%92%EC%9D%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98-%ED%99%95%EB%B3%B4-%EA%B8%B0%EC%97%85-1"
+          },
+          {
+            "title": "대규모 투자 유치 기업",
+            "link": "https://carat.im/blog/korea-ai-startup-ranking-top-10#%EB%8C%80%EA%B7%9C%EB%AA%A8-%ED%88%AC%EC%9E%90-%EC%9C%A0%EC%B9%98-%EA%B8%B0%EC%97%85-2"
+          },
+          {
+            "title": "글로벌 기술력 인정 기업",
+            "link": "https://carat.im/blog/korea-ai-startup-ranking-top-10#%EA%B8%80%EB%A1%9C%EB%B2%8C-%EA%B8%B0%EC%88%A0%EB%A0%A5-%EC%9D%B8%EC%A0%95-%EA%B8%B0%EC%97%85-3"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "글로벌 기술력 인정 기업 · 1. 트웰브랩스 (Twelve Labs): · 2. 업스테이지 (Upstage): · 3. 노타 (Nota): · 4. 디노티시아 (Dnoticia): ...",
+          "source_info_link": "https://carat.im/blog/korea-ai-startup-ranking-top-10",
+          "icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAACwCACdASogACAAPtEutFooIagoGAEAGglsAJ05QVS-Af2b8VfwAvQqQGhAdSbvJ_7MloCZk2wBYszIEk-ynlXXNJnTJqWTeSdnTfr1KEAA_vhG6oZ8bjxM8RnXg0fvVoz2lncRiEElDe_XDVvdU-YeO4DNorGr9h1FBDPbjLmwGmnYK7FIH_05YVFz_tCN94EqJx8Cw3_NTynzc_Fo9GJjpwMtgsGM4UJ5BXkBvJyx7ikHU43_CB10EM-Uc_uF1hLuXmvBNrDF4W7eiAFiG4bF5WII1_eNHmml8i9aHTtaQIUZ-j4qwUdmk9zFts-O3Gwn9SyuxiHp3lBnS48m_n-LoGXF10as7jLvPKvEFoOA4cXNPFExyl-L_4chLlD48NdGcnh6Vyt3enLVqJM-AAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkdDRFZsYnZnVWMtQ3lWV0d2ZWc3TXZxRC1VdXFhYXV4RFVvY010T3EzVHUxLTdqbjk1NnVNY2x3YzlNNUNVR3VrbHVPaHY2Z3AtN3dqS1VuV2ZwSVlUTkxvcjF3YUlPTXh6dHktYUktOU9lRlBCNWhTQW8tMTk0UVJMNU03Uml3TGJCSHZwQnVad2V2SEtnEgQaAggAGq4EEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAiAQICRAAGAAgACoJCgJhaRXIW9RAKiEKCeyKpO2DgO2KuBWy0qtAGgdzdGFydHVwGgbssL3sl4UqHwoD7JeFFR3prEAaB3N0YXJ0dXAaAnVwGgbssL3sl4UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWR0NEVmxidmdVYy1DeVZXR3ZlZzdNdnFELVV1cWFhdXhEVW9jTXRPcTNUdTEtN2puOTU2dU1jbHdjOU01Q1VHdWtsdU9odjZncC03d2pLVW5XZnBJWVROTG9yMXdhSU9NeHp0eS1hSS05T2VGUEI1aFNBby0xOTRRUkw1TTdSaXdMYkJIdnBCdVp3ZXZIS2c6Puq1reuCtCA8Yj5BSSDsiqTtg4Dtirjsl4U8L2I-IOyInOychCBUT1AgMTAgKDIwMjbrhYQpIC0g7LqQ65-_QsYB6riA66Gc67KMIOq4sOyIoOugpSDsnbjsoJUg6riw7JeFICZtaWRkb3Q7IDEuIO2KuOybsOu4jOueqeyKpCAoVHdlbHZlIExhYnMpOiAmbWlkZG90OyAyLiA8Yj7sl4U8L2I-7Iqk7YWM7J207KeAIChVcHN0YWdlKTogJm1pZGRvdDsgMy4g64W47YOAIChOb3RhKTogJm1pZGRvdDsgNC4g65SU64W47Yuw7Iuc7JWEIChEbm90aWNpYSk6Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkdDRFZsYnZnVWMtQ3lWV0d2ZWc3TXZxRC1VdXFhYXV4RFVvY010T3EzVHUxLTdqbjk1NnVNY2x3YzlNNUNVR3VrbHVPaHY2Z3AtN3dqS1VuV2ZwSVlUTkxvcjF3YUlPTXh6dHktYUktOU9lRlBCNWhTQW8tMTk0UVJMNU03Uml3TGJCSHZwQnVad2V2SEtnEgQaAggAGq4EEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAiAQICRAAGAAgACoJCgJhaRXIW9RAKiEKCeyKpO2DgO2KuBWy0qtAGgdzdGFydHVwGgbssL3sl4UqHwoD7JeFFR3prEAaB3N0YXJ0dXAaAnVwGgbssL3sl4UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWR0NEVmxidmdVYy1DeVZXR3ZlZzdNdnFELVV1cWFhdXhEVW9jTXRPcTNUdTEtN2puOTU2dU1jbHdjOU01Q1VHdWtsdU9odjZncC03d2pLVW5XZnBJWVROTG9yMXdhSU9NeHp0eS1hSS05T2VGUEI1aFNBby0xOTRRUkw1TTdSaXdMYkJIdnBCdVp3ZXZIS2c6Puq1reuCtCA8Yj5BSSDsiqTtg4Dtirjsl4U8L2I-IOyInOychCBUT1AgMTAgKDIwMjbrhYQpIC0g7LqQ65-_QsYB6riA66Gc67KMIOq4sOyIoOugpSDsnbjsoJUg6riw7JeFICZtaWRkb3Q7IDEuIO2KuOybsOu4jOueqeyKpCAoVHdlbHZlIExhYnMpOiAmbWlkZG90OyAyLiA8Yj7sl4U8L2I-7Iqk7YWM7J207KeAIChVcHN0YWdlKTogJm1pZGRvdDsgMy4g64W47YOAIChOb3RhKTogJm1pZGRvdDsgNC4g65SU64W47Yuw7Iuc7JWEIChEbm90aWNpYSk6Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "캐럿 AI"
+    },
+    {
+      "position": 8,
+      "title": "스타트업얼라이언스: Startup Alliance",
+      "link": "https://startupall.kr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVf4te9D_u5d74FbqBVh6sXiMbC7cHSjLzsEsovf150e6jbhiNeJbhbe5vXAa4BNVeaLmwxSzbJAJdm3q_nUENMjlngqbMFyOYSGvdFw&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://startupall.kr",
+      "favicon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAADQBwCdASogACAAPtE-tFooIigoFAEAGglpABOVa5rwGiwJVZM08bmoB0p0T_2TiOxCt677tq-LUIqxA4MM_FgE0XsaUOUDAAD-_S_T-OeT-7WhUyuekVkPKbBnp3--ED3Mzn2H2gumvZoMWMHlJ8EAGTqHHYA3OsnLjVPcN0jKjTGRH_e_ZnHNcGl4UI8iqMmX5d0lqNt9Mm9llxh99DqC0wNqaBhcQ7yby8WMBksiWt3ejluUrM7_N0th9PndLMD_lzBaxZ72xN4gBX36_Zbb6cHUr3T-TdTbPk44DGI0npz4RZtoVT6ICGdJ-fzguwS9ZrF33Acy8nZ0ml3iUeWTolFEdEU-Nh0ahT4nbx_ILL13Kt-i-98mv63D3VSy5CiDhG0k2uUHFu15QZ9Hcy5DVJ8I9c8y9-_iIxbmRkwpnp1JU2dfWl2Jn21b2Vqi6W8ErL6AAAA.webp",
+      "snippet": "사단법인 스타트업얼라이언스는 한국 스타트업 생태계의 활성화와 구성원 간의 연결을 목표로 2014년 출범한 민간 비영리 기관입니다. 다양한 밋업과 글로벌 기관과의 ...",
+      "snippet_highlighted_words": [
+        "스타트업",
+        "스타트업"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "사단법인 스타트업얼라이언스는 한국 스타트업 생태계의 활성화와 구성원 간의 연결을 목표로 2014년 출범한 민간 비영리 기관입니다. 다양한 밋업과 글로벌 기관과의 ...",
+          "source_info_link": "https://startupall.kr/",
+          "icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAADQBwCdASogACAAPtE-tFooIigoFAEAGglpABOVa5rwGiwJVZM08bmoB0p0T_2TiOxCt677tq-LUIqxA4MM_FgE0XsaUOUDAAD-_S_T-OeT-7WhUyuekVkPKbBnp3--ED3Mzn2H2gumvZoMWMHlJ8EAGTqHHYA3OsnLjVPcN0jKjTGRH_e_ZnHNcGl4UI8iqMmX5d0lqNt9Mm9llxh99DqC0wNqaBhcQ7yby8WMBksiWt3ejluUrM7_N0th9PndLMD_lzBaxZ72xN4gBX36_Zbb6cHUr3T-TdTbPk44DGI0npz4RZtoVT6ICGdJ-fzguwS9ZrF33Acy8nZ0ml3iUeWTolFEdEU-Nh0ahT4nbx_ILL13Kt-i-98mv63D3VSy5CiDhG0k2uUHFu15QZ9Hcy5DVJ8I9c8y9-_iIxbmRkwpnp1JU2dfWl2Jn21b2Vqi6W8ErL6AAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWMENISEVYT2JKVGhrQ1I3WUxBV08zMkV2UG91ekczODdmbm9ySVczUjRtYWk5RUhDaHU0U2VWbHhkem05bmoxODFRTG0yQmxrcFlOcVRYSGY5REw3NkNyQjdFbTlnRGNQT3hkOFF3EgQaAggAGqgEEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAggQICRAAGAAgACoJCgJhaRXZdZ4_KiEKCeyKpO2DgO2KuBWGf55AGgdzdGFydHVwGgbssL3sl4UqHwoD7JeFFR3km0AaB3N0YXJ0dXAaAnVwGgbssL3sl4UyfC9nb3RvP3VybD1DQUVTVVFIck96QVYwQ0hIRVhPYkpUaGtDUjdZTEFXTzMyRXZQb3V6RzM4N2Zub3JJVzNSNG1haTlFSENodTRTZVZseGR6bTluajE4MVFMbTJCbGtwWU5xVFhIZjlETDc2Q3JCN0VtOWdEY1BPeGQ4UXc6NDxiPuyKpO2DgO2KuOyXhTwvYj7slrzrnbzsnbTslrjsiqQ6IFN0YXJ0dXAgQWxsaWFuY2VC9AHsgqzri6jrspXsnbggPGI-7Iqk7YOA7Yq47JeFPC9iPuyWvOudvOydtOyWuOyKpOuKlCDtlZzqta0gPGI-7Iqk7YOA7Yq47JeFPC9iPiDsg53tg5zqs4TsnZgg7Zmc7ISx7ZmU7JmAIOq1rOyEseybkCDqsITsnZgg7Jew6rKw7J2EIOuqqe2RnOuhnCAyMDE064WEIOy2nOuylO2VnCDrr7zqsIQg67mE7JiB66asIOq4sOq0gOyeheuLiOuLpC4g64uk7JaR7ZWcIOuwi-yXheqzvCDquIDroZzrsowg6riw6rSA6rO87J2YJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWMENISEVYT2JKVGhrQ1I3WUxBV08zMkV2UG91ekczODdmbm9ySVczUjRtYWk5RUhDaHU0U2VWbHhkem05bmoxODFRTG0yQmxrcFlOcVRYSGY5REw3NkNyQjdFbTlnRGNQT3hkOFF3EgQaAggAGqgEEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAggQICRAAGAAgACoJCgJhaRXZdZ4_KiEKCeyKpO2DgO2KuBWGf55AGgdzdGFydHVwGgbssL3sl4UqHwoD7JeFFR3km0AaB3N0YXJ0dXAaAnVwGgbssL3sl4UyfC9nb3RvP3VybD1DQUVTVVFIck96QVYwQ0hIRVhPYkpUaGtDUjdZTEFXTzMyRXZQb3V6RzM4N2Zub3JJVzNSNG1haTlFSENodTRTZVZseGR6bTluajE4MVFMbTJCbGtwWU5xVFhIZjlETDc2Q3JCN0VtOWdEY1BPeGQ4UXc6NDxiPuyKpO2DgO2KuOyXhTwvYj7slrzrnbzsnbTslrjsiqQ6IFN0YXJ0dXAgQWxsaWFuY2VC9AHsgqzri6jrspXsnbggPGI-7Iqk7YOA7Yq47JeFPC9iPuyWvOudvOydtOyWuOyKpOuKlCDtlZzqta0gPGI-7Iqk7YOA7Yq47JeFPC9iPiDsg53tg5zqs4TsnZgg7Zmc7ISx7ZmU7JmAIOq1rOyEseybkCDqsITsnZgg7Jew6rKw7J2EIOuqqe2RnOuhnCAyMDE064WEIOy2nOuylO2VnCDrr7zqsIQg67mE7JiB66asIOq4sOq0gOyeheuLiOuLpC4g64uk7JaR7ZWcIOuwi-yXheqzvCDquIDroZzrsowg6riw6rSA6rO87J2YJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "스타트업얼라이언스"
+    },
+    {
+      "position": 9,
+      "title": "스타트업 주간랭킹 Top 100",
+      "link": "https://demoday.co.kr/companies/rank/weekly",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVwUTL-pmdUSOJeJC6gHKoqnzALGqxoUIpcq0FmFtbQjQXNGWF2htvyHznbyixAVa4KeCxqt4G4Kz19qKW18gJZsSOIGm3hqRAQ0mxBHRdRBrpkehHHUY7tQS4r0g0OWCkjg&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://demoday.co.kr › companies › rank › weekly",
+      "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAAAwCACdASocABwAPtE-tFooIigoFAEAGglqALywFdb-Jw2C4mc16G9gPogeg7-oCS_6Kl0kRw-iBaUgWSBcyCosUk4KB7HiojVvAAD-_S_t868zown0CHWlWGGf9SzIDzoAVyQ5mnSV257u9TdcEYEjWrkXnXO-X_ouwrku7--PpQKxleI46mxu8ByMnr--2hXICFwiJm3Bd96cnkACU_V3tNL9khvEh-L8-_kI6WCxv-hbCSVJB0xv3V77eY-JGerYlL828_8bMwbkWD0udTYEyTtBvUVBHDE3AqRGZwDjmAr2Sc1NYH7PizDE-aYkznZpM987R5W2wHYRfhRQMANbbLHnzMBs8-e2X392Eq_LsFjgT9dkxtGBNGJKpP-4aE2WojGXiYjdtQ-L6gj_IJp_VRKKuUtrQU5zXEnJ-tc3ULqS2s6WSvZPsm-pSExU0MTkT5b3d-_cRuQWBm75OiohUwkWRmunzc_zd68RJ8DDuw0pJhpopX8AAAA.webp",
+      "snippet": "세상을 바꾸는 AI 혁신, 그 중심에 모빌린트가 있습니다. 모빌린트는 2019년, 엣지 컴퓨팅 시대를 선도할 차세대 AI 반도체(NPU) 개발을 목표로 설립된 스타트업입니다.",
+      "snippet_highlighted_words": [
+        "모빌린트"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "세상을 바꾸는 AI 혁신, 그 중심에 모빌린트가 있습니다. 모빌린트는 2019년, 엣지 컴퓨팅 시대를 선도할 차세대 AI 반도체(NPU) 개발을 목표로 설립된 스타트업입니다.",
+          "source_info_link": "https://demoday.co.kr/companies/rank/weekly",
+          "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAAAwCACdASocABwAPtE-tFooIigoFAEAGglqALywFdb-Jw2C4mc16G9gPogeg7-oCS_6Kl0kRw-iBaUgWSBcyCosUk4KB7HiojVvAAD-_S_t868zown0CHWlWGGf9SzIDzoAVyQ5mnSV257u9TdcEYEjWrkXnXO-X_ouwrku7--PpQKxleI46mxu8ByMnr--2hXICFwiJm3Bd96cnkACU_V3tNL9khvEh-L8-_kI6WCxv-hbCSVJB0xv3V77eY-JGerYlL828_8bMwbkWD0udTYEyTtBvUVBHDE3AqRGZwDjmAr2Sc1NYH7PizDE-aYkznZpM987R5W2wHYRfhRQMANbbLHnzMBs8-e2X392Eq_LsFjgT9dkxtGBNGJKpP-4aE2WojGXiYjdtQ-L6gj_IJp_VRKKuUtrQU5zXEnJ-tc3ULqS2s6WSvZPsm-pSExU0MTkT5b3d-_cRuQWBm75OiohUwkWRmunzc_zd68RJ8DDuw0pJhpopX8AAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVng4MmNDcnJhSWs3ZGNoak0wZlBkTjdxbkxkcUhVN3c1c2thbTJ2eGp0WXNMWVVpcEFrbDc4M29GWldEY3htdnJGd3ZGZTRlVTctNTlDWlVia3Z4b0ZZbU5vYXBxcHhfX2FJUXZfY2tSR1o5OEp3NFE5TVlmUHFRMC1ack9ZRW94ZlESBBoCCAAasgQSABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAjgQICRAAGAAgACoJCgJhaRUnzdM_KiEKCeyKpO2DgO2KuBXmWHRAGgdzdGFydHVwGgbssL3sl4UqHwoD7JeFFeB2hUAaB3N0YXJ0dXAaAnVwGgbssL3sl4UymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWeDgyY0NycmFJazdkY2hqTTBmUGRON3FuTGRxSFU3dzVza2FtMnZ4anRZc0xZVWlwQWtsNzgzb0ZaV0RjeG12ckZ3dkZlNGVVNy01OUNaVWJrdnhvRlltTm9hcHFweF9fYUlRdl9ja1JHWjk4Snc0UTlNWWZQcVEwLVpyT1lFb3hmUTo3PGI-7Iqk7YOA7Yq47JeFPC9iPiDso7zqsITrnq3tgrkgVG9wIDEwMCAtIOuNsOuqqOuNsOydtELgAeyEuOyDgeydhCDrsJTqvrjripQgQUkg7ZiB7IugLCDqt7gg7KSR7Ius7JeQIDxiPuuqqOu5jOumsO2KuDwvYj7qsIAg7J6I7Iq164uI64ukLiDrqqjruYzrprDtirjripQgMjAxOeuFhCwg7Jej7KeAIOy7tO2TqO2MhSDsi5zrjIDrpbwg7ISg64-E7ZWgIOywqOyEuOuMgCBBSSDrsJjrj4TssrQoTlBVKSDqsJzrsJzsnYQg66qp7ZGc66GcIOyEpOumveuQnCDsiqTtg4Dtirjsl4XsnoXri4jri6QuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVng4MmNDcnJhSWs3ZGNoak0wZlBkTjdxbkxkcUhVN3c1c2thbTJ2eGp0WXNMWVVpcEFrbDc4M29GWldEY3htdnJGd3ZGZTRlVTctNTlDWlVia3Z4b0ZZbU5vYXBxcHhfX2FJUXZfY2tSR1o5OEp3NFE5TVlmUHFRMC1ack9ZRW94ZlESBBoCCAAasgQSABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAjgQICRAAGAAgACoJCgJhaRUnzdM_KiEKCeyKpO2DgO2KuBXmWHRAGgdzdGFydHVwGgbssL3sl4UqHwoD7JeFFeB2hUAaB3N0YXJ0dXAaAnVwGgbssL3sl4UymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWeDgyY0NycmFJazdkY2hqTTBmUGRON3FuTGRxSFU3dzVza2FtMnZ4anRZc0xZVWlwQWtsNzgzb0ZaV0RjeG12ckZ3dkZlNGVVNy01OUNaVWJrdnhvRlltTm9hcHFweF9fYUlRdl9ja1JHWjk4Snc0UTlNWWZQcVEwLVpyT1lFb3hmUTo3PGI-7Iqk7YOA7Yq47JeFPC9iPiDso7zqsITrnq3tgrkgVG9wIDEwMCAtIOuNsOuqqOuNsOydtELgAeyEuOyDgeydhCDrsJTqvrjripQgQUkg7ZiB7IugLCDqt7gg7KSR7Ius7JeQIDxiPuuqqOu5jOumsO2KuDwvYj7qsIAg7J6I7Iq164uI64ukLiDrqqjruYzrprDtirjripQgMjAxOeuFhCwg7Jej7KeAIOy7tO2TqO2MhSDsi5zrjIDrpbwg7ISg64-E7ZWgIOywqOyEuOuMgCBBSSDrsJjrj4TssrQoTlBVKSDqsJzrsJzsnYQg66qp7ZGc66GcIOyEpOumveuQnCDsiqTtg4Dtirjsl4XsnoXri4jri6QuIgIQAUgAWABoAA",
+      "source": "데모데이"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "국내 AI 스타트 업",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&q=%EA%B5%AD%EB%82%B4+AI+%EC%8A%A4%ED%83%80%ED%8A%B8+%EC%97%85&sa=X&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B5%AD%EB%82%B4+AI+%EC%8A%A4%ED%83%80%ED%8A%B8+%EC%97%85"
+    },
+    {
+      "block_position": 1,
+      "query": "AI 스타트 업 순위",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8+%EC%97%85+%EC%88%9C%EC%9C%84&sa=X&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8+%EC%97%85+%EC%88%9C%EC%9C%84"
+    },
+    {
+      "block_position": 1,
+      "query": "AI 스타트 업 채용",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8+%EC%97%85+%EC%B1%84%EC%9A%A9&sa=X&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8+%EC%97%85+%EC%B1%84%EC%9A%A9"
+    },
+    {
+      "block_position": 1,
+      "query": "AI 스타트 업 디시",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8+%EC%97%85+%EB%94%94%EC%8B%9C&sa=X&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8+%EC%97%85+%EB%94%94%EC%8B%9C"
+    },
+    {
+      "block_position": 1,
+      "query": "국내 AI 스타트 업 순위",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&q=%EA%B5%AD%EB%82%B4+AI+%EC%8A%A4%ED%83%80%ED%8A%B8+%EC%97%85+%EC%88%9C%EC%9C%84&sa=X&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B5%AD%EB%82%B4+AI+%EC%8A%A4%ED%83%80%ED%8A%B8+%EC%97%85+%EC%88%9C%EC%9C%84"
+    },
+    {
+      "block_position": 1,
+      "query": "국내 AI 기업 리스트",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&q=%EA%B5%AD%EB%82%B4+AI+%EA%B8%B0%EC%97%85+%EB%A6%AC%EC%8A%A4%ED%8A%B8&sa=X&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EA%B5%AD%EB%82%B4+AI+%EA%B8%B0%EC%97%85+%EB%A6%AC%EC%8A%A4%ED%8A%B8"
+    },
+    {
+      "block_position": 1,
+      "query": "한국 AI 기업 순위",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&q=%ED%95%9C%EA%B5%AD+AI+%EA%B8%B0%EC%97%85+%EC%88%9C%EC%9C%84&sa=X&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%95%9C%EA%B5%AD+AI+%EA%B8%B0%EC%97%85+%EC%88%9C%EC%9C%84"
+    },
+    {
+      "block_position": 1,
+      "query": "업스테이지 AI",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&q=%EC%97%85%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80+AI&sa=X&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%97%85%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80+AI"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&ei=fRLXarmnNYOEwbkP0KyAoQk&start=10&sa=N&sstk=AS6-VmJZH6LfCHabiYbmIcoATrrYTVxLKq8mfBHAFGuc0AUY5LsP26rjNEUf-KGVKxpGyaL2zMRLETnFTUTJ9nKLYlSDD4Xj7DIQsA&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ8NMDegQIRhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&ei=fRLXarmnNYOEwbkP0KyAoQk&start=10&sa=N&sstk=AS6-VmJZH6LfCHabiYbmIcoATrrYTVxLKq8mfBHAFGuc0AUY5LsP26rjNEUf-KGVKxpGyaL2zMRLETnFTUTJ9nKLYlSDD4Xj7DIQsA&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ8tMDegQIRhAE",
+      "3": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&ei=fRLXarmnNYOEwbkP0KyAoQk&start=20&sa=N&sstk=AS6-VmJZH6LfCHabiYbmIcoATrrYTVxLKq8mfBHAFGuc0AUY5LsP26rjNEUf-KGVKxpGyaL2zMRLETnFTUTJ9nKLYlSDD4Xj7DIQsA&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ8tMDegQIRhAG",
+      "4": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&ei=fRLXarmnNYOEwbkP0KyAoQk&start=30&sa=N&sstk=AS6-VmJZH6LfCHabiYbmIcoATrrYTVxLKq8mfBHAFGuc0AUY5LsP26rjNEUf-KGVKxpGyaL2zMRLETnFTUTJ9nKLYlSDD4Xj7DIQsA&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ8tMDegQIRhAI",
+      "5": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&ei=fRLXarmnNYOEwbkP0KyAoQk&start=40&sa=N&sstk=AS6-VmJZH6LfCHabiYbmIcoATrrYTVxLKq8mfBHAFGuc0AUY5LsP26rjNEUf-KGVKxpGyaL2zMRLETnFTUTJ9nKLYlSDD4Xj7DIQsA&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ8tMDegQIRhAK",
+      "6": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&ei=fRLXarmnNYOEwbkP0KyAoQk&start=50&sa=N&sstk=AS6-VmJZH6LfCHabiYbmIcoATrrYTVxLKq8mfBHAFGuc0AUY5LsP26rjNEUf-KGVKxpGyaL2zMRLETnFTUTJ9nKLYlSDD4Xj7DIQsA&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ8tMDegQIRhAM",
+      "7": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&ei=fRLXarmnNYOEwbkP0KyAoQk&start=60&sa=N&sstk=AS6-VmJZH6LfCHabiYbmIcoATrrYTVxLKq8mfBHAFGuc0AUY5LsP26rjNEUf-KGVKxpGyaL2zMRLETnFTUTJ9nKLYlSDD4Xj7DIQsA&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ8tMDegQIRhAO",
+      "8": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&ei=fRLXarmnNYOEwbkP0KyAoQk&start=70&sa=N&sstk=AS6-VmJZH6LfCHabiYbmIcoATrrYTVxLKq8mfBHAFGuc0AUY5LsP26rjNEUf-KGVKxpGyaL2zMRLETnFTUTJ9nKLYlSDD4Xj7DIQsA&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ8tMDegQIRhAQ",
+      "9": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&ei=fRLXarmnNYOEwbkP0KyAoQk&start=80&sa=N&sstk=AS6-VmJZH6LfCHabiYbmIcoATrrYTVxLKq8mfBHAFGuc0AUY5LsP26rjNEUf-KGVKxpGyaL2zMRLETnFTUTJ9nKLYlSDD4Xj7DIQsA&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ8tMDegQIRhAS",
+      "10": "https://www.google.com/search?q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQnubnn_gkDNeaVoJILSO6An-HyBexg:1792479869881&ei=fRLXarmnNYOEwbkP0KyAoQk&start=90&sa=N&sstk=AS6-VmJZH6LfCHabiYbmIcoATrrYTVxLKq8mfBHAFGuc0AUY5LsP26rjNEUf-KGVKxpGyaL2zMRLETnFTUTJ9nKLYlSDD4Xj7DIQsA&ved=2ahUKEwj52aTvg8iXAxUDQjABHVAWIJQQ8tMDegQIRhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=AI+%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&start=90"
+    }
+  }
+}

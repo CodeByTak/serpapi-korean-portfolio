@@ -1,0 +1,659 @@
+{
+  "search_metadata": {
+    "id": "6ad71261de5efc53456768de",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YN9xYfrR7tUgAfX8xDvcp_cJYr6pmrL7pWJ2m8clXnM/6ad71261de5efc53456768de.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YN9xYfrR7tUgAfX8xDvcp_cJYr6pmrL7pWJ2m8clXnM/6ad71261de5efc53456768de.md",
+    "created_at": "2026-10-20 07:04:01 UTC",
+    "processed_at": "2026-10-20 07:04:01 UTC",
+    "naver_url": "https://search.naver.com/search.naver?query=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8",
+    "raw_html_file": "https://serpapi.com/searches/YN9xYfrR7tUgAfX8xDvcp_cJYr6pmrL7pWJ2m8clXnM/6ad71261de5efc53456768de.html",
+    "total_time_taken": 2.75
+  },
+  "search_parameters": {
+    "query": "카페 추천 강남",
+    "engine": "naver",
+    "device": "desktop"
+  },
+  "ads_results": [
+    {
+      "title": "발판게임 점핑배틀 강남점",
+      "sub_title": "뛰어라! 달려라! RUN~ 신개념 이색 발판게임 상륙!",
+      "description": "강남 놀거리! 15분 동안 발판을 밟고 누가 승자인지 대결해보세요!",
+      "site": "map.naver.com/p",
+      "link": "https://ader.naver.com/v1/RGbXxzE1WsYjqAtdE58pj6wRO0QUasnRnHQpPOeLuPMH_vQER_hfaIhBLmqzm5UGL4HP_GVZ_EzIl_OOgVIUlSZGiJPv5Ld0-umWyic1ID9GejixywrJ6oJj35vrQ71A7oOd4H6zuEJ3TZoDHdRi69crit7YnsjSkoBylKNkwPyq4dYdh5DIVWeoXt3P-YZnpeWpwDD9VTb4uiB8CaptdrJveiUSD2ACATcmXstyOuSIRVDEHzZaOfN8ABQ1eCCt7-X8809MkE5IIJlEMBhycA==?c=naver.search.pc.plsearch&t=0",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_9%2F1729488675915KGGoA_JPEG%2F%25B4%25EB%25C7%25A5%25B3%25EB%25C3%25E2%25BB%25E7%25C1%25F8.jpg&type=a380"
+    },
+    {
+      "title": "홍대 CODE-K 방탈출카페",
+      "description": "홍대클럽거리 75분 프리미엄 단일 테마, 방탈출카페 부문 고객만족 브랜드대상 수상",
+      "site": "code-k.co.kr",
+      "link": "https://ader.naver.com/v1/RGbXxzE1WsYjqAtdE58pj6wRO0QUasnRnHQpPOeLuPMJjWUvzNZhS_5ifT7sb5Cz_Hc7Y5N1wEY410kAQBltuvmS2hsWTKRqGWYoQuwPXUOAVgnx9Aiy0pJtBZuTdCUJndvEh3dUW5vHKPJwJyUoWb1IR3gTm41mcRKBsj7SKiof8FEskt5_nPjD6KfHbCIri3gYzcC-amxIpv15EhMts1hTnq0TIwoiYu86g0YG2Z0=?c=naver.search.pc.plsearch&t=0",
+      "thumbnail": "https://searchad-phinf.pstatic.net/MjAxOTEwMjRfMjM3/MDAxNTcxODgxMDAwNzUz.LX8BYmnIF8ewCk2dB0hM1gnlx0sh2E92GTxysBR4Dukg.PIaQ2rUfXn9ilfNGQM2j8W_mnfHwnLmbcm3r_jniCyEg.JPEG/1034131-138d7464-45bc-4c10-bd72-82cacaefa1c5.jpg?type=f160_160"
+    },
+    {
+      "title": "과외 GMAT Academy",
+      "description": "강남역GMAT과외전문,Total99% Quant9회연속만점 대표직강,무료상담,화상",
+      "site": "cafe.naver.com/gmatacademy",
+      "link": "https://ader.naver.com/v1/RGbXxzE1WsYjqAtdE58pj6wRO0QUasnRnHQpPOeLuPM7-2kp0m0vlGHoiiJQKU8LhqurdDMiDVAgW29pvN0x_DUlgcB829hUVp-80wAtTFbQoQV2KkWfg-MghNspWl92rlxX67IfU5iN2VPEGQUhQn4fK1AyywwPTw66_4pQpxcsdft4KW0Va5KOfpxyK9voRdqBpTWaky6dppN5kvILeDYtCiOe7Pb2Mbtq296IcdJFL_bhHBfOlqKbVohfNgy5?c=naver.search.pc.plsearch&t=0"
+    }
+  ],
+  "place_results": [
+    {
+      "position": 1,
+      "name": "그라운드8",
+      "type": "카페",
+      "link": "https://map.naver.com/p/search/%EC%B9%B4%ED%8E%98%20%EA%B0%95%EB%82%A8/place/1498100901?placePath=%2Fphoto%3Fbk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EC%25B6%2594%25EC%25B2%259C%2520%25EA%25B0%2595%25EB%2582%25A8%26x%3D%26y%3D&searchType=place"
+    },
+    {
+      "position": 2,
+      "name": "퍼스트커피랩 강남점",
+      "type": "카페,디저트",
+      "link": "https://map.naver.com/p/search/%EC%B9%B4%ED%8E%98%20%EA%B0%95%EB%82%A8/place/1668757640?placePath=%2Fphoto%3Fbk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EC%25B6%2594%25EC%25B2%259C%2520%25EA%25B0%2595%25EB%2582%25A8%26x%3D%26y%3D&searchType=place"
+    },
+    {
+      "position": 3,
+      "name": "크리스피크림도넛 강남역점",
+      "type": "도넛",
+      "link": "https://map.naver.com/p/search/%EC%B9%B4%ED%8E%98%20%EA%B0%95%EB%82%A8/place/1082473387?placePath=%2Fphoto%3Fbk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EC%25B6%2594%25EC%25B2%259C%2520%25EA%25B0%2595%25EB%2582%25A8%26x%3D%26y%3D&searchType=place"
+    },
+    {
+      "position": 4,
+      "name": "구테로이테 본점",
+      "type": "카페,디저트",
+      "link": "https://map.naver.com/p/search/%EC%B9%B4%ED%8E%98%20%EA%B0%95%EB%82%A8/place/1770967295?placePath=%2Fphoto%3Fbk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EC%25B6%2594%25EC%25B2%259C%2520%25EA%25B0%2595%25EB%2582%25A8%26x%3D%26y%3D&searchType=place"
+    },
+    {
+      "position": 5,
+      "name": "살롱 드 카페",
+      "type": "카페,디저트",
+      "link": "https://map.naver.com/p/search/%EC%B9%B4%ED%8E%98%20%EA%B0%95%EB%82%A8/place/2002938451?placePath=%2Fphoto%3Fbk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EC%25B6%2594%25EC%25B2%259C%2520%25EA%25B0%2595%25EB%2582%25A8%26x%3D%26y%3D&searchType=place"
+    },
+    {
+      "position": 6,
+      "name": "프론트서울",
+      "type": "카페",
+      "link": "https://map.naver.com/p/search/%EC%B9%B4%ED%8E%98%20%EA%B0%95%EB%82%A8/place/1122254586?placePath=%2Fphoto%3Fbk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EA%25B0%2595%25EB%2582%25A8%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3D%25EC%25B9%25B4%25ED%258E%2598%2520%25EC%25B6%2594%25EC%25B2%259C%2520%25EA%25B0%2595%25EB%2582%25A8%26x%3D%26y%3D&searchType=place"
+    }
+  ],
+  "inline_images_results": [
+    {
+      "image_id": "image_sas:blog_db1752f4bb9f898ab9a270eb759799a1",
+      "title": "[강남직장인이 직접알려주는] 분위기있는 강남역카페 TOP3",
+      "source": "갈곳은 여기",
+      "where": "네이버 블로그",
+      "date": "2024.07.09.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyMzEyMTVfMjkw/MDAxNzAyNjQ4Mzc5ODUx.EdxfKbcxNGAHx5rZn8IRmoE6e_kumZmFrWQ0VjUSHR8g.Rbmb-nH09C0OX7oA_lFWMGXO-6Ac-x5_Xq5uBDlzdh8g.JPEG.cmwzzz/profileImage.jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNDA3MDlfMjky/MDAxNzIwNDg3NTMwODg4.Vz6Bf6jbGlpejNwktHH97Xq94Am4tsUQTmunn-9bJbUg.LeET4J6ZAEvm3VssdwgbFgCG_qcBd06vT1bqrIf92QAg.JPEG/Frame_31.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNDA3MDlfMjky/MDAxNzIwNDg3NTMwODg4.Vz6Bf6jbGlpejNwktHH97Xq94Am4tsUQTmunn-9bJbUg.LeET4J6ZAEvm3VssdwgbFgCG_qcBd06vT1bqrIf92QAg.JPEG/Frame_31.jpg",
+      "link": "https://blog.naver.com/cmw_17/223506417831",
+      "color": "#E1B785",
+      "tld": "blog.naver.com",
+      "article_id": "blog2462055|61|223506417831",
+      "width": 773,
+      "height": 773,
+      "thumbnail_width": 340,
+      "thumbnail_height": 340,
+      "rank": 1,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_580c4eb82c13a9b6453a0ab056c20abe",
+      "title": "ALVER 강남역 추천 카페",
+      "source": "오늘도 소풍같은 하루",
+      "where": "네이버 블로그",
+      "date": "2024.06.11.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAxODAzMTZfMjM2/MDAxNTIxMjA2MzQxNzAz.JgJLnGJxM26zAG6FXjBAL8LeawVwCNb6VKeojnrYYP0g.6AvDllDYuWCKBR1p4SMbvXvXoeaX-0NGf6ymzRCTWhYg.JPEG.rbam2013/profileImage.jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNDA2MTFfMTMx/MDAxNzE4MDc4OTU3NTA2.VNN09k1Mo7vNYmqbtRhWOK2HI8zgkpAQcUiQ2fuaT4cg.ayJRlYUnQIe9tSRugs92T3Qzvii1eOcXFdmdj1VEen4g.JPEG/20240610%A3%DF111904.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNDA2MTFfMTMx/MDAxNzE4MDc4OTU3NTA2.VNN09k1Mo7vNYmqbtRhWOK2HI8zgkpAQcUiQ2fuaT4cg.ayJRlYUnQIe9tSRugs92T3Qzvii1eOcXFdmdj1VEen4g.JPEG/20240610��111904.jpg",
+      "link": "https://blog.naver.com/rbam2013/223475739610",
+      "color": "#BDB8CE",
+      "tld": "blog.naver.com",
+      "article_id": "blog64274147|6|223475739610",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail_width": 340,
+      "thumbnail_height": 255,
+      "rank": 2,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_1407dd231dcedc3a7c7ff74bdc0f4981",
+      "title": "친구가 추천한 강남 ab 카페 방문:)",
+      "source": "한희의 희한한 블로그:)",
+      "where": "네이버 블로그",
+      "date": "2024.03.10.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyNDAzMDJfNTAg/MDAxNzA5MzgwMjY0NTg2.sRHx0pl4aoSH66E7pGc5Jz93p8tBnBqv7W7WMudVqwQg.vPL8cq_qyw8Bhz3mL1KLNB03Z4MGAxuOgh34vacoKLIg.JPEG/KakaoTalk_20240302_205041342.jpg/KakaoTalk_20240302_205041342.jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNDAzMTBfMTcy/MDAxNzA5OTk3NTE2MjQ5.wIzy5oWotl4NJl5--5hI6L9qM23xWnjNklDrrGb2Sbgg.0Sa59GwhWTPe2RX-iX-SrLbjJkYtotMC-K1vY3s5NEIg.JPEG/KakaoTalk_20240309_042257535.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNDAzMTBfMTcy/MDAxNzA5OTk3NTE2MjQ5.wIzy5oWotl4NJl5--5hI6L9qM23xWnjNklDrrGb2Sbgg.0Sa59GwhWTPe2RX-iX-SrLbjJkYtotMC-K1vY3s5NEIg.JPEG/KakaoTalk_20240309_042257535.jpg",
+      "link": "https://blog.naver.com/hanhui7281/223378512309",
+      "color": "#E1B785",
+      "tld": "blog.naver.com",
+      "article_id": "blog129573718|1|223378512309",
+      "width": 2250,
+      "height": 2701,
+      "thumbnail_width": 340,
+      "thumbnail_height": 408,
+      "rank": 3,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_502296e403a07eea678ddd30a1c4c9ec",
+      "title": "[강남] 분위기 좋은카페 추천 ‘명월’",
+      "source": "우당탕탕 일상",
+      "where": "네이버 블로그",
+      "date": "2020.02.26.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAxOTAzMDVfMjU0/MDAxNTUxNzQyNDY2ODU5.uRti1bQElqPyQWnO_4xtH1KQHtFH86q21hiIofc-I3og.oAbER5VfDwqDW-obxM6FSMwnF-UPT6qTATdfgzwqyHYg.PNG.1004godnd/profileImage.png&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyMDAyMjZfODQg/MDAxNTgyNjQ3MTI1NDAw.DwX02uBcdOSB1qoIe2KUH274bACv1tYg06b6u5UDPTwg.XJusU3FJC7WVG92yBQ0GiCDFSt4c8QrLj-YeLW6qZqsg.JPEG.1004godnd/IMG_4925.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyMDAyMjZfODQg/MDAxNTgyNjQ3MTI1NDAw.DwX02uBcdOSB1qoIe2KUH274bACv1tYg06b6u5UDPTwg.XJusU3FJC7WVG92yBQ0GiCDFSt4c8QrLj-YeLW6qZqsg.JPEG.1004godnd/IMG_4925.jpg",
+      "link": "https://blog.naver.com/1004godnd/221824914663",
+      "color": "#B5B68F",
+      "tld": "blog.naver.com",
+      "article_id": "blog26763006|10|221824914663",
+      "width": 898,
+      "height": 898,
+      "thumbnail_width": 340,
+      "thumbnail_height": 340,
+      "rank": 4,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_e980e5413dfa3ffd0812554b3afcd4a1",
+      "title": "강남 이색카페 추천! 유재석도 3번 다녀간 ‘AB카페’ 솔직 후기",
+      "source": "셀리뷰의 리뷰이야기❤️",
+      "where": "네이버 블로그",
+      "date": "2025.07.06.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyNDA0MjdfODcg/MDAxNzE0MTc3OTU2OTk0.JWa-X9TbVUCFWQW9Pet6gPyoRdOkA8kkOP4geNcvwoYg.CpOhLTxq37iF74LUYCdqX6AjvHoXgtuAcTvjmZmfAQwg.JPEG/IMG_0893.jpeg/IMG_0893.jpeg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNTA3MDZfNzYg/MDAxNzUxNzg2NzI4ODIx.NIXcEkuefrDoZj9LL6427RtIMetgtJ9IQxYIcnFsDn0g._waTYJ8YZG1UYhLeGYwaAJLBBdRZfChHjvGxqLDNwVsg.JPEG/IMG_7225.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNTA3MDZfNzYg/MDAxNzUxNzg2NzI4ODIx.NIXcEkuefrDoZj9LL6427RtIMetgtJ9IQxYIcnFsDn0g._waTYJ8YZG1UYhLeGYwaAJLBBdRZfChHjvGxqLDNwVsg.JPEG/IMG_7225.jpg",
+      "link": "https://blog.naver.com/suk051080/223923779942",
+      "color": "#AAbDD0",
+      "tld": "blog.naver.com",
+      "article_id": "blog164664269|16|223923779942",
+      "width": 2250,
+      "height": 3000,
+      "thumbnail_width": 340,
+      "thumbnail_height": 453,
+      "rank": 5,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_8b12a616f41aadf2a538d68e3a8ed699",
+      "title": "[강남역 예쁜 카페 추천] 예쁘고 맛있어요 !퍼스트커피랩/감성 바 느낌 디저트카페!",
+      "source": "나는 너가 좋아",
+      "where": "네이버 블로그",
+      "date": "2026.08.08.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyNTA5MjVfMjQg/MDAxNzU4Nzc1MjYyNDM3.HO1Xs-_ZhlgA_FS-zN2XERzy3RhjkkRoUOGp8fFiYjsg.SLljedMrDTvzGSDBirmL6Lx6-3-CB6C1lGMif0CMwGIg.JPEG/profileImage.jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNjA4MDNfNzgg/MDAxNzg1NzI4MTg3Mzgy.4rTeABun3N7YObcpfTCo4uYUpa-JmHpowFEf8d_WVicg.bYgsA3V8HTn_uk3UHoM7Bd-eswUFhHj_9NiXK8KYHfQg.JPEG/900_1785728186811.jpg&type=ofullfill340_600_png",
+      "original": "http://blogfiles.naver.net/MjAyNjA4MDNfNzgg/MDAxNzg1NzI4MTg3Mzgy.4rTeABun3N7YObcpfTCo4uYUpa-JmHpowFEf8d_WVicg.bYgsA3V8HTn_uk3UHoM7Bd-eswUFhHj_9NiXK8KYHfQg.JPEG/900_1785728186811.jpg",
+      "link": "https://blog.naver.com/rhaehfdl1102/224372308534",
+      "color": "#AAbDD0",
+      "tld": "blog.naver.com",
+      "article_id": "blog117247343|12|224372308534",
+      "width": 900,
+      "height": 1600,
+      "thumbnail_width": 340,
+      "thumbnail_height": 600,
+      "rank": 6,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_faf01a2ed3f1972513f602381112e59c",
+      "title": "서울) 강남 맛집 카페 5곳",
+      "source": "호두마루의 호두농원",
+      "where": "네이버 블로그",
+      "date": "2023.01.06.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyMTAxMThfMjU5/MDAxNjEwOTU2MTA3MjI1.PglPPHxXBERkrCp5bVQfzY1qF1qKyb2fYy3_ZOU4QKMg.1AeMHKZGan2dHNwNpgxtruitb2u06wbz_sZXgjpxw68g.JPEG.pyojeong0731/timg+%289%29.jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyMjA5MzBfMTg2/MDAxNjY0NTE5OTkzOTMw.CKenRlK0NtGfm7p6927yGTIJyGLlvN0aq4rciNp3k3wg.EFSElu3s59icfLgLy6_FDdAdDOhPxsDdbouoF4XitBQg.JPEG.pyojeong0731/1.JPG&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyMjA5MzBfMTg2/MDAxNjY0NTE5OTkzOTMw.CKenRlK0NtGfm7p6927yGTIJyGLlvN0aq4rciNp3k3wg.EFSElu3s59icfLgLy6_FDdAdDOhPxsDdbouoF4XitBQg.JPEG.pyojeong0731/1.JPG",
+      "link": "https://blog.naver.com/pyojeong0731/222976860129",
+      "color": "#C2C7CC",
+      "tld": "blog.naver.com",
+      "article_id": "blog26559444|29|222976860129",
+      "width": 690,
+      "height": 453,
+      "thumbnail_width": 340,
+      "thumbnail_height": 223,
+      "rank": 7,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_be46b0aa8acb4b839f0f255bd5ccfe65",
+      "title": "강남 신논현역 카페 분위기좋은 데이트 장소 디저트카페 정월 추천해요",
+      "source": "앙팡테리블로그",
+      "where": "네이버 블로그",
+      "date": "2025.06.24.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyNTA3MTBfMjM1/MDAxNzUyMTQzOTY2ODU5.6Gvn76fs2r0Jq5O6P-5UoZhzMt-_r8e7Lwv8Cwxzn8Yg.Y-Cp8ZyrOAgVkOzvK3U8OKu6qz7urls1q3km0iRmKxEg.PNG/profileImage.png&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNTA2MjRfMjUg/MDAxNzUwNzUzMjI1NTE4.W839we-iixccdjlUHuRM8tKjxgGgcx1t8cC27TNC948g.t0cAZaeN34xVK9WH1qpwgsaQf8ken_qmZWx9oHIOSrog.JPEG/IMG%A3%DF2102.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNTA2MjRfMjUg/MDAxNzUwNzUzMjI1NTE4.W839we-iixccdjlUHuRM8tKjxgGgcx1t8cC27TNC948g.t0cAZaeN34xVK9WH1qpwgsaQf8ken_qmZWx9oHIOSrog.JPEG/IMG��2102.jpg",
+      "link": "https://blog.naver.com/jjoy0103/223910178629",
+      "color": "#E1B785",
+      "tld": "blog.naver.com",
+      "article_id": "blog133408673|8|223910178629",
+      "width": 900,
+      "height": 676,
+      "thumbnail_width": 340,
+      "thumbnail_height": 255,
+      "rank": 8,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_5cdb92359f49095e32a27ddd27de4426",
+      "title": "강남카페추천 - 커피와 밀크티 맛집/ 분위기 까지 취저인 강남 핫플레이스 카페",
+      "source": "아몽이맘의 소소한 일상",
+      "where": "네이버 블로그",
+      "date": "2020.04.20.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyMDA2MDRfMTQ5/MDAxNTkxMjU0ODg4MzQ5.aJNquByTtkAQIiSR8Raqj2nrFZSSnSAK440i_R6qC90g.iiIg5q0U_AyDwarcrrGkWJlQHqPmwKNv6dqckInOdN4g.PNG.dkwl7853/profileImage.png&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyMDA0MjBfMTM3/MDAxNTg3MzUwMTMzMjM3.zzGpZ3FrefillpPlDxSHGYmDbXfztSrOCmjE5LMdjg0g.ZLM2sUh1kPlHQ4j21s8CnXDhduNgg--t73NaMdJPpvUg.JPEG.dkwl7853/output_2536286870.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyMDA0MjBfMTM3/MDAxNTg3MzUwMTMzMjM3.zzGpZ3FrefillpPlDxSHGYmDbXfztSrOCmjE5LMdjg0g.ZLM2sUh1kPlHQ4j21s8CnXDhduNgg--t73NaMdJPpvUg.JPEG.dkwl7853/output_2536286870.jpg",
+      "link": "https://blog.naver.com/dkwl7853/221919485464",
+      "color": "#B5B68F",
+      "tld": "blog.naver.com",
+      "article_id": "blog9383207|32|221919485464",
+      "width": 400,
+      "height": 532,
+      "thumbnail_width": 340,
+      "thumbnail_height": 452,
+      "rank": 9,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_ba1f36e3bbd26300ea4c57a7fdaf628c",
+      "title": "강남 소개팅하기 좋은 카페 9개 추천 리스트",
+      "source": "요즘 뭐하니?",
+      "where": "네이버 블로그",
+      "date": "2026.04.12.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyMjA2MjFfNjIg/MDAxNjU1NzQyMTc5OTg2.gJvvb0RX-YZx4Aa6uBHz-ZX_-dLALBhmnsxsIUEylOsg.j6iHGWhGg4Pe6Pb7n2IwZSSffyyAhPDP1LDM5Ob6H74g.JPEG.csi1229/KakaoTalk_20211116_152235668_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg/KakaoTalk_20211116_152235668+-+%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNjA0MDhfMTk0/MDAxNzc1NjU0NzMzMzg5.vbbNznGk3__3iU2fndiSpGAupTxgm8gX2pei2b3-kpkg.fMUdYd4cOP64QZnIW_WSod8K1gvqcdZ3850hYwlV0yog.JPEG/IMG%A3%DF3848.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNjA0MDhfMTk0/MDAxNzc1NjU0NzMzMzg5.vbbNznGk3__3iU2fndiSpGAupTxgm8gX2pei2b3-kpkg.fMUdYd4cOP64QZnIW_WSod8K1gvqcdZ3850hYwlV0yog.JPEG/IMG��3848.jpg",
+      "link": "https://blog.naver.com/so_7777777/224245887313",
+      "color": "#BDB8CE",
+      "tld": "blog.naver.com",
+      "article_id": "blog25455374|27|224245887313",
+      "width": 650,
+      "height": 863,
+      "thumbnail_width": 340,
+      "thumbnail_height": 451,
+      "rank": 10,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_0ed008b7f6db87110bc323e30bf82b3f",
+      "title": "[신논현역카페] 정월 - 테라스, 우드 느낌의 느좋 강남분위기좋은카페 추천",
+      "source": "핑꾸한 피치 스토리",
+      "where": "네이버 블로그",
+      "date": "2025.07.24.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyNDA3MDJfMTcy/MDAxNzE5ODg3NjI2MTM3.1aOcNILeV-2bnPyDnX1C4W3_c5tQHE_p14RC7QutLOsg.0nbcngYkJytES47lyM4rlTklDFXpRl_KhzY2amdhY8kg.JPEG/profileImage.jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNTA3MjVfOTAg/MDAxNzUzNDAwMTY3NDMw.xiLly1yf7WtMsuMBciq9Zf1oRwFInl_26SGvvDGWKNIg.AMz_X8JeyP4a2DIZmmsMGqnYWDFwBAltrdN_VgvYxdYg.JPEG/IMG%A3%DF3222.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNTA3MjVfOTAg/MDAxNzUzNDAwMTY3NDMw.xiLly1yf7WtMsuMBciq9Zf1oRwFInl_26SGvvDGWKNIg.AMz_X8JeyP4a2DIZmmsMGqnYWDFwBAltrdN_VgvYxdYg.JPEG/IMG��3222.jpg",
+      "link": "https://blog.naver.com/peachblossom1812/223945994178",
+      "color": "#C2C7CC",
+      "tld": "blog.naver.com",
+      "article_id": "blog133807337|6|223945994178",
+      "width": 900,
+      "height": 1200,
+      "thumbnail_width": 340,
+      "thumbnail_height": 453,
+      "rank": 11,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_24b03186adeafdc8f66a7e46e71cfb33",
+      "title": "강남역 카페 추천 시그니처 티라미수 디저트있는 예쁜 대형 셀렉티드닉스 후기",
+      "source": "두밍의 일기",
+      "where": "네이버 블로그",
+      "date": "2024.10.21.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyNDA1MTRfMTk2/MDAxNzE1NjcyMjQ4NjA2.q4BQnjisdimK9EMRkOcDIxXZoHaN5Nox96B7P5LDSW4g.KKeDGmUwJ4ic4oLriH194h0biCpFWm4fkG2obmR8beQg.PNG/profileImage.png&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNDEwMjFfMzAw/MDAxNzI5NTE2MDU2NjE5.FHkEU_kzq7-DU0FcXzj-gCtcrTrmlxpLZ1tLiUrn9gUg.TA8659QSKAE4JpkxLLtUyiVDjSgH0oXLXvbgXRri0GEg.JPEG/IMG_5139.JPG&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNDEwMjFfMzAw/MDAxNzI5NTE2MDU2NjE5.FHkEU_kzq7-DU0FcXzj-gCtcrTrmlxpLZ1tLiUrn9gUg.TA8659QSKAE4JpkxLLtUyiVDjSgH0oXLXvbgXRri0GEg.JPEG/IMG_5139.JPG",
+      "link": "https://blog.naver.com/do_mean/223628057495",
+      "color": "#BDB8CE",
+      "tld": "blog.naver.com",
+      "article_id": "blog53620295|12|223628057495",
+      "width": 900,
+      "height": 676,
+      "thumbnail_width": 340,
+      "thumbnail_height": 255,
+      "rank": 12,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_88b8004baba1e929139b5fb21a9cabc8",
+      "title": "[강남역 카페]강남역 조용한 카페 추천 \"가배도\"",
+      "source": "채록채록",
+      "where": "네이버 블로그",
+      "date": "2022.12.29.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAxOTEwMDFfNTYg/MDAxNTY5OTA4NTUzOTc1.l95xjJyU81h7rpzGpLm1QZF1Ah0PuePIigQ4dBlYp3Eg.87XgotBxRjimhLwIRRhey2bKShmF2xtBQqc2jc_xrJIg.PNG.kcy_s2/profileImage.png&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyMjEyMjlfMjUx/MDAxNjcyMjkzODQzNDg0.5VpTEU0zUOWX61fg-Z1eAqtATOsVM7v2jM3eEhXYTVog.Ktf96tP8wM3Ij41UDvs07Lbw1z5yHSXujj3jx1bzx1wg.JPEG.kcy_s2/IMG_5740.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyMjEyMjlfMjUx/MDAxNjcyMjkzODQzNDg0.5VpTEU0zUOWX61fg-Z1eAqtATOsVM7v2jM3eEhXYTVog.Ktf96tP8wM3Ij41UDvs07Lbw1z5yHSXujj3jx1bzx1wg.JPEG.kcy_s2/IMG_5740.jpg",
+      "link": "https://blog.naver.com/kcy_s2/222969250503",
+      "color": "#B5B68F",
+      "tld": "blog.naver.com",
+      "article_id": "blog123618144|7|222969250503",
+      "width": 900,
+      "height": 900,
+      "thumbnail_width": 340,
+      "thumbnail_height": 340,
+      "rank": 13,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_8bf774195b5280c0ac064fc25bb9c8d7",
+      "title": "강남역 분좋카 추천 | 아인슈페너가 맛있는 카페 정월",
+      "source": "ㅇㅎ을 좋아하는 이동동의 블로그",
+      "where": "네이버 블로그",
+      "date": "2023.02.15.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/20110916_3/jyong415_1316154639210_J0i4DY_jpg/1.jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyMjAxMTJfNSAg/MDAxNjQxOTk5NTE1Njkz.KSRuXG-FSMjGngBCTS8kD1Sia9hxUosYDiOcC5kwLaQg.JOdiEbg3HbHwp6FHYanptZB6Bvn_iANesPDxB_OAWNwg.JPEG.jyong415/output_2638093830.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyMjAxMTJfNSAg/MDAxNjQxOTk5NTE1Njkz.KSRuXG-FSMjGngBCTS8kD1Sia9hxUosYDiOcC5kwLaQg.JOdiEbg3HbHwp6FHYanptZB6Bvn_iANesPDxB_OAWNwg.JPEG.jyong415/output_2638093830.jpg",
+      "link": "https://blog.naver.com/wander_2dongdong/223016054605",
+      "color": "#AAbDD0",
+      "tld": "blog.naver.com",
+      "article_id": "blog4655718|27|223016054605",
+      "width": 900,
+      "height": 900,
+      "thumbnail_width": 340,
+      "thumbnail_height": 340,
+      "rank": 14,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_ee5c77c5e0e5bcc53fcfb8aeaaae38aa",
+      "title": "정월, 강남 분위기좋은카페 추천",
+      "source": "놀고먹는 서울일상",
+      "where": "네이버 블로그",
+      "date": "2024.05.28.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAxODA1MDdfMjIz/MDAxNTI1Njg4NTYwNDI0.XcHVXnszC0v_K767jQju8u_2sHynZxNCfeWCE0MI2w4g.DriUHTtDKrddhq7CI4BnAjRTQyxosq0vPmQLrLHV0hEg.JPEG.easyaro96/20180507_192213[1].jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNDA1MjhfMjI0/MDAxNzE2ODkwOTkzNTc4.XSJSHKh0jHgtOe9awXkiKeTfbWkhMOnS1SfxPZh6uUYg.ZtakxjESUl9fRvUk8-KHlWf5BRguqWpcPpkOqv3zyYQg.JPEG/output_3020766462.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNDA1MjhfMjI0/MDAxNzE2ODkwOTkzNTc4.XSJSHKh0jHgtOe9awXkiKeTfbWkhMOnS1SfxPZh6uUYg.ZtakxjESUl9fRvUk8-KHlWf5BRguqWpcPpkOqv3zyYQg.JPEG/output_3020766462.jpg",
+      "link": "https://blog.naver.com/easyaro96/223461507882",
+      "color": "#DB9D8F",
+      "tld": "blog.naver.com",
+      "article_id": "blog128405708|7|223461507882",
+      "width": 900,
+      "height": 900,
+      "thumbnail_width": 340,
+      "thumbnail_height": 340,
+      "rank": 15,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_d25c955cd987d953df1ea0488b3af33a",
+      "title": "강남분위기좋은카페 추천 정월, 소개팅&데이트는 여기서❕",
+      "source": "Second",
+      "where": "네이버 블로그",
+      "date": "2025.10.02.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyNTA5MjBfMjU0/MDAxNzU4MzQ0NzIwNTM5.hNKOge5Z8NVposoZ-uT5ypmJSd-I0UeqHcQOS3xUygIg.H4FC-YqU5FYk6AoxyTjqcRuDaz8Q1yhAZd54NLaT4ckg.PNG/profileImage.png&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNTEwMDJfMTYw/MDAxNzU5MzgwNTExMjI3.so420Q95MsSgdITB-LAIoGYYv1WGHGFobIkeA3pcGn0g.Bxv6f2xe4L4jBRqBGGu3r4XfbE4QmH4I4pRNdIkyBi8g.JPEG/IMG%A3%DF6476.jpg&type=ofullfill340_600_png",
+      "original": "http://blogfiles.naver.net/MjAyNTEwMDJfMTYw/MDAxNzU5MzgwNTExMjI3.so420Q95MsSgdITB-LAIoGYYv1WGHGFobIkeA3pcGn0g.Bxv6f2xe4L4jBRqBGGu3r4XfbE4QmH4I4pRNdIkyBi8g.JPEG/IMG��6476.jpg",
+      "link": "https://blog.naver.com/second2_19th/224029772311",
+      "color": "#C2C7CC",
+      "tld": "blog.naver.com",
+      "article_id": "blog151799261|23|224029772311",
+      "width": 900,
+      "height": 1600,
+      "thumbnail_width": 340,
+      "thumbnail_height": 600,
+      "rank": 16,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_3b61f5b971582aa6f8ffbcc2c4ed046c",
+      "title": "분위기 좋은 강남역 카페 ㅣ 어퍼앤언더 ㅣ 강남역디저트 카페 추천",
+      "source": "장꾸 VLOG",
+      "where": "네이버 블로그",
+      "date": "2025.12.29.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyNTAxMjRfMjU0/MDAxNzM3Njg3ODI2NTg1.p2PMqIAcyTJl55O1wWp8w9n4jSGDSIdaCOdQTUsZ-ysg.wWQ3g88x6ugvDCfq3GWoXa7NkslM4ePVNm-qCuZ3Zegg.JPEG/profileImage.jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNTEyMjVfMjQ5/MDAxNzY2NjQzMzAzMjE0.JRoolaunWRnhv4J83rwRVv2McAMFSoQhEF-OFsSABQsg.b7WJHIRaLyBkkFI8Nvz2VeWOsHueSIb6fYrId5zQecsg.JPEG/IMG%A3%DF1597.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNTEyMjVfMjQ5/MDAxNzY2NjQzMzAzMjE0.JRoolaunWRnhv4J83rwRVv2McAMFSoQhEF-OFsSABQsg.b7WJHIRaLyBkkFI8Nvz2VeWOsHueSIb6fYrId5zQecsg.JPEG/IMG��1597.jpg",
+      "link": "https://blog.naver.com/ma_bback777/224126636722",
+      "color": "#B5B68F",
+      "tld": "blog.naver.com",
+      "article_id": "blog164029522|10|224126636722",
+      "width": 900,
+      "height": 1200,
+      "thumbnail_width": 340,
+      "thumbnail_height": 453,
+      "rank": 17,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_eb84587e74541b6ed51a0eebe17844e5",
+      "title": "강남 카페 추천, 디저트 케익 맛있는 퍼스트커피랩",
+      "source": "춘하추동",
+      "where": "네이버 블로그",
+      "date": "2025.12.25.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyMzA0MTdfMTEy/MDAxNjgxNzI2Mzg1OTE3.ZrxSeQkRSIHWYTnEA4BtZ_hPXFGbp4FBquPrr4GDNFog.FvLBCUzOT8g59nB1VY9GBVPk1BUYgx5asD7w_cqzUjYg.JPEG.alth2214/tsda.jpg/tsda.jpg&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNTExMDVfNDAg/MDAxNzYyMzA5MzMzMjk4.vqfdhbsp5Zxr6vVliVOJxvKEwduPn_jmKMg6oUm283Qg.yK2Q_j8GYstqE9pboMIABTN5AdBoBfd7oA2h2_ooplEg.JPEG/2-20251102_131745.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNTExMDVfNDAg/MDAxNzYyMzA5MzMzMjk4.vqfdhbsp5Zxr6vVliVOJxvKEwduPn_jmKMg6oUm283Qg.yK2Q_j8GYstqE9pboMIABTN5AdBoBfd7oA2h2_ooplEg.JPEG/2-20251102_131745.jpg",
+      "link": "https://blog.naver.com/alth2214/224065365326",
+      "color": "#DB9D8F",
+      "tld": "blog.naver.com",
+      "article_id": "blog43646823|33|224065365326",
+      "width": 3000,
+      "height": 2250,
+      "thumbnail_width": 340,
+      "thumbnail_height": 255,
+      "rank": 18,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_2f31e14e68959b3400b91917d5999370",
+      "title": "[강남역 대형 카페] 강남 ’썸띵어바웃커피‘ 베이커리 카페 추천/황치즈케이크 솔직 후기",
+      "source": "moment ◡̈",
+      "where": "네이버 블로그",
+      "date": "2023.02.08.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyMzAyMDJfMjgg/MDAxNjc1MzQ3NDc5NjQw.jGb5Ms0BdyDd9I7vCRsIXbTTKhQZPBSrfjmDQ73r-ocg.djvGb0DcrrsY8h3JFKs9C8WkUrk73fgRLzZOknDKsxYg.PNG.seomji10/profileImage.png&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyMzAyMDhfMjg5/MDAxNjc1ODE1MjUzMzEw.ORpX91jk5kFir8Z99EfuPBr6xiiKAbgvhEvjirbW_1Ug.GQnhF64kxt9UwDw1EGu0dlrKwpL2kYxyFIeD_NFnfJkg.JPEG.seomji10/output_1158595192.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyMzAyMDhfMjg5/MDAxNjc1ODE1MjUzMzEw.ORpX91jk5kFir8Z99EfuPBr6xiiKAbgvhEvjirbW_1Ug.GQnhF64kxt9UwDw1EGu0dlrKwpL2kYxyFIeD_NFnfJkg.JPEG.seomji10/output_1158595192.jpg",
+      "link": "https://blog.naver.com/seomji10/223009234902",
+      "color": "#DB9D8F",
+      "tld": "blog.naver.com",
+      "article_id": "blog128206445|7|223009234902",
+      "width": 1536,
+      "height": 2048,
+      "thumbnail_width": 340,
+      "thumbnail_height": 453,
+      "rank": 19,
+      "is_gif": false
+    },
+    {
+      "image_id": "image_sas:blog_6a9d9fb7323a50d3ab7dc81476053d4c",
+      "title": "강남 신논현역 조용한 카페, 반려견 동반이 가능한 분위기 좋은 카페 정월",
+      "source": "Seul Talk",
+      "where": "네이버 블로그",
+      "date": "2024.08.21.",
+      "profile_image": "https://search.pstatic.net/common/?src=http://blogpfthumb.phinf.naver.net/MjAyNDAzMTlfMTI4/MDAxNzEwNzc1ODMyMTEx.TrNRWRuKkbtlOkpdOM6UmqH7Ltp5Inc_mdmsGtdJOh0g.FVsJqSFXUUyuA5Jwz9slTUJgNdT6iyLaDxbHOpWgMhcg.PNG/profileImage.png&type=f80_80",
+      "thumbnail": "https://search.pstatic.net/common/?src=http://blogfiles.naver.net/MjAyNDA4MjFfNjkg/MDAxNzI0MTY5NDM3Mjcz.a0Qdt4ZB5H-gLwst4YAFnUg5dA684a2c90shIjMB_Usg.jsaKB7QZOq5UfVdRz99ko4up--_OKygWUFv88OWAJrIg.JPEG/output_3384282372.jpg&type=a340",
+      "original": "http://blogfiles.naver.net/MjAyNDA4MjFfNjkg/MDAxNzI0MTY5NDM3Mjcz.a0Qdt4ZB5H-gLwst4YAFnUg5dA684a2c90shIjMB_Usg.jsaKB7QZOq5UfVdRz99ko4up--_OKygWUFv88OWAJrIg.JPEG/output_3384282372.jpg",
+      "link": "https://blog.naver.com/08peridot/223555188683",
+      "color": "#BDB8CE",
+      "tld": "blog.naver.com",
+      "article_id": "blog24127693|22|223555188683",
+      "width": 900,
+      "height": 900,
+      "thumbnail_width": 340,
+      "thumbnail_height": 340,
+      "rank": 20,
+      "is_gif": false
+    }
+  ],
+  "web_results": [
+    {
+      "position": 1,
+      "title": "서울 실내데이트 가볼만한곳, 강남 카페 추천 2곳",
+      "source_icon": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fin.naver.com%2Fandroid-icon-192x192.png&type=f30_30_png_expire24",
+      "source": "네이버 인플루언서",
+      "link": "https://in.naver.com/1_nly/topic/976949618297376",
+      "snippet": "무더위가 이어지는 요즘, 실내데이트 어디갈지 고민이잖아요. 그래서 오늘은 서울 실내 가볼만한곳 2곳 소개해볼게요. 두곳 모두 강남 카페라서 쇼핑이나 데이트코스로 안성맞춤이랍니다.",
+      "thumbnail": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA3MjNfMTky%2FMDAxNzg0ODEzNzk1MDM2._7GaNCgNSFEnIQhGDWo0aR4wl7A876VKxFQs1Q4Y7VYg.CEHv6x8XPzgpX2oeem-wEP_pn4st7zpTcxhKwvyGadYg.PNG%2F5ebc.png%3Ftype%3Dw700&type=fff208_208_ar"
+    },
+    {
+      "position": 2,
+      "title": "인더페이스트리 | 강남역 카페",
+      "source_icon": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fdinner.ambitstock.com%2Ffavicon-48x48.png&type=f30_30_png_expire24",
+      "source": "ambitstock.com",
+      "link": "https://dinner.ambitstock.com/dinner/gangnam/restaurant/%EC%9D%B8%EB%8D%94%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%A6%AC",
+      "snippet": "인더페이스트리 — 강남역 카페 맛집. 서울 서초구 서초대로 357 위치, 영업시간 09:00~20:00. 평점 ⭐4.8 (101개 리뷰). 고평점·카페 특징. 오늘뭐먹지 AI 추천.",
+      "thumbnail": "https://search.pstatic.net/sunny?src=https%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Ff3668f67efb97b2ee859f6d51ee5618c6e715ba7%3Foriginal&type=fff208_208_ar"
+    },
+    {
+      "position": 3,
+      "title": "Brunch 여유로운 하루의 시작, 브런치",
+      "source_icon": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.visitgangnam.net%2Ffavicon-192.png&type=f30_30_png_expire24",
+      "source": "Visit Gangnam",
+      "link": "https://www.visitgangnam.net/courses/brunch",
+      "snippet": "여유로운 하루의 시작, 강남 Brunch 에세이. 밥때 상관없이 먹고 싶은 날, 시간의 흐름에서 잠시 벗어나는 강남 브런치 카페 가이드.",
+      "thumbnail": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.visitgangnam.net%2Fimages%2F2023%2F04%2F1-min-51.jpg&type=fff208_208_ar"
+    }
+  ],
+  "ai_briefing": {
+    "markdown": "강남 지역에서 디저트와 커피를 즐기기 좋은 다양한 스타일의 카페들을 추천해 드립니다. 강남역 인근의 대형 카페부터 매봉역 카페거리의 여유로운 공간, 그리고 특별한 디저트를 맛볼 수 있는 곳까지 취향에 맞춰 선택하실 수 있습니다. [1] [3]\n\n## 디저트와 베이커리 맛집\n\n### 베이커스트 브라운\n신논현역과 강남역 사이에 위치한 베이커리 카페로, 바삭한 퀸아망과 강남샌드가 인기 메뉴입니다. 소금커피를 함께 즐기기 좋으며, 지하 1층부터 지상 3층까지 공간이 넉넉하여 방문하기 편리합니다. [3]\n\n### 셀렉티드닉스\n강남역 근처에 위치한 대형 카페로, 부드러운 식감의 티라미수와 휘낭시에가 유명합니다. 지하 1층부터 8층 및 루프탑까지 다양한 층으로 구성되어 있으며, 좌석 형태가 다양해 혼자 방문하거나 친구들과 대화하기에 적합합니다. [3]\n\n### 브릭샌드 강남역점\n벽돌 모양의 휘낭시에를 전문으로 하는 디저트 카페입니다. 겉은 바삭하고 속은 촉촉한 식감이 특징이며, 달콤브릭이나 다크브릭 등 다양한 종류의 휘낭시에를 판매하여 지인을 위한 선물용으로도 좋습니다. [2]\n\n## 분위기 있는 카페 및 스페셜티 커피\n\n### 어퍼앤언더\n신논현역 인근에 위치한 3층 규모의 독채 카페로, 공간이 넓고 분위기가 좋아 데이트 코스로 추천됩니다. 코코넛 말차와 같은 특색 있는 음료와 함께 얼그레이 자몽 케이크, 라즈베리 케이크 등 다양한 디저트를 즐길 수 있습니다. [4]\n\n### 카페비밀\n매봉역 카페거리에서 브런치로 유명한 공간입니다. 에그 스크램블과 트러플 크루아상이 대표 메뉴이며, 브런치 메뉴 주문 시 음료 할인 혜택을 받을 수 있어 여유로운 식사를 즐기기에 좋습니다. [1]\n\n### 더정 우롱티프로젝트 강남역점\n커피 대신 색다른 음료를 찾는 분들에게 적합한 우롱티 전문 카페입니다. 당도와 온도, 얼음 양을 취향에 맞게 세밀하게 조절할 수 있어 깔끔한 스타일의 밀크티를 즐기기에 좋습니다. [5]",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "강남 지역에서 디저트와 커피를 즐기기 좋은 다양한 스타일의 카페들을 추천해 드립니다. 강남역 인근의 대형 카페부터 매봉역 카페거리의 여유로운 공간, 그리고 특별한 디저트를 맛볼 수 있는 곳까지 취향에 맞춰 선택하실 수 있습니다.",
+        "reference_indexes": [
+          1,
+          3
+        ]
+      },
+      {
+        "type": "header",
+        "level": 2,
+        "snippet": "디저트와 베이커리 맛집"
+      },
+      {
+        "type": "header",
+        "level": 3,
+        "snippet": "베이커스트 브라운"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "신논현역과 강남역 사이에 위치한 베이커리 카페로, 바삭한 퀸아망과 강남샌드가 인기 메뉴입니다. 소금커피를 함께 즐기기 좋으며, 지하 1층부터 지상 3층까지 공간이 넉넉하여 방문하기 편리합니다.",
+        "reference_indexes": [
+          3
+        ]
+      },
+      {
+        "type": "header",
+        "level": 3,
+        "snippet": "셀렉티드닉스"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "강남역 근처에 위치한 대형 카페로, 부드러운 식감의 티라미수와 휘낭시에가 유명합니다. 지하 1층부터 8층 및 루프탑까지 다양한 층으로 구성되어 있으며, 좌석 형태가 다양해 혼자 방문하거나 친구들과 대화하기에 적합합니다.",
+        "reference_indexes": [
+          3
+        ]
+      },
+      {
+        "type": "header",
+        "level": 3,
+        "snippet": "브릭샌드 강남역점"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "벽돌 모양의 휘낭시에를 전문으로 하는 디저트 카페입니다. 겉은 바삭하고 속은 촉촉한 식감이 특징이며, 달콤브릭이나 다크브릭 등 다양한 종류의 휘낭시에를 판매하여 지인을 위한 선물용으로도 좋습니다.",
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "header",
+        "level": 2,
+        "snippet": "분위기 있는 카페 및 스페셜티 커피"
+      },
+      {
+        "type": "header",
+        "level": 3,
+        "snippet": "어퍼앤언더"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "신논현역 인근에 위치한 3층 규모의 독채 카페로, 공간이 넓고 분위기가 좋아 데이트 코스로 추천됩니다. 코코넛 말차와 같은 특색 있는 음료와 함께 얼그레이 자몽 케이크, 라즈베리 케이크 등 다양한 디저트를 즐길 수 있습니다.",
+        "reference_indexes": [
+          4
+        ]
+      },
+      {
+        "type": "header",
+        "level": 3,
+        "snippet": "카페비밀"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "매봉역 카페거리에서 브런치로 유명한 공간입니다. 에그 스크램블과 트러플 크루아상이 대표 메뉴이며, 브런치 메뉴 주문 시 음료 할인 혜택을 받을 수 있어 여유로운 식사를 즐기기에 좋습니다.",
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "header",
+        "level": 3,
+        "snippet": "더정 우롱티프로젝트 강남역점"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "커피 대신 색다른 음료를 찾는 분들에게 적합한 우롱티 전문 카페입니다. 당도와 온도, 얼음 양을 취향에 맞게 세밀하게 조절할 수 있어 깔끔한 스타일의 밀크티를 즐기기에 좋습니다.",
+        "reference_indexes": [
+          5
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 1,
+        "title": "SPECIAL 매봉역 카페거리에서의 시간",
+        "snippet": "강남 UPCOMING 강남 추천 여행계획 강남은? 강남페스티벌 한국어 17° 검색 에세이 SPECIAL 매봉역 카페거리에서의 시간 매봉역 카페거리를 걷다 보면 카페거리라는 이름답게",
+        "link": "https://www.visitgangnam.net/courses/maebong-cafe",
+        "source": "Visit Gangnam",
+        "source_icon": "https://www.visitgangnam.net/favicon-192.png",
+        "date": "2026-10-02T13:35:48+09:00"
+      },
+      {
+        "index": 2,
+        "title": "강남역 디저트 맛집 브릭샌드 벽돌 휘낭시에 선물",
+        "snippet": "Visit Seoul은 사용자의 경험 향상, 웹사이트 개선 등을 목적으로 사용자의 쿠키를 수집합니다 귀하가 이 사이트를 계속 사용하신다면 귀하는 쿠키 수집에 동의한다고 간주합니다 ",
+        "link": "https://korean.visitseoul.net/restaurants/BRICKSAND-Gangnam/KOP0uxe6i",
+        "source": "Visit Seoul",
+        "source_icon": "https://korean.visitseoul.net/resources/theme/basic/assets/images/img/Favicon.png?bust=20240828_1"
+      },
+      {
+        "index": 3,
+        "title": "강남역 디저트 맛집 추천! 재방문하고 싶은 카페 2곳",
+        "snippet": "큐레이션 콘텐츠 목차 01.강남역 베이커리 카페 추천 베이커스트 브라운 소금커피 강남샌드 맛집 02.강남역 카페 추천 대형카페 셀렉티드닉스 티라미수 맛집 루프트탑 있는 곳 강남역에",
+        "link": "https://in.naver.com/bookeatgirl/topic/963362550061664",
+        "source": "네이버 인플루언서",
+        "source_icon": "https://in.naver.com/android-icon-192x192.png",
+        "date": "2026-06-15T00:00:00+09:00"
+      },
+      {
+        "index": 4,
+        "title": "신논현역 카페 어퍼앤언더, 강남역 인근 넓고 디저트 맛있는 카페 추천",
+        "snippet": "원하는 디저트가 있으시다면 조금 일찍 방문하시는게 안전할 것 같아요 저희는 따뜻한 디카페인 아메리카노(7000원), 코코넛말차(8500원), 얼그레이자몽 케이크(8500원), 라즈",
+        "link": "https://blog.naver.com/somsom__day/224415698527",
+        "source": "네이버 블로그",
+        "source_icon": "https://blogpfthumb-phinf.pstatic.net/MjAyNDA2MjVfNTAg/MDAxNzE5MzAwNjgxNzUz.P5MJfkM7LvfCZnWqBM6c3HTiWUqBzq-YfFUjw18cADMg.kb2woQNT5qJc0c9zqLsmFGT5lv2qUGhAm6iM3ZYTPBQg.JPEG/%25EC%25BA%25A1%25EC%25B2%2598.JPG/%25EC%25BA%25A1%25EC%25B2%2598.JPG",
+        "date": "2026-09-18T09:15:00+09:00"
+      },
+      {
+        "index": 5,
+        "title": "[강남 카페] 더정 우롱티프로젝트 강남역점 당도 10% 우롱 밀크티 솔직후기",
+        "snippet": "전체적인 화이트 톤이고, 엄청 넓진 않은데 좌석은 10석? 12석? 정도 됩니다. 서서 마실 수 있는 높은 원형 테이블도 두 개 정도 있어요! 저는 한 20분~30분 정도 앉아있었",
+        "link": "https://blog.naver.com/goblyn_mik_xoxo/224404553963",
+        "source": "네이버 블로그",
+        "source_icon": "https://blogpfthumb-phinf.pstatic.net/MjAyNDExMTJfMjI5/MDAxNzMxMzcwMjUyNjQy.IaOWH3QarfLq94K4_SveYW9vp6EKmodPYq3NSuHwiDEg.VcS4pL8SbTmunUZw8HsTnBlajFlDs32aqk2Ns-XUNRgg.JPEG/a_thinner_raccoon_on_all_fours_making_a_joyful_escape.jpg/a%2Bthinner%2Braccoon%2Bon%2Ball%2Bfours%2Bmaking%2Ba%2Bjoyful%2Bescape.png",
+        "date": "2026-09-08T10:54:00+09:00"
+      }
+    ]
+  },
+  "pagination": {
+    "next": "https://search.naver.com/search.naver?nso=&page=2&qdt=0&query=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&sm=tab_pge&ssc=tab.ur.all&start=1",
+    "other_pages": {}
+  },
+  "serpapi_pagination": {
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=naver&page=2&query=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=1",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=naver&page=2&query=%EC%B9%B4%ED%8E%98+%EC%B6%94%EC%B2%9C+%EA%B0%95%EB%82%A8&start=1"
+  }
+}

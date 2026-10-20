@@ -1,0 +1,565 @@
+{
+  "search_metadata": {
+    "id": "6ad7126a2bcc240c465d81da",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-B_b9v65sFw1ScAVqcbSso6XHc4g67wDsFIPlx4p7FM/6ad7126a2bcc240c465d81da.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-B_b9v65sFw1ScAVqcbSso6XHc4g67wDsFIPlx4p7FM/6ad7126a2bcc240c465d81da.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-B_b9v65sFw1ScAVqcbSso6XHc4g67wDsFIPlx4p7FM/6ad7126a2bcc240c465d81da.json_with_pixel_position",
+    "created_at": "2026-10-20 07:04:10 UTC",
+    "processed_at": "2026-10-20 07:04:10 UTC",
+    "google_url": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&oq=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&uule=w+CAIQICIRU2VvdWwsU291dGggS29yZWE&hl=ko&gl=kr&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-B_b9v65sFw1ScAVqcbSso6XHc4g67wDsFIPlx4p7FM/6ad7126a2bcc240c465d81da.html",
+    "total_time_taken": 7.56
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "파이썬 강의",
+    "location_requested": "Seoul, South Korea",
+    "location_used": "Seoul,South Korea",
+    "google_domain": "google.com",
+    "hl": "ko",
+    "gl": "kr",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "파이썬 강의",
+    "total_results": 112,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "최신 파이썬 코딩 무료 강의 | 2024 점프 투 파이썬 통합본",
+      "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz6LOsdigOc_y4NHaUlrJimV_xSjArtXVUYqk6E8V_cML2AHKMcBUFOA&s",
+      "channel": "조코딩 JoCoding",
+      "duration": "8:38:40",
+      "platform": "YouTube",
+      "date": "2024. 7. 5.",
+      "key_moments": [
+        {
+          "time": "00:16",
+          "title": "01장 파이썬이란 무엇인가?",
+          "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA&t=16"
+        },
+        {
+          "time": "51:46",
+          "title": "02장 파이썬 프로그래밍의 기초, 자료형 (1) - 숫자형, 문자열, 리스트",
+          "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA&t=3106"
+        },
+        {
+          "time": "02:01:11",
+          "title": "02장 파이썬 프로그래밍의 기초, 자료형 (2) - 튜플, 딕셔너리, 집합, 불",
+          "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA&t=7271"
+        },
+        {
+          "time": "03:04:09",
+          "title": "03장 프로그램의 구조를 쌓는다! 제어문 - 조건문 if, 반복문 for, while",
+          "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA&t=11049"
+        },
+        {
+          "time": "04:18:12",
+          "title": "04장 파이썬의 입출력 - 함수, 사용자 입출력, 파일 읽고 쓰기, 프로그램의 입출력",
+          "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA&t=15492"
+        },
+        {
+          "time": "05:33:45",
+          "title": "05장 파이썬 날개 달기 - 클래스, 모듈, 패키지, 예외 처리, 내장 함수, 라이브러리",
+          "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA&t=20025"
+        },
+        {
+          "time": "07:01:58",
+          "title": "06장 파이썬 프로그래밍, 어떻게 시작해야 할까?",
+          "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA&t=25318"
+        },
+        {
+          "time": "07:29:24",
+          "title": "07장 파이썬 날아오르기 - 유니코드, 클로저, 데코레이터, 이터레이터, 제너레이터",
+          "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA&t=26964"
+        },
+        {
+          "time": "07:59:21",
+          "title": "08장 정규표현식",
+          "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA&t=28761"
+        },
+        {
+          "time": "08:37:58",
+          "title": "VVIP 후원 감사 인사",
+          "link": "https://www.youtube.com/watch?v=ftQZo7XaTOA&t=31078"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자 ...",
+      "link": "https://www.youtube.com/watch?v=kWiCuklohdY",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXthEdxZkVw8XU3an3-jdVQUgKQu-hdnOOq3ZAv-9wFMMSqmiaiy8RQ&s",
+      "channel": "나도코딩",
+      "duration": "6:01:28",
+      "platform": "YouTube",
+      "date": "2020. 2. 20.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSk1ACMKW3fPeMeKPrF__4zEk1PyeNKvlHNdg"
+    },
+    {
+      "position": 3,
+      "title": "100-Minute Masterclass (1-Minute Python Compilation)",
+      "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDr00Z8gscUVVOpJ-UDCNZ-VLcOYyB_C3cwUnLj3CUY_LfZ0MQmroJEg&s",
+      "channel": "나도코딩",
+      "duration": "1:46:26",
+      "platform": "YouTube",
+      "date": "2022. 7. 21.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRoLNzdXoqGmc8e1EUgU1U5s4FYwkyFglpuZQ",
+      "key_moments": [
+        {
+          "time": "01:11",
+          "title": "2.환경설정",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=71"
+        },
+        {
+          "time": "02:22",
+          "title": "3.자료형",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=142"
+        },
+        {
+          "time": "10:03",
+          "title": "8.불리안",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=603"
+        },
+        {
+          "time": "14:57",
+          "title": "11.문자열 처리",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=897"
+        },
+        {
+          "time": "18:05",
+          "title": "13.문자열 메소드 2",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=1085"
+        },
+        {
+          "time": "23:10",
+          "title": "16.리스트 1",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=1390"
+        },
+        {
+          "time": "31:44",
+          "title": "22.딕셔너리 1",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=1904"
+        },
+        {
+          "time": "34:44",
+          "title": "24.자료형 비교",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=2084"
+        },
+        {
+          "time": "38:33",
+          "title": "26.if 조건문 1",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=2313"
+        },
+        {
+          "time": "45:12",
+          "title": "29.for 반복문",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=2712"
+        },
+        {
+          "time": "48:29",
+          "title": "31.for 활용",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=2909"
+        },
+        {
+          "time": "51:42",
+          "title": "33.break",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=3102"
+        },
+        {
+          "time": "54:24",
+          "title": "35.들여쓰기",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=3264"
+        },
+        {
+          "time": "55:34",
+          "title": "36.리스트 컴프리헨션",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=3334"
+        },
+        {
+          "time": "01:02:34",
+          "title": "39.반환값",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=3754"
+        },
+        {
+          "time": "01:05:57",
+          "title": "41.키워드값",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=3957"
+        },
+        {
+          "time": "01:09:19",
+          "title": "43.지역변수",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=4159"
+        },
+        {
+          "time": "01:11:49",
+          "title": "45.사용자입력",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=4309"
+        },
+        {
+          "time": "01:15:46",
+          "title": "47.with",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=4546"
+        },
+        {
+          "time": "01:19:21",
+          "title": "49.클래스 정의",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=4761"
+        },
+        {
+          "time": "01:23:19",
+          "title": "51.멤버변수",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=4999"
+        },
+        {
+          "time": "01:26:09",
+          "title": "53.self",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=5169"
+        },
+        {
+          "time": "01:32:13",
+          "title": "56.다중상속",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=5533"
+        },
+        {
+          "time": "01:35:36",
+          "title": "58.pass",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=5736"
+        },
+        {
+          "time": "01:44:33",
+          "title": "62.패키지",
+          "link": "https://www.youtube.com/watch?v=T6z-0dpXPvU&t=6273"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "파이썬 무료 강의를 어디서 볼 수 있나요?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGMwUjFaRlZHYjJaWlNVZDVjVGM1ZEZoc1NFa3dVbFYwVEZsNE9WOXFZMnRLWjNKZmJtMUJhVmRYUlhCd1NuRmpSVGt6VkcxUU5tOUlYMk4wZWxaQ1gzQkpPRmh4TUVOUWEwUlBjVUZrWVdaTVVuWlJSR2h1VEU5TGR4SVhZMUpNV0dGd1JEaE9OVWhWYTFCSlVEZGFNMXA1UVhNYUlrRkVjM0k1WmxGWFFURXdRMGhQZFVKT1JtSkdVVEJzYkV0MGVHWjNTa0ZwU21jIiwiZmN2IjoiMyIsImVpIjoiY1JMWGFwRDhONUhVa1BJUDdaM1p5QXMiLCJxYyI6IkNoUHRqSXpzbmJUc2phd2c2ckNWN0oyWUlHOW1FQWw5R2tzVlA2SUJBbXR2IiwicXVlc3Rpb24iOiLtjIzsnbTsjawg66y066OMIOqwleydmOulvCDslrTrlJTshJwg67O8IOyImCDsnojrgpjsmpQ/IiwibGsiOiJHaGZ0akl6c25iVHNqYXdnNjZ5MDY2T01JT3F3bGV5ZG1BIiwiYnMiOiJjNDJRUFFyQ1FCQ0ZzZDNLUWhRWGl6MURFQ3h6QXd1eDlEU1NJbWdDRnB1d2hJMGdfaUdrV0RWS2luaWhuY2tkVERUR0NBcVd3NXYzelp0SHhtU1FPUTZHTWJvUmd5aUd0Y08wOGpBVXNFMFotakZ3anBaa2NNNG5XekJjMmpBVkdIRFQ2TkxPRHl1WkVQTXQ2Y3NDNVFwRGk2RzBNaTktVVAxTl9jeVY0MGxtbnNDNV9FcF9Jc285TWlKR0pSVllVQW9EQlRQT3dGVTVQWVY5RVpMcFl3Szc2QVhzVVZxTFcxbDBvclN5eUpEMHl4Znd4b0VmX2kyaFRWc2ZocktJWnVNTyIsImlkIjoiZmNfY1JMWGFwRDhONUhVa1BJUDdaM1p5QXNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=REDACTED"
+    },
+    {
+      "question": "파이썬 교육을 위해 어떤 강의를 추천하시나요?",
+      "type": "featured_snippet",
+      "next_page_token": "REDACTED",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=REDACTED"
+    },
+    {
+      "question": "파이썬을 배우는 데 얼마나 걸리나요?",
+      "type": "featured_snippet",
+      "next_page_token": "REDACTED",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=REDACTED"
+    },
+    {
+      "question": "무료 코딩 강의를 어디서 볼 수 있나요?",
+      "type": "featured_snippet",
+      "next_page_token": "REDACTED",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=REDACTED"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "vPMdhniczZbdkqo4EIBfYPcx5GbGP8QRp4o6lQAq_oxGBznOjYWAAQHjgMo4d-dd9qn2aTagKDqjZ3YutjZl0STp7nSS_mh__eU5S_fvP_601-tV-FgsRlFUwIRgzyoYxC_q4W5pFOfECwPD_rHZeJYQ3YlAQYqoDFV2vDW1KFTZetlsYjxi67sXTWawJ7gBY9MnYUKyCQzLMQXDDohvMbutUGGMUCgxliMYw-5PfSXxT9WW6g6UQe2l8rIDIZOsKkxnemgtaFBvi7A4LdKHm6tItFMICy4p-Py48fKuOv5OKbAltlLoF3WfKoD_vDUgEKkQEUA3tCBItH7fsANA-2xA3kv5OCKlvdFeqFedIaQkpsOThwE_4aMSdYKOgV1tClAyO8CHDUIpmQKy8tU9neIB5_HiG7qfB7a3EE-mMOPjRjQ4c377EIb5RP9wDPK5OjqN7J329ovtgBRZWO7J8NZlU0UVwHcFuMqtHR7aa-T1jmsFqAmKJqaZXCrOAirKRcewjeQlCOMEF5_rJdJYDl3JWzXVzfL1wXiNZmYeDXhExjMvKhozqucR3bTMqT0t_Uj6ZbZcLdUrNf4-IcsIj2iFWbT8d25JNL4_Ud1CtwDLKVfi2RFdbB6jz5NflA9G8ieT8Q03z9XTFzurn2YLhnHCATnKWjQG8QEfqYdcfFNeKaNyymD5c67OA0xe9IO3RtY-q46aSqYvZzGRPt44yszvj0kEXDrQO_g55LFyFvI-0LZMDU7LnYNBe4oyTObpSWFOIcmwkUYcO-uIbQrvZRAxEghDeOice8cZrqh6A8VBQxtSRdwZxd-V9OMgx7bOQVVVLhiUr9x9G4jRhzz6ahO_QBXdQgrQBQ9ZjuQQQThRWLB4WbYGXOR35ZVpyZB9m6DPuSH-7F_UJOP_SFZasdQ0Ea6RJX6JLOxcIUs-Po4VS9-L8XWytISsY8VSMhUrSjd30r4ki_4xOZHV2FcsiK9VrG-QhW-QBW-QRZe1D4tmyRKvk4U_kHVZsc7u_lixUrK-VbHE71asBDRrL87L12aBr5axVlVdLKTn-Qj2F7Im7bbL5pxjHRvp3O_L2NxfP_q66d1PHfMRsu31zryf0gHyaJnMq5CTpRwvxj9ZzNWlHOTiF17KAfEuJ4McLOXq1cNcnb8jc8b3AiKU9Fo49ZcuYufekxosRtoEPGjldmsX8ptqfkbUSWPgsVrX9ZRq1K3JZDl-7szD3qDVf7f0ib8dVZuq41Zra0Jmk35gPnhGZ9mrP23fBuOt7-QjtAXVvvaan69_TjTb7K02nrRblPVBbbRaP6H-xFjb6mzpbtl21E-iCgUt3wik3owg3mD8wBBoInAYPCGgxVDBCLQxBB2agh0qu1R2CQSoNQGIFiQkEZoQTGjoUyvcClyZnRkl46FeebA4jqUO8Xq3osNMuAyE8j9Os2ZV",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vPMdhniczZbdkqo4EIBfYPcx5GbGP8QRp4o6lQAq_oxGBznOjYWAAQHjgMo4d-dd9qn2aTagKDqjZ3YutjZl0STp7nSS_mh__eU5S_fvP_601-tV-FgsRlFUwIRgzyoYxC_q4W5pFOfECwPD_rHZeJYQ3YlAQYqoDFV2vDW1KFTZetlsYjxi67sXTWawJ7gBY9MnYUKyCQzLMQXDDohvMbutUGGMUCgxliMYw-5PfSXxT9WW6g6UQe2l8rIDIZOsKkxnemgtaFBvi7A4LdKHm6tItFMICy4p-Py48fKuOv5OKbAltlLoF3WfKoD_vDUgEKkQEUA3tCBItH7fsANA-2xA3kv5OCKlvdFeqFedIaQkpsOThwE_4aMSdYKOgV1tClAyO8CHDUIpmQKy8tU9neIB5_HiG7qfB7a3EE-mMOPjRjQ4c377EIb5RP9wDPK5OjqN7J329ovtgBRZWO7J8NZlU0UVwHcFuMqtHR7aa-T1jmsFqAmKJqaZXCrOAirKRcewjeQlCOMEF5_rJdJYDl3JWzXVzfL1wXiNZmYeDXhExjMvKhozqucR3bTMqT0t_Uj6ZbZcLdUrNf4-IcsIj2iFWbT8d25JNL4_Ud1CtwDLKVfi2RFdbB6jz5NflA9G8ieT8Q03z9XTFzurn2YLhnHCATnKWjQG8QEfqYdcfFNeKaNyymD5c67OA0xe9IO3RtY-q46aSqYvZzGRPt44yszvj0kEXDrQO_g55LFyFvI-0LZMDU7LnYNBe4oyTObpSWFOIcmwkUYcO-uIbQrvZRAxEghDeOice8cZrqh6A8VBQxtSRdwZxd-V9OMgx7bOQVVVLhiUr9x9G4jRhzz6ahO_QBXdQgrQBQ9ZjuQQQThRWLB4WbYGXOR35ZVpyZB9m6DPuSH-7F_UJOP_SFZasdQ0Ea6RJX6JLOxcIUs-Po4VS9-L8XWytISsY8VSMhUrSjd30r4ki_4xOZHV2FcsiK9VrG-QhW-QBW-QRZe1D4tmyRKvk4U_kHVZsc7u_lixUrK-VbHE71asBDRrL87L12aBr5axVlVdLKTn-Qj2F7Im7bbL5pxjHRvp3O_L2NxfP_q66d1PHfMRsu31zryf0gHyaJnMq5CTpRwvxj9ZzNWlHOTiF17KAfEuJ4McLOXq1cNcnb8jc8b3AiKU9Fo49ZcuYufekxosRtoEPGjldmsX8ptqfkbUSWPgsVrX9ZRq1K3JZDl-7szD3qDVf7f0ib8dVZuq41Zra0Jmk35gPnhGZ9mrP23fBuOt7-QjtAXVvvaan69_TjTb7K02nrRblPVBbbRaP6H-xFjb6mzpbtl21E-iCgUt3wik3owg3mD8wBBoInAYPCGgxVDBCLQxBB2agh0qu1R2CQSoNQGIFiQkEZoQTGjoUyvcClyZnRkl46FeebA4jqUO8Xq3osNMuAyE8j9Os2ZV"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "무료 | 파이썬 입문",
+      "link": "https://school.programmers.co.kr/learn/courses/2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAV4D0YzUoOsHZh6B-G6GNAu6CtOYZDlC4yMHtB6GeR_nZrmSvx1eleOnG8A_4aszkMeEP5-bg6F-Br8uTzKa4lNRtofVnqlXhDGei-cptU3CVdMpYOR06_SFoOUAMDXTcZrHNlx6NM&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://school.programmers.co.kr › learn › courses",
+      "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACQBQCdASocABwAPtEwtFooIigoGAEAGgljAK4di6uIANVajcDCOi5HfSyp7BTZRO2T4pCXAAD-wmzKAlRkg-osJAgHQ-qLhuJe32COQ-rd3o0lI_b89q0jVvIdradnt_EWkbBpuM-Xib3SGJoGg0j1LueRT3sQ_Yb2cTASisqJ9Dhbq94_8gCSUvXF4c2rsvHxm_-vfH1VqZv5iGS53bjc6XMY4dHme8HXgPTGFaGb3ryVn32iWljlNwFBrQ25cAUqC0YkjwC9rxmgRCgNctb1PDjY_hxw6DtNqF9ibsPqZ0Sv3osxC-8AAAA.webp",
+      "snippet": "파이썬 입문 강의는, · ‍ ‍ 초보자도 쉽게 시작할 수 있어요. · ⏰ 하루 15분만 활용하세요. · 필수 기본 문법을 실습과 함께 · 수강 후기 · 질문 & 답변 ...",
+      "snippet_highlighted_words": [
+        "초보자도 쉽게 시작할 수 있어요"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "파이썬 입문 강의는, · ‍ ‍ 초보자도 쉽게 시작할 수 있어요. · ⏰ 하루 15분만 활용하세요. · 필수 기본 문법을 실습과 함께 · 수강 후기 · 질문 & 답변 ...",
+          "source_info_link": "https://school.programmers.co.kr/learn/courses/2",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACQBQCdASocABwAPtEwtFooIigoGAEAGgljAK4di6uIANVajcDCOi5HfSyp7BTZRO2T4pCXAAD-wmzKAlRkg-osJAgHQ-qLhuJe32COQ-rd3o0lI_b89q0jVvIdradnt_EWkbBpuM-Xib3SGJoGg0j1LueRT3sQ_Yb2cTASisqJ9Dhbq94_8gCSUvXF4c2rsvHxm_-vfH1VqZv5iGS53bjc6XMY4dHme8HXgPTGFaGb3ryVn32iWljlNwFBrQ25cAUqC0YkjwC9rxmgRCgNctb1PDjY_hxw6DtNqF9ibsPqZ0Sv3osxC-8AAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnNHZVlpYzExWXNyeXltN2hrSmdrRmtCOU5UNWlOV0swTFVmUVdTcmVEWlhjeXozWkUxT3l1V2lTTFUtSHZuUEJQRlU2dnhYbDZfRFNQcndLVDhzN0hnTm05UEJrYUZXVV9FcUNxNDM1VFBXSTQwek5ETl8wNGtqYkc5V2RrdEVNb2taNE51aHESBBoCCAAa0QQSAggAGgAiACoAMgYIARICa3I6AEIECAEQCUoAWgByAHoAgkCrBAgJEAAYACAAKhgKCe2MjOydtOyNrBUWihhAGgZweXRob24qFgoG6rCV7J2YFXgLoj8aB2xlY3R1cmUqCQoCb2YVAAAAADKeAS9nb3RvP3VybD1DQUVTYXdIck96QVZzR2VZaWMxMVlzcnl5bTdoa0pna0ZrQjlOVDVpTldLMExVZlFXU3JlRFpYY3l6M1pFMU95dVdpU0xVLUh2blBCUEZVNnZ4WGw2X0RTUHJ3S1Q4czdIZ05tOVBCa2FGV1VfRXFDcTQzNVRQV0k0MHpORE5fMDRramJHOVdka3RFTW9rWjROdWhxOjzrrLTro4wgfCA8Yj7tjIzsnbTsjaw8L2I-IOyeheusuCAtIO2UhOuhnOq3uOuemOuouOyKpCDsiqTsv6hChALtjIzsnbTsjawg7J6F66y4IOqwleydmOuKlCwgJm1pZGRvdDsg4oCNICAgICAg4oCNICAgPGI-7LSI67O07J6Q64-EIOyJveqyjCDsi5zsnpHtlaAg7IiYIOyeiOyWtOyalDwvYj4uICZtaWRkb3Q7IOKPsCDtlZjro6ggMTXrtoTrp4wg7Zmc7Jqp7ZWY7IS47JqULiAmbWlkZG90OyDtlYTsiJgg6riw67O4IOusuOuyleydhCDsi6TsirXqs7wg7ZWo6ruYICZtaWRkb3Q7IOyImOqwlSDtm4TquLAgJm1pZGRvdDsg7KeI66y4ICZhbXA7IOuLteuzgCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnNHZVlpYzExWXNyeXltN2hrSmdrRmtCOU5UNWlOV0swTFVmUVdTcmVEWlhjeXozWkUxT3l1V2lTTFUtSHZuUEJQRlU2dnhYbDZfRFNQcndLVDhzN0hnTm05UEJrYUZXVV9FcUNxNDM1VFBXSTQwek5ETl8wNGtqYkc5V2RrdEVNb2taNE51aHESBBoCCAAa0QQSAggAGgAiACoAMgYIARICa3I6AEIECAEQCUoAWgByAHoAgkCrBAgJEAAYACAAKhgKCe2MjOydtOyNrBUWihhAGgZweXRob24qFgoG6rCV7J2YFXgLoj8aB2xlY3R1cmUqCQoCb2YVAAAAADKeAS9nb3RvP3VybD1DQUVTYXdIck96QVZzR2VZaWMxMVlzcnl5bTdoa0pna0ZrQjlOVDVpTldLMExVZlFXU3JlRFpYY3l6M1pFMU95dVdpU0xVLUh2blBCUEZVNnZ4WGw2X0RTUHJ3S1Q4czdIZ05tOVBCa2FGV1VfRXFDcTQzNVRQV0k0MHpORE5fMDRramJHOVdka3RFTW9rWjROdWhxOjzrrLTro4wgfCA8Yj7tjIzsnbTsjaw8L2I-IOyeheusuCAtIO2UhOuhnOq3uOuemOuouOyKpCDsiqTsv6hChALtjIzsnbTsjawg7J6F66y4IOqwleydmOuKlCwgJm1pZGRvdDsg4oCNICAgICAg4oCNICAgPGI-7LSI67O07J6Q64-EIOyJveqyjCDsi5zsnpHtlaAg7IiYIOyeiOyWtOyalDwvYj4uICZtaWRkb3Q7IOKPsCDtlZjro6ggMTXrtoTrp4wg7Zmc7Jqp7ZWY7IS47JqULiAmbWlkZG90OyDtlYTsiJgg6riw67O4IOusuOuyleydhCDsi6TsirXqs7wg7ZWo6ruYICZtaWRkb3Q7IOyImOqwlSDtm4TquLAgJm1pZGRvdDsg7KeI66y4ICZhbXA7IOuLteuzgCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "프로그래머스 스쿨"
+    },
+    {
+      "position": 2,
+      "title": "[무료강의] 파이썬 강의",
+      "link": "https://www.youtube.com/playlist?list=PLPxNVm9Igfy8MLfMOjMJxejCnJGsNpB_9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFXNvpwnY9CudxPY1f2ytUWmlVe8F5Ty79tPVsJCXHsDqyr4I7bJJK2bZF35SRJzNGZB-ZzK0MIKuuJukZYNwpD2M9yTsMQDtJP_tMWerHICpKNhxDwjEbY2zq1ilsEOkDy9b--cvAUAPxGnpteT6VTxg5RoOnGd2PHmu295ceQ&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQFnoECBwQAQ&uoh=1",
+      "displayed_link": "팔로어 1.7만명 이상",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "[무료강의] 파이썬 강의 · [Python Coding Basics] Chapter 1: Preparing for Python · [Python Coding Basics] Chapter 2: Data Types and Type Conversion.",
+      "snippet_highlighted_words": [
+        "강의",
+        "파이썬 강의",
+        "Python",
+        "Python",
+        "Python"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "[무료강의] 파이썬 강의 · [Python Coding Basics] Chapter 1: Preparing for Python · [\nPython Coding Basics] Chapter 2: Data Types and Type Conversion.",
+          "source_info_link": "https://www.youtube.com/playlist?list=PLPxNVm9Igfy8MLfMOjMJxejCnJGsNpB_9",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZjWHk1dm56TDhjeEhROWFqYnFlcmEydzhfSVM3djVoQ3JjcEktX1ZGOUtsYWlUQzByTTdSMlotVDRSY0RpazZPWVdhWkU1ZjNhMHY0c0tvMTlqRkNEYlAwS0tQekplNzJCQ2drdVJIUkN0Qk54NjdFV3FhdDhhOHJ5MXctUllyMlRTMGExWW1YaURubUcySFB4MFFiN2U2dUdWdDBEU1V4THp3UkFSMlJnEgQaAggAGrcEEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAkQQICRAAGAAgACoYCgntjIzsnbTsjawVCKugQBoGcHl0aG9uKhYKBuqwleydmBXCoq1AGgdsZWN0dXJlKgkKAm9mFQAAAAAywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmNYeTV2bnpMOGN4SFE5YWpicWVyYTJ3OF9JUzd2NWhDcmNwSS1fVkY5S2xhaVRDMHJNN1IyWi1UNFJjRGlrNk9ZV2FaRTVmM2EwdjRzS28xOWpGQ0RiUDBLS1B6SmU3MkJDZ2t1UkhSQ3RCTng2N0VXcWF0OGE4cnkxdy1SWXIyVFMwYTFZbVhpRG5tRzJIUHgwUWI3ZTZ1R1Z0MERTVXhMendSQVIyUmc6N1vrrLTro4w8Yj7qsJXsnZg8L2I-XSA8Yj7tjIzsnbTsjawg6rCV7J2YPC9iPiAtIFlvdVR1YmVCzQFb66y066OMPGI-6rCV7J2YPC9iPl0gPGI-7YyM7J207I2sIOqwleydmDwvYj4gJm1pZGRvdDsgWzxiPlB5dGhvbjwvYj4gQ29kaW5nIEJhc2ljc10gQ2hhcHRlciAxOiBQcmVwYXJpbmcgZm9yIDxiPlB5dGhvbjwvYj4gJm1pZGRvdDsgWzxiPlB5dGhvbjwvYj4gQ29kaW5nIEJhc2ljc10gQ2hhcHRlciAyOiBEYXRhIFR5cGVzIGFuZCBUeXBlIENvbnZlcnNpb24uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZjWHk1dm56TDhjeEhROWFqYnFlcmEydzhfSVM3djVoQ3JjcEktX1ZGOUtsYWlUQzByTTdSMlotVDRSY0RpazZPWVdhWkU1ZjNhMHY0c0tvMTlqRkNEYlAwS0tQekplNzJCQ2drdVJIUkN0Qk54NjdFV3FhdDhhOHJ5MXctUllyMlRTMGExWW1YaURubUcySFB4MFFiN2U2dUdWdDBEU1V4THp3UkFSMlJnEgQaAggAGrcEEgIIABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAkQQICRAAGAAgACoYCgntjIzsnbTsjawVCKugQBoGcHl0aG9uKhYKBuqwleydmBXCoq1AGgdsZWN0dXJlKgkKAm9mFQAAAAAywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmNYeTV2bnpMOGN4SFE5YWpicWVyYTJ3OF9JUzd2NWhDcmNwSS1fVkY5S2xhaVRDMHJNN1IyWi1UNFJjRGlrNk9ZV2FaRTVmM2EwdjRzS28xOWpGQ0RiUDBLS1B6SmU3MkJDZ2t1UkhSQ3RCTng2N0VXcWF0OGE4cnkxdy1SWXIyVFMwYTFZbVhpRG5tRzJIUHgwUWI3ZTZ1R1Z0MERTVXhMendSQVIyUmc6N1vrrLTro4w8Yj7qsJXsnZg8L2I-XSA8Yj7tjIzsnbTsjawg6rCV7J2YPC9iPiAtIFlvdVR1YmVCzQFb66y066OMPGI-6rCV7J2YPC9iPl0gPGI-7YyM7J207I2sIOqwleydmDwvYj4gJm1pZGRvdDsgWzxiPlB5dGhvbjwvYj4gQ29kaW5nIEJhc2ljc10gQ2hhcHRlciAxOiBQcmVwYXJpbmcgZm9yIDxiPlB5dGhvbjwvYj4gJm1pZGRvdDsgWzxiPlB5dGhvbjwvYj4gQ29kaW5nIEJhc2ljc10gQ2hhcHRlciAyOiBEYXRhIFR5cGVzIGFuZCBUeXBlIENvbnZlcnNpb24uIgIQAUgAWABoAA",
+      "source": "YouTube · NadoMaker"
+    },
+    {
+      "position": 3,
+      "title": "파이썬프로그래밍 - 연세대학교 | KOCW 공개 강의",
+      "link": "http://www.kocw.net/home/cview.do?mty=p&kemId=1397576&ar=relateCourse",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFZMz4PKA78iZiAWs6bsYWHM3zGM3B23EjD4asaCBxjEaCV6p2cWBHKLDvqns6-8g3Tu92kYxeIH2ssbqBzk-KCp_zmkYK1z4i28UELbDM4cPSpKXxKpRd7ZWg6lb-XSA39QtVt4KjoDATObbBieOv6saqTDS3ug1HGT5rw&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQFnoECCkQAQ&uoh=1",
+      "displayed_link": "http://www.kocw.net › home › cview",
+      "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACQBACdASoQABAAAsBMJbACdLoBRANgA2kDoJdUA6SglLviyeVm82xRl4YOwAAA_vCeSiig4CTJDAB8-Gcg-j7RqPyN_1f4-sxav_pXXwcvupdn_2cGzfvnlh1ku06N5SO6-MH70gsJv48nna_H3fzP3-chL-F48m-srklOrNf06BM9qr2MSd1UdgN9ccnGcm5Q_wPHLR3_z0Xbj_njr41uKziZHnahqToHCj_EBd-XGT94esp3YBdQpWIXLZN4keirm_gA.webp",
+      "snippet": "파이썬프로그램 언어의 소개와 활용도를 설명하고, 프로그래밍을 위한 소프트웨어와 환경 설치에 대하여 설명한다. URL. 2. 비디오, 파이썬프로그래밍 기초 ...",
+      "snippet_highlighted_words": [
+        "파이썬프로그램 언어의 소개와 활용도를 설명"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "파이썬프로그램 언어의 소개와 활용도를 설명하고, 프로그래밍을 위한 소프트웨어와 환경 설치에 대하여 설명한다. URL. 2. 비디오, 파이썬프로그래밍 기초 ...",
+          "source_info_link": "http://www.kocw.net/home/cview.do?mty=p&kemId=1397576&ar=relateCourse",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACQBACdASoQABAAAsBMJbACdLoBRANgA2kDoJdUA6SglLviyeVm82xRl4YOwAAA_vCeSiig4CTJDAB8-Gcg-j7RqPyN_1f4-sxav_pXXwcvupdn_2cGzfvnlh1ku06N5SO6-MH70gsJv48nna_H3fzP3-chL-F48m-srklOrNf06BM9qr2MSd1UdgN9ccnGcm5Q_wPHLR3_z0Xbj_njr41uKziZHnahqToHCj_EBd-XGT94esp3YBdQpWIXLZN4keirm_gA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZjdTgtQ1k4RUJZbWxnQmNpczg2bkl6Q2daa2IyYUlEOVRkQjBTSGlmOEZTUVl4UlNUY1BXM0pmek1QcjIxVEJrM2dZMk1ZX01JaUdVcHZ5a1VTUldnOEpiV3AtaXdaM2dxdHF0M3drNGYzdzZyeFE3RUZOVXZrSFRwWFFobEs0TENUbkd2SEkwYjFHeEY5Vy1jdmZHVnpjOWNlLXNBUVNCaG43amcSBBoCCAAa1wQSABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAswQICRAAGAAgACoYCgntjIzsnbTsjawVLLKQQBoGcHl0aG9uKhYKBuqwleydmBU1xqdAGgdsZWN0dXJlKgkKAm9mFWbn3z4yvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3RmN1OC1DWThFQlltbGdCY2lzODZuSXpDZ1prYjJhSUQ5VGRCMFNIaWY4RlNRWXhSU1RjUFczSmZ6TVByMjFUQmszZ1kyTVlfTUlpR1VwdnlrVVNSV2c4SmJXcC1pd1ozZ3F0cXQzd2s0ZjN3NnJ4UTdFRk5VdmtIVHBYUWhsSzRMQ1RuR3ZISTBiMUd4RjlXLWN2ZkdWemM5Y2Utc0FRU0JobjdqZzpNPGI-7YyM7J207I2sPC9iPu2UhOuhnOq3uOuemOuwjSAtIOyXsOyEuOuMgO2Vmeq1kCB8IEtPQ1cg6rO16rCcIDxiPuqwleydmDwvYj5C3QE8Yj7tjIzsnbTsjaztlITroZzqt7jrnqgg7Ja47Ja07J2YIOyGjOqwnOyZgCDtmZzsmqnrj4Trpbwg7ISk66qFPC9iPu2VmOqzoCwg7ZSE66Gc6re4656Y67CN7J2EIOychO2VnCDshoztlITtirjsm6jslrTsmYAg7ZmY6rK9IOyEpOy5mOyXkCDrjIDtlZjsl6wg7ISk66qF7ZWc64ukLiBVUkwuIDIuIOu5hOuUlOyYpCwg7YyM7J207I2s7ZSE66Gc6re4656Y67CNIOq4sOy0iCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZjdTgtQ1k4RUJZbWxnQmNpczg2bkl6Q2daa2IyYUlEOVRkQjBTSGlmOEZTUVl4UlNUY1BXM0pmek1QcjIxVEJrM2dZMk1ZX01JaUdVcHZ5a1VTUldnOEpiV3AtaXdaM2dxdHF0M3drNGYzdzZyeFE3RUZOVXZrSFRwWFFobEs0TENUbkd2SEkwYjFHeEY5Vy1jdmZHVnpjOWNlLXNBUVNCaG43amcSBBoCCAAa1wQSABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAswQICRAAGAAgACoYCgntjIzsnbTsjawVLLKQQBoGcHl0aG9uKhYKBuqwleydmBU1xqdAGgdsZWN0dXJlKgkKAm9mFWbn3z4yvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3RmN1OC1DWThFQlltbGdCY2lzODZuSXpDZ1prYjJhSUQ5VGRCMFNIaWY4RlNRWXhSU1RjUFczSmZ6TVByMjFUQmszZ1kyTVlfTUlpR1VwdnlrVVNSV2c4SmJXcC1pd1ozZ3F0cXQzd2s0ZjN3NnJ4UTdFRk5VdmtIVHBYUWhsSzRMQ1RuR3ZISTBiMUd4RjlXLWN2ZkdWemM5Y2Utc0FRU0JobjdqZzpNPGI-7YyM7J207I2sPC9iPu2UhOuhnOq3uOuemOuwjSAtIOyXsOyEuOuMgO2Vmeq1kCB8IEtPQ1cg6rO16rCcIDxiPuqwleydmDwvYj5C3QE8Yj7tjIzsnbTsjaztlITroZzqt7jrnqgg7Ja47Ja07J2YIOyGjOqwnOyZgCDtmZzsmqnrj4Trpbwg7ISk66qFPC9iPu2VmOqzoCwg7ZSE66Gc6re4656Y67CN7J2EIOychO2VnCDshoztlITtirjsm6jslrTsmYAg7ZmY6rK9IOyEpOy5mOyXkCDrjIDtlZjsl6wg7ISk66qF7ZWc64ukLiBVUkwuIDIuIOu5hOuUlOyYpCwg7YyM7J207I2s7ZSE66Gc6re4656Y67CNIOq4sOy0iCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "KOCW"
+    },
+    {
+      "position": 4,
+      "title": "01. 파이썬 시작하기 - 왕초보를 위한 Python",
+      "link": "https://wikidocs.net/43",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAVANCXz6emFLmhj1C5ru4vA3NSHoxSupDz3mf0-ji5U7EpX_sNHaXfn7n3KSrNP6OdB2O_-knYKww02xbpb4Z6izprXl8SBa3XiJVBWUk&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://wikidocs.net › ...",
+      "favicon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBQCdASocABwAPtEutFooIagoGAEAGglAFYA1AzRGTOjMSLx3DTfYPXAO4fap6AAbMxcAAP7-rL6mm0W4ETmonUTAbu_obeHE22Sblu0cG8yiXjG9X8_f7M5ODvJnywE_yu_jc0YLfd9pGOsSxssHny09XMdGcyl0wClk5IXZmzh_H2wZC4xBxXX2lK2Vqfi7puu_-1dv3IS2cpK2a-AHYGX29CLW1bNwOJ8PDZs_R82uZWjPHoP_J9xrn2TnOZ6Lb4PIdjdVVslW-A1Ur8HyJ3bv8o7-gX_Rq5Iw7fzLavWylF25fm23QVOV6fqAfIJnmYrjgNf8lud4Eo1xrzWSrGR3nM3nhN66ctkkDgR7i9UoUJkY6kwA.webp",
+      "snippet": "이 강좌는 프로그래밍을 처음 하는 분들을 위해서 파이썬을 통해 프로그래밍의 기초를 차근차근 익힐 수 있도록 진행하려고 합니다. 우리 함께 파이썬 탐험을 떠나 ...",
+      "snippet_highlighted_words": [
+        "파이썬",
+        "파이썬"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "이 강좌는 프로그래밍을 처음 하는 분들을 위해서 파이썬을 통해 프로그래밍의 기초를 차근차근 익힐 수 있도록 진행하려고 합니다. 우리 함께 파이썬 탐험을 떠나 ...",
+          "source_info_link": "https://wikidocs.net/43",
+          "icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBQCdASocABwAPtEutFooIagoGAEAGglAFYA1AzRGTOjMSLx3DTfYPXAO4fap6AAbMxcAAP7-rL6mm0W4ETmonUTAbu_obeHE22Sblu0cG8yiXjG9X8_f7M5ODvJnywE_yu_jc0YLfd9pGOsSxssHny09XMdGcyl0wClk5IXZmzh_H2wZC4xBxXX2lK2Vqfi7puu_-1dv3IS2cpK2a-AHYGX29CLW1bNwOJ8PDZs_R82uZWjPHoP_J9xrn2TnOZ6Lb4PIdjdVVslW-A1Ur8HyJ3bv8o7-gX_Rq5Iw7fzLavWylF25fm23QVOV6fqAfIJnmYrjgNf8lud4Eo1xrzWSrGR3nM3nhN66ctkkDgR7i9UoUJkY6kwA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWV2ZTMkxseVkwSG9lNkxQdmIwTEFWS2RTdlN5RUt3MkhCNnVIVnAtaENybnFPRDBqQVhRUElDVmJOdTBfQnZVMEItWlpDbHBESGJFa2FpcER1cl9PdnZWRVhGSkVvaC1wTjNxcG9jVRIEGgIIABqzBBICCAAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQI0ECAkQABgAIAAqGAoJ7YyM7J207I2sFR4IWUAaBnB5dGhvbioWCgbqsJXsnZgVAAAAABoHbGVjdHVyZSoJCgJvZhUAAAAAMn0vZ290bz91cmw9Q0FFU1VnSHJPekFWV2ZTMkxseVkwSG9lNkxQdmIwTEFWS2RTdlN5RUt3MkhCNnVIVnAtaENybnFPRDBqQVhRUElDVmJOdTBfQnZVMEItWlpDbHBESGJFa2FpcER1cl9PdnZWRVhGSkVvaC1wTjNxcG9jVTpUMDEuIDxiPu2MjOydtOyNrDwvYj4g7Iuc7J6R7ZWY6riwIC0g7JmV7LSI67O066W8IOychO2VnCA8Yj5QeXRob248L2I-IC0g7JyE7YKk64-F7IqkQvAB7J20IOqwleyijOuKlCDtlITroZzqt7jrnpjrsI3snYQg7LKY7J2MIO2VmOuKlCDrtoTrk6TsnYQg7JyE7ZW07IScIDxiPu2MjOydtOyNrDwvYj7snYQg7Ya17ZW0IO2UhOuhnOq3uOuemOuwjeydmCDquLDstIjrpbwg7LCo6re87LCo6re8IOydte2ekCDsiJgg7J6I64-E66GdIOynhO2Wie2VmOugpOqzoCDtlanri4jri6QuIOyasOumrCDtlajqu5ggPGI-7YyM7J207I2sPC9iPiDtg5Dtl5jsnYQg65ag64KYJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWV2ZTMkxseVkwSG9lNkxQdmIwTEFWS2RTdlN5RUt3MkhCNnVIVnAtaENybnFPRDBqQVhRUElDVmJOdTBfQnZVMEItWlpDbHBESGJFa2FpcER1cl9PdnZWRVhGSkVvaC1wTjNxcG9jVRIEGgIIABqzBBICCAAaACIAKgAyBggBEgJrcjoAQgQIARAJSgBaAHIAegCCQI0ECAkQABgAIAAqGAoJ7YyM7J207I2sFR4IWUAaBnB5dGhvbioWCgbqsJXsnZgVAAAAABoHbGVjdHVyZSoJCgJvZhUAAAAAMn0vZ290bz91cmw9Q0FFU1VnSHJPekFWV2ZTMkxseVkwSG9lNkxQdmIwTEFWS2RTdlN5RUt3MkhCNnVIVnAtaENybnFPRDBqQVhRUElDVmJOdTBfQnZVMEItWlpDbHBESGJFa2FpcER1cl9PdnZWRVhGSkVvaC1wTjNxcG9jVTpUMDEuIDxiPu2MjOydtOyNrDwvYj4g7Iuc7J6R7ZWY6riwIC0g7JmV7LSI67O066W8IOychO2VnCA8Yj5QeXRob248L2I-IC0g7JyE7YKk64-F7IqkQvAB7J20IOqwleyijOuKlCDtlITroZzqt7jrnpjrsI3snYQg7LKY7J2MIO2VmOuKlCDrtoTrk6TsnYQg7JyE7ZW07IScIDxiPu2MjOydtOyNrDwvYj7snYQg7Ya17ZW0IO2UhOuhnOq3uOuemOuwjeydmCDquLDstIjrpbwg7LCo6re87LCo6re8IOydte2ekCDsiJgg7J6I64-E66GdIOynhO2Wie2VmOugpOqzoCDtlanri4jri6QuIOyasOumrCDtlajqu5ggPGI-7YyM7J207I2sPC9iPiDtg5Dtl5jsnYQg65ag64KYJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "위키독스"
+    },
+    {
+      "position": 5,
+      "title": "파이썬 독학을 위한 python 기초 강좌 100개 정리",
+      "link": "https://blog.naver.com/nkj2001/222772183777",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVlUAfl8-4aXxDbz0qpvXJ-gGBzm8C0ykZGB1qFCYZ_xlmBQskWoUAwUCG1zQQRfBLBj4PFDcWmZzPjGl_Ecc7zw1ZuNI2a1fY0cr2ip2XuIE_iFCpWc5R78w4wzhlq46k5w&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://blog.naver.com › nkj2001",
+      "date": "2022. 6. 14.",
+      "snippet": "파이썬 강좌 -1강#프로그래밍 / 코딩이란? 2. 파이썬 강좌 - 2강#왜 파이썬인가? 3. 파이썬 강의 - 3강#파이썬 설치하기. 4. 파이썬 강의 - 4강#개발환경.",
+      "snippet_highlighted_words": [
+        "파이썬",
+        "파이썬",
+        "파이썬",
+        "파이썬 강의",
+        "파이썬",
+        "파이썬 강의"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "파이썬 강좌 -1강#프로그래밍 / 코딩이란? 2. 파이썬 강좌 - 2강#왜 파이썬인가? 3. 파이썬 강의 - 3강#파이썬 설치하기. 4. 파이썬 강의 - 4강#개발환경.",
+          "source_info_link": "https://blog.naver.com/nkj2001/222772183777"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlk3N3FuTkFGa25hbFZlM1NKWFllVENNcUdnc3BLdlFUcUdHYlJMYjQzdkg1WC1mMTlMU2YwaHloeFZzdTh3UGc5bUt1WnNLZm1sUlo4V3g3ZUwtSFlFYmpIMHYzUldGcFVTSnY5R0NrdU5YM0ZsUUNvb3hhaXQzWTR5YVplMG5zQmcSBBoCCAAa1gQSABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAsgQICRAAGAAgACoYCgntjIzsnbTsjawVdWOzQBoGcHl0aG9uKhYKBuqwleydmBXhJnY_GgdsZWN0dXJlKgkKAm9mFX5Arj4ymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWWTc3cW5OQUZrbmFsVmUzU0pYWWVUQ01xR2dzcEt2UVRxR0diUkxiNDN2SDVYLWYxOUxTZjBoeWh4VnN1OHdQZzltS3Vac0tmbWxSWjhXeDdlTC1IWUViakgwdjNSV0ZwVVNKdjlHQ2t1TlgzRmxRQ29veGFpdDNZNHlhWmUwbnNCZzphPGI-7YyM7J207I2sPC9iPiDrj4XtlZnsnYQg7JyE7ZWcIDxiPnB5dGhvbjwvYj4g6riw7LSIIOqwleyijCAxMDDqsJwg7KCV66asIDog64Sk7J2067KEIOu4lOuhnOq3uELsATxiPu2MjOydtOyNrDwvYj4g6rCV7KKMIC0x6rCVI-2UhOuhnOq3uOuemOuwjSAvIOy9lOuUqeydtOuegD8gMi4gPGI-7YyM7J207I2sPC9iPiDqsJXsoowgLSAy6rCVI-yZnCA8Yj7tjIzsnbTsjaw8L2I-7J246rCAPyAzLiA8Yj7tjIzsnbTsjawg6rCV7J2YPC9iPiAtIDPqsJUjPGI-7YyM7J207I2sPC9iPiDshKTsuZjtlZjquLAuIDQuIDxiPu2MjOydtOyNrCDqsJXsnZg8L2I-IC0gNOqwlSPqsJzrsJztmZjqsr0uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlk3N3FuTkFGa25hbFZlM1NKWFllVENNcUdnc3BLdlFUcUdHYlJMYjQzdkg1WC1mMTlMU2YwaHloeFZzdTh3UGc5bUt1WnNLZm1sUlo4V3g3ZUwtSFlFYmpIMHYzUldGcFVTSnY5R0NrdU5YM0ZsUUNvb3hhaXQzWTR5YVplMG5zQmcSBBoCCAAa1gQSABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJAsgQICRAAGAAgACoYCgntjIzsnbTsjawVdWOzQBoGcHl0aG9uKhYKBuqwleydmBXhJnY_GgdsZWN0dXJlKgkKAm9mFX5Arj4ymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWWTc3cW5OQUZrbmFsVmUzU0pYWWVUQ01xR2dzcEt2UVRxR0diUkxiNDN2SDVYLWYxOUxTZjBoeWh4VnN1OHdQZzltS3Vac0tmbWxSWjhXeDdlTC1IWUViakgwdjNSV0ZwVVNKdjlHQ2t1TlgzRmxRQ29veGFpdDNZNHlhWmUwbnNCZzphPGI-7YyM7J207I2sPC9iPiDrj4XtlZnsnYQg7JyE7ZWcIDxiPnB5dGhvbjwvYj4g6riw7LSIIOqwleyijCAxMDDqsJwg7KCV66asIDog64Sk7J2067KEIOu4lOuhnOq3uELsATxiPu2MjOydtOyNrDwvYj4g6rCV7KKMIC0x6rCVI-2UhOuhnOq3uOuemOuwjSAvIOy9lOuUqeydtOuegD8gMi4gPGI-7YyM7J207I2sPC9iPiDqsJXsoowgLSAy6rCVI-yZnCA8Yj7tjIzsnbTsjaw8L2I-7J246rCAPyAzLiA8Yj7tjIzsnbTsjawg6rCV7J2YPC9iPiAtIDPqsJUjPGI-7YyM7J207I2sPC9iPiDshKTsuZjtlZjquLAuIDQuIDxiPu2MjOydtOyNrCDqsJXsnZg8L2I-IC0gNOqwlSPqsJzrsJztmZjqsr0uIgIQAUgAWABoAA",
+      "source": "Naver Blog"
+    },
+    {
+      "position": 6,
+      "title": "Python 강의 리스트 194개",
+      "link": "https://www.inflearn.com/ko/courses/it-programming/programming-lang?skill=python&srsltid=AU7gw4WrrCDT0pgHdHPyFBvUK-ROWnUaUhr-tAmJNBX8C2MiXzXMd31l",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzQEB6zswFWCRKwK1gZxBKsL87kZ-nvuBAHT5COqrbueIKghwnsOBcZJXtnPDQRp2tyJNamhsnb7mtCOuFVxUYH8oFA7dUDgTM2uYo8qHTr2lE3wZ60g_OdFGY-ZCRG9ioy8K-bmxsKZnS6PU-5X0_wtwrAVZCa_3bhPHlc354Qyqqdhbekbe-QmPCIbZ98qlZ8gND-5dtpKQ4ejVcSasNVCh8uhlwkQ3vi-4a5M1JrW_4FSDfCpz_AheR7SHUsYoa-j72mrpnb2z-8LMcvlb&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.inflearn.com › courses › programming-lang",
+      "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAADwBQCdASocABwAPtE-tFooIigoFAEAGgloAJ05QVLd7C0Bz8Yw5HNLHsIuejJ2TfIN7hqwEZdeQADskr-fCqBw1mbAQ-Pm2fBRg-g_wUh71ly-WTGlaKq2aWBVwrb5JD9eb85ntMcHC5r25dNFcbeuEtxLmhFBOFCbAJl84I8FGLqfMCZM3406Mu8A0P3dVHRcziGMt3KFpnViqrG60t3kjrGF6EnlWXUExb1ely1k5nuva83N3amKzr6iFv9oHqQAid8R6GVTAv5u1yVBzOUmD8ezvfG3W7bPSOf5rrm1BbIkegRb4Fsjaf2w5nU2Tj5XDj6yGAE-AH0yPJMQiGg2QAA.webp",
+      "snippet": "강의 리스트 · 프로그래밍 시작하기 : 파이썬 입문 (Inflearn Original)강의 썸네일 · 실리콘밸리 엔지니어가 가르치는 파이썬 기초부터 고급까지강의 썸네일 · 고수가 ...",
+      "snippet_highlighted_words": [
+        "강의",
+        "파이썬",
+        "강의",
+        "파이썬",
+        "강의"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "강의 리스트 · 프로그래밍 시작하기 : 파이썬 입문 (Inflearn Original)강의 썸네일 · 실리콘밸리 엔지니어가 가르치는 파이썬 기초부터 고급까지강의 썸네일 · 고수가 ...",
+          "source_info_link": "https://www.inflearn.com/ko/courses/it-programming/programming-lang?skill=python&srsltid=AU7gw4WrrCDT0pgHdHPyFBvUK-ROWnUaUhr-tAmJNBX8C2MiXzXMd31l",
+          "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAADwBQCdASocABwAPtE-tFooIigoFAEAGgloAJ05QVLd7C0Bz8Yw5HNLHsIuejJ2TfIN7hqwEZdeQADskr-fCqBw1mbAQ-Pm2fBRg-g_wUh71ly-WTGlaKq2aWBVwrb5JD9eb85ntMcHC5r25dNFcbeuEtxLmhFBOFCbAJl84I8FGLqfMCZM3406Mu8A0P3dVHRcziGMt3KFpnViqrG60t3kjrGF6EnlWXUExb1ely1k5nuva83N3amKzr6iFv9oHqQAid8R6GVTAv5u1yVBzOUmD8ezvfG3W7bPSOf5rrm1BbIkegRb4Fsjaf2w5nU2Tj5XDj6yGAE-AH0yPJMQiGg2QAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZiWm1PY2xZaGdyOVVDbGRGUmJpTzhZOUNnWTNUeFpheV85M2p0WHFSc3hmdWFsenBteG8wdE1BaEhtTHdmM0duUkZvbzlBZEpGZ0FubGxobkxzbHJUUTFTRDNyRWR6bmVBRHgyUGhuLUk3UXRHSFZpa2RFYUR0akRsdzduUUpMZzhzRVdWeXY5T1p5ME1zOGtsYmpmcXpaOTllbGNjV1M2dVI5RzJqYmk3RUNiQ2dpRFpPaXVmN1pfVkZQblJJMnZpRUFfc0w3OFloUVZIMmVROTR4ZWt6UmRwSlZia2ZNY2o2VERiX0I5RFNEb2RSenAzR0xpekhSWktPMUgyZk02QnE1a3BpYkNxVlQSBBoCCAAaggUSABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJA3gQICRAAGAAgACoYCgntjIzsnbTsjawV8loBQBoGcHl0aG9uKhYKBuqwleydmBVc25FAGgdsZWN0dXJlKgkKAm9mFZGisD4yygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RlRPOGJLTkswVFcwQS1uTExzMHIwcVdRY1puOWpmQ3lVb2NpRmo5U3JMTU9CYzg5c0tuQ3hhR09LSE56ejRMcUNMVS05dGxSMUxEMHRSU3BSVFpWUVpfTDNHNC1ZS0tmM3pKVHJzNU81ZmFGVmhtUkNXUGFXZ2RJSWx0d0VGT0t2dS1lQ1U3MHBjUGhmV3RkU0l4WlRyd2U4NV84MXduLUVzdzNIWTM1S3ptRGxrNnJqQkt3OjE8Yj5QeXRob24g6rCV7J2YPC9iPiDrpqzsiqTtirggMTk06rCcIC0g7J247ZSE65-wQpYCPGI-6rCV7J2YPC9iPiDrpqzsiqTtirggJm1pZGRvdDsg7ZSE66Gc6re4656Y67CNIOyLnOyeke2VmOq4sCA6IDxiPu2MjOydtOyNrDwvYj4g7J6F66y4IChJbmZsZWFybiBPcmlnaW5hbCk8Yj7qsJXsnZg8L2I-IOyNuOuEpOydvCAmbWlkZG90OyDsi6TrpqzsvZjrsLjrpqwg7JeU7KeA64uI7Ja06rCAIOqwgOultOy5mOuKlCA8Yj7tjIzsnbTsjaw8L2I-IOq4sOy0iOu2gO2EsCDqs6DquInquYzsp4A8Yj7qsJXsnZg8L2I-IOyNuOuEpOydvCAmbWlkZG90OyDqs6DsiJjqsIAmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZiWm1PY2xZaGdyOVVDbGRGUmJpTzhZOUNnWTNUeFpheV85M2p0WHFSc3hmdWFsenBteG8wdE1BaEhtTHdmM0duUkZvbzlBZEpGZ0FubGxobkxzbHJUUTFTRDNyRWR6bmVBRHgyUGhuLUk3UXRHSFZpa2RFYUR0akRsdzduUUpMZzhzRVdWeXY5T1p5ME1zOGtsYmpmcXpaOTllbGNjV1M2dVI5RzJqYmk3RUNiQ2dpRFpPaXVmN1pfVkZQblJJMnZpRUFfc0w3OFloUVZIMmVROTR4ZWt6UmRwSlZia2ZNY2o2VERiX0I5RFNEb2RSenAzR0xpekhSWktPMUgyZk02QnE1a3BpYkNxVlQSBBoCCAAaggUSABoAIgAqADIGCAESAmtyOgBCBAgBEAlKAFoAcgB6AIJA3gQICRAAGAAgACoYCgntjIzsnbTsjawV8loBQBoGcHl0aG9uKhYKBuqwleydmBVc25FAGgdsZWN0dXJlKgkKAm9mFZGisD4yygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RlRPOGJLTkswVFcwQS1uTExzMHIwcVdRY1puOWpmQ3lVb2NpRmo5U3JMTU9CYzg5c0tuQ3hhR09LSE56ejRMcUNMVS05dGxSMUxEMHRSU3BSVFpWUVpfTDNHNC1ZS0tmM3pKVHJzNU81ZmFGVmhtUkNXUGFXZ2RJSWx0d0VGT0t2dS1lQ1U3MHBjUGhmV3RkU0l4WlRyd2U4NV84MXduLUVzdzNIWTM1S3ptRGxrNnJqQkt3OjE8Yj5QeXRob24g6rCV7J2YPC9iPiDrpqzsiqTtirggMTk06rCcIC0g7J247ZSE65-wQpYCPGI-6rCV7J2YPC9iPiDrpqzsiqTtirggJm1pZGRvdDsg7ZSE66Gc6re4656Y67CNIOyLnOyeke2VmOq4sCA6IDxiPu2MjOydtOyNrDwvYj4g7J6F66y4IChJbmZsZWFybiBPcmlnaW5hbCk8Yj7qsJXsnZg8L2I-IOyNuOuEpOydvCAmbWlkZG90OyDsi6TrpqzsvZjrsLjrpqwg7JeU7KeA64uI7Ja06rCAIOqwgOultOy5mOuKlCA8Yj7tjIzsnbTsjaw8L2I-IOq4sOy0iOu2gO2EsCDqs6DquInquYzsp4A8Yj7qsJXsnZg8L2I-IOyNuOuEpOydvCAmbWlkZG90OyDqs6DsiJjqsIAmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "인프런"
+    },
+    {
+      "position": 7,
+      "title": "파이썬 기초 배우기 좋은 온라인 강좌 : r/learnpython",
+      "link": "https://www.reddit.com/r/learnpython/comments/y8rhss/best_online_course_to_learn_the_basics_of_python/?tl=ko",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFTS5585ueWoUzFJAKQBQM6Nw9gt_pxphfJzX2Cm5KnrtJ4OC4HEx8hUyOcpzuLUC33luBQcN2-cN3CcLKcAqfidcvhQIkW-eXMVFLS2n6EUjCHdg__hj2pRbc8ObpfH60vl5m8ppHAfj075-73d-eX5C6ShokarytaJk0voCRaIIZOrFEk2D5_r-z5NLvLyKWduShLJ5KR8BO7f34QwJQ7lIKQ&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQFnoECCwQAQ&uoh=1",
+      "displayed_link": "댓글 90개 이상 · 4년 전",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "당연히 코스 자료는 기본을 다루는데, 특히 학습 방식이 정말 좋았어요. 엄청 인터랙티브하고, 비디오 강의도 없고, 자기 페이스대로 할 수 있어요.",
+      "snippet_highlighted_words": [
+        "강의"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "당연히 코스 자료는 기본을 다루는데, 특히 학습 방식이 정말 좋았어요. 엄청 인터랙티브하고, 비디오 강의도 없고, 자기 페이스대로 할 수 있어요.",
+          "source_info_link": "https://www.reddit.com/r/learnpython/comments/y8rhss/best_online_course_to_learn_the_basics_of_python/?tl=ko",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "ko"
+        ],
+        "regions": [
+          "KR"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZZaElvUk5QYnl0cHJKVXVwcVhQR3RfUnpYSGRUcmZPUEh1ajdCVnpGUVROWU5iT3dyZHhXTDBhTGZWaFZSaUdfNDRvQnBGdGtKeUxPUmxzYjB1bWdMb01fZGpLd0FlREc1bnh4X2l1cnBLYXZXUC1nM3BJblN4RktfclJ3VHM0TGtGcGFENk5JdHNvcl9IMVdCeHNRQmNDNUpNV3JyVU9TVEZCR0QtbXRqWXpWSzlqVGNQYTNETE1feWxRNTlzSTh3N2MzajVFN2xOa2xjWUpKTFBBQUI0M2lnEgQaAggAGv0EEgAaACIAKgAyBggDEgJrcjoAQgQIARAJSgBaAHIAegCCQNkECAkQABgAIAAqGAoJ7YyM7J207I2sFbW-b0AaBnB5dGhvbioWCgbqsJXsnZgV8vGPPxoHbGVjdHVyZSoJCgJvZhXJTZM8MvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZZaElvUk5QYnl0cHJKVXVwcVhQR3RfUnpYSGRUcmZPUEh1ajdCVnpGUVROWU5iT3dyZHhXTDBhTGZWaFZSaUdfNDRvQnBGdGtKeUxPUmxzYjB1bWdMb01fZGpLd0FlREc1bnh4X2l1cnBLYXZXUC1nM3BJblN4RktfclJ3VHM0TGtGcGFENk5JdHNvcl9IMVdCeHNRQmNDNUpNV3JyVU9TVEZCR0QtbXRqWXpWSzlqVGNQYTNETE1feWxRNTlzSTh3N2MzajVFN2xOa2xjWUpKTFBBQUI0M2lnOlI8Yj7tjIzsnbTsjaw8L2I-IOq4sOy0iCDrsLDsmrDquLAg7KKL7J2AIOyYqOudvOyduCDqsJXsoowgOiByL2xlYXJucHl0aG9uIC0gUmVkZGl0QsoB64u57Jew7Z6IIOy9lOyKpCDsnpDro4zripQg6riw67O47J2EIOuLpOujqOuKlOuNsCwg7Yq57Z6IIO2VmeyKtSDrsKnsi53snbQg7KCV66eQIOyii-yVmOyWtOyalC4g7JeE7LKtIOyduO2EsOueme2LsOu4jO2VmOqzoCwg67mE65SU7JikIDxiPuqwleydmDwvYj7rj4Qg7JeG6rOgLCDsnpDquLAg7Y6Y7J207Iqk64yA66GcIO2VoCDsiJgg7J6I7Ja07JqULiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZZaElvUk5QYnl0cHJKVXVwcVhQR3RfUnpYSGRUcmZPUEh1ajdCVnpGUVROWU5iT3dyZHhXTDBhTGZWaFZSaUdfNDRvQnBGdGtKeUxPUmxzYjB1bWdMb01fZGpLd0FlREc1bnh4X2l1cnBLYXZXUC1nM3BJblN4RktfclJ3VHM0TGtGcGFENk5JdHNvcl9IMVdCeHNRQmNDNUpNV3JyVU9TVEZCR0QtbXRqWXpWSzlqVGNQYTNETE1feWxRNTlzSTh3N2MzajVFN2xOa2xjWUpKTFBBQUI0M2lnEgQaAggAGv0EEgAaACIAKgAyBggDEgJrcjoAQgQIARAJSgBaAHIAegCCQNkECAkQABgAIAAqGAoJ7YyM7J207I2sFbW-b0AaBnB5dGhvbioWCgbqsJXsnZgV8vGPPxoHbGVjdHVyZSoJCgJvZhXJTZM8MvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZZaElvUk5QYnl0cHJKVXVwcVhQR3RfUnpYSGRUcmZPUEh1ajdCVnpGUVROWU5iT3dyZHhXTDBhTGZWaFZSaUdfNDRvQnBGdGtKeUxPUmxzYjB1bWdMb01fZGpLd0FlREc1bnh4X2l1cnBLYXZXUC1nM3BJblN4RktfclJ3VHM0TGtGcGFENk5JdHNvcl9IMVdCeHNRQmNDNUpNV3JyVU9TVEZCR0QtbXRqWXpWSzlqVGNQYTNETE1feWxRNTlzSTh3N2MzajVFN2xOa2xjWUpKTFBBQUI0M2lnOlI8Yj7tjIzsnbTsjaw8L2I-IOq4sOy0iCDrsLDsmrDquLAg7KKL7J2AIOyYqOudvOyduCDqsJXsoowgOiByL2xlYXJucHl0aG9uIC0gUmVkZGl0QsoB64u57Jew7Z6IIOy9lOyKpCDsnpDro4zripQg6riw67O47J2EIOuLpOujqOuKlOuNsCwg7Yq57Z6IIO2VmeyKtSDrsKnsi53snbQg7KCV66eQIOyii-yVmOyWtOyalC4g7JeE7LKtIOyduO2EsOueme2LsOu4jO2VmOqzoCwg67mE65SU7JikIDxiPuqwleydmDwvYj7rj4Qg7JeG6rOgLCDsnpDquLAg7Y6Y7J207Iqk64yA66GcIO2VoCDsiJgg7J6I7Ja07JqULiICEAFIAFgAaAA",
+      "source": "Reddit · r/learnpython"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "파이썬 강의 PDF",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98+PDF&sa=X&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ1QJ6BAglEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98+PDF"
+    },
+    {
+      "block_position": 1,
+      "query": "파이썬 무료 강의 추천",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%AC%B4%EB%A3%8C+%EA%B0%95%EC%9D%98+%EC%B6%94%EC%B2%9C&sa=X&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%AC%B4%EB%A3%8C+%EA%B0%95%EC%9D%98+%EC%B6%94%EC%B2%9C"
+    },
+    {
+      "block_position": 1,
+      "query": "점프 투 파이썬",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&q=%EC%A0%90%ED%94%84+%ED%88%AC+%ED%8C%8C%EC%9D%B4%EC%8D%AC&sa=X&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%EC%A0%90%ED%94%84+%ED%88%AC+%ED%8C%8C%EC%9D%B4%EC%8D%AC"
+    },
+    {
+      "block_position": 1,
+      "query": "파이썬 기초",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B8%B0%EC%B4%88&sa=X&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B8%B0%EC%B4%88"
+    },
+    {
+      "block_position": 1,
+      "query": "파이썬 무료 강의 사이트",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%AC%B4%EB%A3%8C+%EA%B0%95%EC%9D%98+%EC%82%AC%EC%9D%B4%ED%8A%B8&sa=X&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%AC%B4%EB%A3%8C+%EA%B0%95%EC%9D%98+%EC%82%AC%EC%9D%B4%ED%8A%B8"
+    },
+    {
+      "block_position": 1,
+      "query": "파이썬 독학 사이트",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%8F%85%ED%95%99+%EC%82%AC%EC%9D%B4%ED%8A%B8&sa=X&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%8F%85%ED%95%99+%EC%82%AC%EC%9D%B4%ED%8A%B8"
+    },
+    {
+      "block_position": 1,
+      "query": "파이썬 인강",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%9D%B8%EA%B0%95&sa=X&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ1QJ6BAgrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%9D%B8%EA%B0%95"
+    },
+    {
+      "block_position": 1,
+      "query": "파이썬 문법",
+      "link": "https://www.google.com/search?sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%AC%B8%EB%B2%95&sa=X&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ1QJ6BAgnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%AC%B8%EB%B2%95"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&ei=cRLXapD8N5HUkPIP7Z3ZyAs&start=10&sa=N&sstk=AS6-VmJfP7WKfe35GPDwE5Sq3zdZ9J4H7yEjI_xywf67kA7P4HdvlCPlhVNh560g8kGB2ktNiA9z7E3GBSkXqwSlKgErD1gHLkCLuA&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ8NMDegQIIhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&ei=cRLXapD8N5HUkPIP7Z3ZyAs&start=10&sa=N&sstk=AS6-VmJfP7WKfe35GPDwE5Sq3zdZ9J4H7yEjI_xywf67kA7P4HdvlCPlhVNh560g8kGB2ktNiA9z7E3GBSkXqwSlKgErD1gHLkCLuA&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ8tMDegQIIhAE",
+      "3": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&ei=cRLXapD8N5HUkPIP7Z3ZyAs&start=20&sa=N&sstk=AS6-VmJfP7WKfe35GPDwE5Sq3zdZ9J4H7yEjI_xywf67kA7P4HdvlCPlhVNh560g8kGB2ktNiA9z7E3GBSkXqwSlKgErD1gHLkCLuA&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ8tMDegQIIhAG",
+      "4": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&ei=cRLXapD8N5HUkPIP7Z3ZyAs&start=30&sa=N&sstk=AS6-VmJfP7WKfe35GPDwE5Sq3zdZ9J4H7yEjI_xywf67kA7P4HdvlCPlhVNh560g8kGB2ktNiA9z7E3GBSkXqwSlKgErD1gHLkCLuA&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ8tMDegQIIhAI",
+      "5": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&ei=cRLXapD8N5HUkPIP7Z3ZyAs&start=40&sa=N&sstk=AS6-VmJfP7WKfe35GPDwE5Sq3zdZ9J4H7yEjI_xywf67kA7P4HdvlCPlhVNh560g8kGB2ktNiA9z7E3GBSkXqwSlKgErD1gHLkCLuA&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ8tMDegQIIhAK",
+      "6": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&ei=cRLXapD8N5HUkPIP7Z3ZyAs&start=50&sa=N&sstk=AS6-VmJfP7WKfe35GPDwE5Sq3zdZ9J4H7yEjI_xywf67kA7P4HdvlCPlhVNh560g8kGB2ktNiA9z7E3GBSkXqwSlKgErD1gHLkCLuA&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ8tMDegQIIhAM",
+      "7": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&ei=cRLXapD8N5HUkPIP7Z3ZyAs&start=60&sa=N&sstk=AS6-VmJfP7WKfe35GPDwE5Sq3zdZ9J4H7yEjI_xywf67kA7P4HdvlCPlhVNh560g8kGB2ktNiA9z7E3GBSkXqwSlKgErD1gHLkCLuA&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ8tMDegQIIhAO",
+      "8": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&ei=cRLXapD8N5HUkPIP7Z3ZyAs&start=70&sa=N&sstk=AS6-VmJfP7WKfe35GPDwE5Sq3zdZ9J4H7yEjI_xywf67kA7P4HdvlCPlhVNh560g8kGB2ktNiA9z7E3GBSkXqwSlKgErD1gHLkCLuA&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ8tMDegQIIhAQ",
+      "9": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&ei=cRLXapD8N5HUkPIP7Z3ZyAs&start=80&sa=N&sstk=AS6-VmJfP7WKfe35GPDwE5Sq3zdZ9J4H7yEjI_xywf67kA7P4HdvlCPlhVNh560g8kGB2ktNiA9z7E3GBSkXqwSlKgErD1gHLkCLuA&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ8tMDegQIIhAS",
+      "10": "https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&sca_esv=412bc0c6936e442c&gl=kr&hl=ko&sxsrf=APpeQntWfb5heC0Dto8w8Q_F3juJKr4YgQ:1792479857926&ei=cRLXapD8N5HUkPIP7Z3ZyAs&start=90&sa=N&sstk=AS6-VmJfP7WKfe35GPDwE5Sq3zdZ9J4H7yEjI_xywf67kA7P4HdvlCPlhVNh560g8kGB2ktNiA9z7E3GBSkXqwSlKgErD1gHLkCLuA&ved=2ahUKEwjQ-Mrpg8iXAxURKkQIHe1OFrkQ8tMDegQIIhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&location=Seoul%2C+South+Korea&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EA%B0%95%EC%9D%98&start=90"
+    }
+  }
+}
