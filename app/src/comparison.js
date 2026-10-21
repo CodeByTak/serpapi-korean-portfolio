@@ -21,6 +21,21 @@ export function overlapDomains({ naver = [], google = [] }) {
   return new Set(naver.map((item) => domainOf(item.link)).filter((domain) => domain && googleDomains.has(domain)));
 }
 
+export function domainRanks({ naver = [], google = [] }) {
+  const ranks = new Map();
+  for (const [engine, items] of Object.entries({ naver, google })) {
+    items.forEach((item, index) => {
+      const domain = domainOf(item.link);
+      if (!domain) return;
+      if (!ranks.has(domain)) ranks.set(domain, { domain, naver: null, google: null });
+      const entry = ranks.get(domain);
+      if (entry[engine] === null) entry[engine] = index + 1;
+    });
+  }
+  return [...ranks.values()].sort((a, b) =>
+    Math.min(a.naver ?? Infinity, a.google ?? Infinity) - Math.min(b.naver ?? Infinity, b.google ?? Infinity));
+}
+
 const cache = new Map();
 export function loadComparison(query) {
   query = query.trim();
