@@ -44,7 +44,7 @@ export default function App() {
     <div className="app-shell">
       <a className="skip-link" href="#comparison">검색 결과로 건너뛰기</a>
       <header className="topbar">
-        <div className="dashboard-brand"><h1 id="page-title">네이버 vs 구글 검색 가시성 비교</h1><p lang="en">Search Visibility Dashboard</p></div>
+        <div className="dashboard-brand"><h1 id="page-title"><span>키워드 가시성 매치:</span>{' '}<wbr /><span>네이버 vs 구글</span></h1><p className="dashboard-subtitle">내 키워드 어디서 더 잘 보일까?</p><p lang="en">Search Visibility Dashboard</p></div>
         <div className="header-controls">
           <label className="sr-only" htmlFor="preset">예시 검색어</label>
           <select id="preset" className="preset-select" value={isPreset ? query : ''} onChange={(event) => runSearch(event.target.value)}>

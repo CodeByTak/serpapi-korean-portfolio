@@ -28,13 +28,16 @@ test('dashboard renders ranks, missing states, and optional thumbnails without f
   try {
     const { default: App } = await server.ssrLoadModule('/src/App.jsx');
     const markup = renderToStaticMarkup(React.createElement(App));
-    assert.match(markup, /<h1[^>]*>네이버 vs 구글 검색 가시성 비교<\/h1>/);
+    const heading = markup.match(/<h1[^>]*>(.*?)<\/h1>/)[1];
+    assert.equal(heading.replace(/<[^>]+>/g, ''), '키워드 가시성 매치: 네이버 vs 구글');
+    assert.match(heading, /매치:<\/span> <wbr\/><span[^>]*>네이버 vs 구글/);
+    assert.match(markup, /<p class="dashboard-subtitle">내 키워드 어디서 더 잘 보일까\?<\/p><p lang="en">Search Visibility Dashboard<\/p>/);
     assert.match(markup, /<p lang="en">Search Visibility Dashboard<\/p>/);
     const css = await readFile(new URL('../src/styles.css', import.meta.url), 'utf8');
     assert.match(css, /color-scheme:\s*light\s*;/);
     assert.doesNotMatch(css, /prefers-color-scheme:\s*dark/);
     const html = await readFile(new URL('../index.html', import.meta.url), 'utf8');
-    assert.match(html, /<title>네이버 vs 구글 검색 가시성 비교<\/title>/);
+    assert.match(html, /<title>키워드 가시성 매치: 네이버 vs 구글 - 내 키워드 어디서 더 잘 보일까\?<\/title>/);
     const { RankChart, ResultColumn, StatTiles } = await server.ssrLoadModule('/src/Dashboard.jsx');
     const data = {
       naver: [{ ...item('shared.test'), title: 'Top Naver', thumbnail: ['https://images.test/a.jpg', 'https://images.test/b.jpg', 'https://images.test/c.jpg', 'https://images.test/d.jpg'] }],

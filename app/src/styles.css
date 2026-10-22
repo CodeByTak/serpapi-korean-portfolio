@@ -46,7 +46,9 @@ h1, h2, h3, p { margin: 0; }
 .topbar { min-height: 116px; display: flex; align-items: center; justify-content: space-between; gap: var(--space-3); border-bottom: 1px solid var(--border); padding-block: var(--space-3); }
 .dashboard-brand { flex-shrink: 0; min-width: 0; max-width: 100%; }
 .dashboard-brand h1 { font-size: 32px; font-weight: var(--weight-bold); letter-spacing: -.045em; line-height: 1.3; word-break: keep-all; overflow-wrap: break-word; text-wrap: balance; }
+.dashboard-brand h1 span { display: inline-block; white-space: nowrap; }
 .dashboard-brand p { margin-top: 6px; color: var(--muted); font-size: 15px; }
+.dashboard-brand .dashboard-subtitle { font-size: 20px; font-weight: var(--weight-semibold); color: #4B5563; word-break: keep-all; }
 .header-controls { display: flex; align-items: center; justify-content: end; gap: 12px; min-width: 0; flex: 1; }
 .preset-select { width: 210px; max-width: 100%; flex-shrink: 0; min-height: 48px; padding: 10px 30px 10px 14px; background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: 10px; text-overflow: ellipsis; font-size: var(--text-sm); }
 .eyebrow { color: var(--muted); font-size: var(--text-sm); font-weight: var(--weight-semibold); letter-spacing: .08em; }
