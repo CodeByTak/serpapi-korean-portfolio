@@ -72,6 +72,7 @@
     .primary { background: var(--indigo); border-color: var(--indigo); color: white; font-size: 19px; white-space: nowrap; }
     .project-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
     .project-card { display: flex; flex-direction: column; align-items: start; }
+    .project-card:last-child:nth-child(odd) { grid-column: 1 / -1; }
     .card-top { display: flex; align-items: center; gap: 16px; }
     .letter-tile { display: grid; place-items: center; flex-shrink: 0; width: 52px; height: 52px; background: #EEF1FF; color: #4D5FD0; border-radius: 14px; font-size: 24px; font-weight: 700; }
     .project-card .tags { margin-bottom: 24px; }
@@ -194,12 +195,7 @@
           <ul class="tags" aria-label="Localization topics"><li>Korean docs</li><li>Naver API</li><li>Glossary template</li></ul>
           <div class="card-actions"><a class="button" href="https://github.com/CodeByTak/serpapi-korean-portfolio/blob/main/content/docs-ko.md" aria-label="View Korean documentation sample">View <span aria-hidden="true">→</span></a><a class="text-link" href="https://github.com/CodeByTak/serpapi-korean-portfolio/blob/main/content/glossary.md">Glossary <span aria-hidden="true">↗</span></a></div>
         </article>
-        <article class="card project-card">
-          <div class="card-top"><span class="letter-tile" aria-hidden="true">F</span><p class="meta">Feedback <span class="status">Report</span></p></div>
-          <h3>Feedback report</h3><p class="description">Report link pending; no feedback report is included in this repository yet.</p>
-          <ul class="tags" aria-label="Report topics"><li>Feedback</li><li>Report</li><li>Link pending</li></ul>
-          <div class="card-actions"><a class="button pending" href="{{FEEDBACK_REPORT_URL}}" aria-disabled="true" data-placeholder aria-label="View feedback report, URL pending">View <span aria-hidden="true">→</span></a></div>
-        </article>
+
         <article class="card project-card">
           <div class="card-top"><span class="letter-tile" aria-hidden="true">R</span><p class="meta">Campaign <span class="status">Sample</span></p></div>
           <h3>Sample Reels Campaign</h3><p class="description">Three Korean sample reels, four ad cards, and a four-week posting calendar with English summaries and translations.</p>
@@ -224,14 +220,20 @@
       <div class="footer-main">
         <a class="brand" href="#intro"><span class="monogram" aria-hidden="true">T<span>T</span></span>Theresa Tak</a>
         <div class="contact-links" aria-label="Social and contact links">
+          <a class="button" href="mailto:vttak9@gmail.com">vttak9@gmail.com</a>
+          <a class="button" href="https://www.linkedin.com/in/theresa-vicky-t-790b4210a" target="_blank" rel="noopener">LinkedIn</a>
           <a class="button" href="https://github.com/CodeByTak">GitHub <span aria-hidden="true">↗</span></a>
-          <a class="button pending" href="{{INSTAGRAM_URL}}" aria-disabled="true" data-placeholder aria-label="Instagram, URL pending">Instagram</a>
-          <a class="button pending" href="{{YOUTUBE_URL}}" aria-disabled="true" data-placeholder aria-label="YouTube, URL pending">YouTube</a>
-          <a class="button pending" href="{{LINKEDIN_URL}}" aria-disabled="true" data-placeholder aria-label="LinkedIn, URL pending">LinkedIn</a>
-          <a class="button pending" href="mailto:{{EMAIL}}" aria-disabled="true" data-placeholder aria-label="Email, address pending">Email</a>
         </div>
       </div>
-      <div class="footer-notes"><p>Project made for my SerpApi application.</p><p>Unofficial project made for my SerpApi application.</p><p>Muted links await contact or publication details.</p></div>
+      <div class="footer-notes">
+        <p>Project made for my SerpApi application.</p>
+        <div>
+          <!-- DRAFT -->
+          <p lang="ko">함께 이야기 나눌 기회가 생긴다면 정말 기쁠 것 같습니다. 언제든 편하게 연락 주세요.</p>
+          <p lang="en">I'd love to stay in touch. Please feel free to reach out anytime.</p>
+
+        </div>
+      </div>
     </div>
   </footer>
   <script>
