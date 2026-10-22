@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sample Reels Campaign · Theresa Tak</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+<style>
+:root{--bg:#FAFAFA;--surface:#FFFFFF;--text:#111827;--muted:#6B7280;--border:#E5E7EB;--naver:#03C75A;--google:#4285F4;--soft:#F3F4F6}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--text);font-family:Pretendard,system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1100px;margin:0 auto;padding:56px 20px 80px}
+a{color:var(--google)}
+.back{font-size:14px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--text)}
+.eyebrow{margin-top:28px;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--naver)}
+h1{font-size:clamp(30px,4.4vw,44px);line-height:1.15;letter-spacing:-.02em;margin:8px 0 14px}
+.lede{font-size:18px;color:#374151;max-width:760px}
+.note{margin-top:22px;display:flex;gap:12px;align-items:flex-start;background:var(--surface);border:1px solid var(--border);border-left:4px solid var(--naver);border-radius:12px;padding:14px 18px;font-size:15px;color:#374151;max-width:760px}
+h2{font-size:26px;letter-spacing:-.01em;margin:64px 0 6px}
+.h2sub{color:var(--muted);margin-bottom:24px}
+.reels{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:16px;box-shadow:0 1px 2px rgba(0,0,0,.06);overflow:hidden;display:flex;flex-direction:column}
+.card video{width:100%;aspect-ratio:9/16;background:#000;display:block}
+.body{padding:18px 18px 20px;display:flex;flex-direction:column;gap:12px}
+.num{font-size:12px;font-weight:700;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+h3{font-size:19px;line-height:1.3;letter-spacing:-.01em}
+.idea{font-size:15px;color:#374151}
+.meta{display:flex;flex-wrap:wrap;gap:6px}
+.pill{font-size:12px;font-weight:600;padding:4px 10px;border-radius:999px;background:var(--soft);color:#374151}
+.pill.g{background:#E7F8EE;color:#027A38}
+details{border-top:1px solid var(--border);padding-top:10px}
+summary{cursor:pointer;font-weight:700;font-size:14px;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";float:right;color:var(--muted)}
+details[open] summary::after{content:"–"}
+ol.beats{margin:10px 0 0;padding-left:0;list-style:none;display:flex;flex-direction:column;gap:8px;font-size:14px}
+ol.beats li{display:grid;grid-template-columns:58px 1fr;gap:8px}
+.t{font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px;padding-top:1px}
+.tr{margin-top:10px;display:flex;flex-direction:column;gap:8px}
+.tr div{font-size:14px}
+.ko{display:block;font-weight:700}
+.en{display:block;color:var(--muted)}
+.ads{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
+.ads img{width:100%;aspect-ratio:4/5;object-fit:cover;display:block}
+.ads .body{gap:8px}
+table{width:100%;border-collapse:separate;border-spacing:0;background:var(--surface);border:1px solid var(--border);border-radius:16px;overflow:hidden;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:14px 16px;border-bottom:1px solid var(--border)}
+tr:last-child td{border-bottom:0}
+th{background:var(--soft);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+td b{display:block;font-size:15px}
+td .wk{font-size:12px;color:var(--muted);font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.done{color:#027A38;font-weight:700}
+.tablewrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.rules{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:20px}
+.rule{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px;font-size:14px;color:#374151}
+.rule b{display:block;color:var(--text);margin-bottom:4px}
+footer{margin-top:64px;padding-top:20px;border-top:1px solid var(--border);color:var(--muted);font-size:14px}
+:focus-visible{outline:3px solid var(--google);outline-offset:2px;border-radius:6px}
+@media (max-width:900px){.reels{grid-template-columns:1fr 1fr}.ads{grid-template-columns:1fr 1fr}.rules{grid-template-columns:1fr}}
+@media (max-width:600px){.reels{grid-template-columns:1fr}.wrap{padding-top:32px}table{min-width:680px}}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <a class="back" href="portfolio.html">← Back to portfolio</a>
+  <p class="eyebrow">Sample campaign · Instagram Reels</p>
+  <h1>How I'd reach Korean developers and sellers on Reels</h1>
+  <p class="lede">Three finished sample reels, four ad cards and a 4-week posting calendar for a Korean SerpApi campaign. All on-screen text is Korean, so each piece has an English plot summary and translation below it.</p>
+  <div class="note"><span>ℹ️</span><span>The presenters (서윤 Seoyun and 도윤 Doyun) are AI-generated characters made with Google Flow (Veo) and Midjourney, and edited by me. On a live account they would carry Instagram's AI label. The screen recording in Reel 1 is my real Korean search agent running on SerpApi.</span></div>
+
+  <h2>1. Sample reels</h2>
+  <p class="h2sub">Each reel follows one structure: a relatable pain point as the hook, then SerpApi as the fix, then one clear call to action.</p>
+  <div class="reels">
+
+    <article class="card">
+      <video controls playsinline preload="metadata" poster="media/reel-1-poster.jpg" src="media/reel-1-ai-trends.mp4"></video>
+      <div class="body">
+        <span class="num">Reel 1 · 27 s</span>
+        <h3>"Our AI doesn't know what's trending"</h3>
+        <p class="idea">A shop owner's AI gives outdated answers. Adding live Naver and Google search fixes it, shown with a real demo.</p>
+        <div class="meta"><span class="pill g">AI builders</span><span class="pill">E-commerce</span><span class="pill">Awareness</span></div>
+        <details open>
+          <summary>Plot</summary>
+          <ol class="beats">
+            <li><span class="t">0–8 s</span><span>Seoyun: our shopping-mall AI doesn't know current trends because its training data is old.</span></li>
+            <li><span class="t">9–15 s</span><span>She connected Naver and Google live search through SerpApi. Now it answers "as of today" and shows its sources.</span></li>
+            <li><span class="t">16–21 s</span><span>Real screen recording: my Korean search agent returns live Naver and Google results with source links.</span></li>
+            <li><span class="t">22–27 s</span><span>Tagline and free-plan call to action.</span></li>
+          </ol>
+        </details>
+        <details>
+          <summary>On-screen text, translated</summary>
+          <div class="tr">
+            <div><span class="ko">실시간 검색 + AI</span><span class="en">Live search + AI</span></div>
+            <div><span class="ko">네이버 · 구글 결과로, 출처 있는 답</span><span class="en">Answers with sources, from Naver and Google results</span></div>
+            <div><span class="ko">검색이 데이터가 되는 순간</span><span class="en">The moment search becomes data</span></div>
+          </div>
+        </details>
+      </div>
+    </article>
+
+    <article class="card">
+      <video controls playsinline preload="metadata" poster="media/reel-2-poster.jpg" src="media/reel-2-error-to-coffee.mp4"></video>
+      <div class="body">
+        <span class="num">Reel 2 · 23 s</span>
+        <h3>"From scraper errors to coffee"</h3>
+        <p class="idea">A developer's broken scraper becomes a relaxed coffee break, because SerpApi handles blocks, CAPTCHAs and parsing.</p>
+        <div class="meta"><span class="pill g">Developers</span><span class="pill">Relatable humor</span><span class="pill">Awareness</span></div>
+        <details open>
+          <summary>Plot</summary>
+          <ol class="beats">
+            <li><span class="t">0–7 s</span><span>Hook: Seoyun facepalms at her laptop because her scraper broke again.</span></li>
+            <li><span class="t">8–15 s</span><span>She closes the error window and explains that SerpApi deals with blocks, CAPTCHAs and parsing errors.</span></li>
+            <li><span class="t">16–23 s</span><span>Payoff: she sips an iced americano. The call to action says Naver and Google results take one API call.</span></li>
+          </ol>
+        </details>
+        <details>
+          <summary>On-screen text, translated</summary>
+          <div class="tr">
+            <div><span class="ko">크롤링 코드, 또 에러…</span><span class="en">The scraper broke again…</span></div>
+            <div><span class="ko">검색 데이터 모아본 개발자라면 공감</span><span class="en">Every dev who's collected search data knows this feeling</span></div>
+            <div><span class="ko">차단 · CAPTCHA · 파싱 에러 → SerpApi가 대신 처리해요</span><span class="en">Blocks · CAPTCHAs · parsing errors → SerpApi handles them for you</span></div>
+            <div><span class="ko">그래서 저는 이제 커피 마셔요</span><span class="en">So now I just drink coffee</span></div>
+            <div><span class="ko">네이버 · 구글 검색 결과를 API 한 줄로 · 무료로 시작 · 데모는 프로필 링크</span><span class="en">Naver and Google results in one API call · Start free · Demo link in bio</span></div>
+          </div>
+        </details>
+      </div>
+    </article>
+
+    <article class="card">
+      <video controls playsinline preload="metadata" poster="media/reel-3-poster.jpg" src="media/reel-3-keyword-match.mp4"></video>
+      <div class="body">
+        <span class="num">Reel 3 · 28 s</span>
+        <h3>"Same keyword, different #1"</h3>
+        <p class="idea">Naver and Google rank the same keyword differently. My comparison app shows both, and viewers are invited to comment their own keyword.</p>
+        <div class="meta"><span class="pill g">Sellers &amp; marketers</span><span class="pill">Demo</span><span class="pill">Engagement</span></div>
+        <details open>
+          <summary>Plot</summary>
+          <ol class="beats">
+            <li><span class="t">0–6 s</span><span>Hook question: same keyword, different #1 result?</span></li>
+            <li><span class="t">7–14 s</span><span>At her monitor, Seoyun shows Naver and Google results side by side.</span></li>
+            <li><span class="t">15–19 s</span><span>Concept screen of the "Keyword Visibility Match" dashboard. Its numbers are illustrative.</span></li>
+            <li><span class="t">19–28 s</span><span>She points down: free demo at the link in bio, and comment a keyword to get a comparison.</span></li>
+          </ol>
+        </details>
+        <details>
+          <summary>On-screen text, translated</summary>
+          <div class="tr">
+            <div><span class="ko">같은 키워드, 다른 1위?</span><span class="en">Same keyword, different #1?</span></div>
+            <div><span class="ko">같은 검색어 · 다른 결과 — SerpApi로 두 엔진을 한 화면에</span><span class="en">Same query, different results. Both engines on one screen with SerpApi.</span></div>
+            <div><span class="ko">키워드 가시성 매치: 내 키워드, 어디서 더 잘 보일까?</span><span class="en">Keyword Visibility Match: where does my keyword show up better?</span></div>
+            <div><span class="ko">무료 데모는 프로필 링크 · 댓글에 키워드 남기면 비교해드려요</span><span class="en">Free demo: link in bio · Drop a keyword in the comments and I'll compare it</span></div>
+          </div>
+        </details>
+      </div>
+    </article>
+  </div>
+
+  <h2>2. Ad cards</h2>
+  <p class="h2sub">Feed ads (4:5) for two audiences and two presenters. Each card is also made in 9:16 for Stories.</p>
+  <div class="ads">
+    <article class="card">
+      <img src="media/ad-01_seller_visibility.jpg" alt="Ad card: Page 1 on Naver, missing on Google?" loading="lazy">
+      <div class="body"><span class="num">Sellers</span>
+        <div class="tr">
+          <div><span class="ko">네이버 1페이지인데, 구글엔 없다?</span><span class="en">Page 1 on Naver, but missing on Google?</span></div>
+          <div><span class="en">Compare where your product keyword ranks on both engines.<br>Button: "Check my keyword for free"</span></div>
+        </div></div>
+    </article>
+    <article class="card">
+      <img src="media/ad-03_office_ai_trends.jpg" alt="Ad card: Your AI chatbot doesn't know the trends?" loading="lazy">
+      <div class="body"><span class="num">AI builders</span>
+        <div class="tr">
+          <div><span class="ko">요즘 트렌드를 모른다고요?</span><span class="en">Your company's AI chatbot doesn't know what's trending?</span></div>
+          <div><span class="en">Training data stops in the past. Live search answers as of today, with sources.<br>Button: "Start with the free plan"</span></div>
+        </div></div>
+    </article>
+    <article class="card">
+      <img src="media/ad-05_doyun_crawler_allnighter.jpg" alt="Ad card: Ever pulled an all-nighter on a scraper?" loading="lazy">
+      <div class="body"><span class="num">Developers</span>
+        <div class="tr">
+          <div><span class="ko">크롤링 코드 짜다가 밤새본 적 있으시죠?</span><span class="en">Ever pulled an all-nighter writing a scraper?</span></div>
+          <div><span class="en">SerpApi handles blocks, CAPTCHAs and parsing, so you can build features.<br>Button: "Start with the free plan"</span></div>
+        </div></div>
+    </article>
+    <article class="card">
+      <img src="media/ad-06_doyun_one_line_api.jpg" alt="Ad card: Naver results in one API call" loading="lazy">
+      <div class="body"><span class="num">Developers</span>
+        <div class="tr">
+          <div><span class="ko">네이버 검색 결과, API 한 줄이면 끝이에요</span><span class="en">Naver search results take just one API call</span></div>
+          <div><span class="en">Shows <code>engine=naver&amp;query=…</code> and clean JSON.<br>Button: "See the code (link in bio)"</span></div>
+        </div></div>
+    </article>
+  </div>
+
+  <h2>3. 4-week calendar (abbreviated)</h2>
+  <p class="h2sub">The rhythm is 3 reels, 2 ad cards and daily Stories a week. Each week builds on the one before it. <span class="done">●</span> = finished on this page.</p>
+  <div class="tablewrap">
+  <table>
+    <thead><tr><th style="width:17%">Week</th><th>Reels (Tue · Thu · Sat)</th><th style="width:20%">Ad cards</th><th style="width:22%">Stories &amp; community</th><th style="width:16%">What I'd measure</th></tr></thead>
+    <tbody>
+      <tr><td><span class="wk">Week 1</span><b>Pain points</b></td>
+        <td><span class="done">●</span> Reel 2 "Errors to coffee"<br><span class="done">●</span> Reel 1 "AI doesn't know trends"<br>"Naver vs Google: 3 differences" (carousel)</td>
+        <td><span class="done">●</span> Developers: all-nighter<br><span class="done">●</span> AI builders: trends</td>
+        <td>Poll: "Have you ever built a scraper?"</td>
+        <td>3-second hold rate, saves</td></tr>
+      <tr><td><span class="wk">Week 2</span><b>Show the demo</b></td>
+        <td><span class="done">●</span> Reel 3 "Same keyword, different #1"<br>Live demo screen recording<br>Korean tutorial teaser (Velog)</td>
+        <td><span class="done">●</span> Sellers: Naver vs Google<br><span class="done">●</span> Developers: one API call</td>
+        <td>Reply to keyword comments with comparison Stories</td>
+        <td>Comments, profile link clicks</td></tr>
+      <tr><td><span class="wk">Week 3</span><b>Use cases</b></td>
+        <td>Sellers: price and keyword tracking<br>AI agent plus live search (Doyun)<br>Seoyun × Doyun duo reel</td>
+        <td>Sellers: check before buying ads<br>AI builders: give agents search</td>
+        <td>Q&amp;A sticker answered on camera</td>
+        <td>Shares, follows from Reels</td></tr>
+      <tr><td><span class="wk">Week 4</span><b>Proof and recap</b></td>
+        <td>"Your keywords, compared" (best comments)<br>"What I learned comparing Naver and Google"<br>Month recap</td>
+        <td>Retarget engaged viewers with "Search becomes data"</td>
+        <td>Highlight reel saved to profile</td>
+        <td>Demo visits and free-plan sign-ups (UTM links)</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <div class="rules">
+    <div class="rule"><b>Korean first</b>Natural 해요체 copy, the way Korean developers actually talk, not translated English.</div>
+    <div class="rule"><b>Honest by default</b>AI characters are labeled, only real demo data is shown, and illustrative screens are marked.</div>
+    <div class="rule"><b>One goal per post</b>Every reel and card ends with one action: the demo, the free plan, or a comment.</div>
+  </div>
+
+  <footer>Made by Theresa Tak for her SerpApi Developer Advocate (Korean) application.</footer>
+</main>
+</body>
+</html>
